@@ -14,18 +14,30 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         ) {
           nodes {
             id
-            fields {
-              slug
-            }
-            frontmatter {
-              lat
-              lng
-            }
           }
         }
       }
     `
   );
+  //   `
+  //   {
+  //     postsRemark: allMarkdownRemark(
+  //       sort: { fields: [frontmatter___date], order: ASC }
+  //       limit: 1000
+  //     ) {
+  //       nodes {
+  //         id
+  //         fields {
+  //           slug
+  //         }
+  //         frontmatter {
+  //           lat
+  //           lng
+  //         }
+  //       }
+  //     }
+  //   }
+  // `
   if (result.errors) {
     reporter.panicOnBuild(
       `There was an error loading your blog posts`,

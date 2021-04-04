@@ -1,8 +1,7 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/layout";
-import SEO from "../components/seo";
-import Listing from "../components/Listing";
+const windmills = [];
 export default ({ data, location }) => {
   const posts = data.allMarkdownRemark.nodes;
   console.log("::posts", posts);
@@ -11,7 +10,7 @@ export default ({ data, location }) => {
   }
   return (
     <Layout location={location}>
-      <SEO title="" />
+      {/* <SEO title="" />
       {posts.length ? (
         <div className="listings">
           {posts.map((post, i) => (
@@ -20,7 +19,7 @@ export default ({ data, location }) => {
         </div>
       ) : (
         ""
-      )}
+      )} */}
     </Layout>
   );
 };
@@ -39,18 +38,18 @@ export const pageQuery = graphql`
         }
         frontmatter {
           title
-          date(formatString: "DD MMM YYYY")
-          description
-          tags
-          images {
-            publicURL
-            childImageSharp {
-              fixed(width: 400, height: 250) {
-                # ...GatsbyImageSharpFixed
-                ...GatsbyImageSharpFixed_tracedSVG
-              }
-            }
-          }
+          # date(formatString: "DD MMM YYYY")
+          # description
+          # tags
+          # images {
+          #   publicURL
+          #   childImageSharp {
+          #     fixed(width: 400, height: 250) {
+          #       # ...GatsbyImageSharpFixed
+          #       ...GatsbyImageSharpFixed_tracedSVG
+          #     }
+          #   }
+          # }
         }
       }
     }
