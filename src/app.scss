@@ -1,0 +1,33 @@
+$brand-1: #034872;
+$brand-2: #b74673;
+$neutral-1: #ddd8d8;
+$neutral-2: #e6e2e2;
+$neutral-3: #f8f8f8; // gatsby SVG backgroundColor
+@import url("https://fonts.googleapis.com/css?family=Play:400,700");
+@import "./utilities";
+@import "./reset";
+body {
+  font-family: Play, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  @include responsive-value(
+    $size-min: 14px,
+    $size-max: 18px,
+    $width-min: 300px,
+    $width-max: 1800px,
+    $property: "font-size"
+  );
+}
+main {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 1em 1em;
+}
+a {
+  color: $brand-2;
+  text-decoration: none;
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}

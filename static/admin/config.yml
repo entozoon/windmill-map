@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "windmills"
+    label: "Windmills"
+    folder: "content/windmills"
+    create: true
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "lat", name: "lat", widget: "string" }
+      - { label: "lng", name: "lng", widget: "string" }

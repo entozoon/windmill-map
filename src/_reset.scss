@@ -1,0 +1,159 @@
+// A subset of styles from Modern Normalize
+// https://github.com/sindresorhus/modern-normalize/blob/master/modern-normalize.css
+* {
+  box-sizing: border-box;
+  &::before,
+  &::after {
+    box-sizing: inherit;
+  }
+}
+body {
+  // Remove default margins and center
+  margin: 0 auto;
+}
+// IE11 doesn't recognise html5 elements as block by default unlike newer browsers
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+mark,
+nav,
+section,
+summary,
+time {
+  display: block;
+}
+button {
+  border-width: 0;
+  border-radius: 0;
+  padding: 0;
+  background-color: transparent;
+  line-height: inherit;
+  font-weight: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  text-align: inherit; // Reset user agent
+  &:not(:disabled) {
+    cursor: pointer;
+  }
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  line-height: inherit;
+  background-color: transparent;
+  margin: 0; // Removes default margin in Safari
+}
+select {
+  border-radius: 0;
+  border-width: 0;
+  color: inherit;
+  &::-ms-expand {
+    display: none;
+  }
+}
+textarea {
+  vertical-align: top; // Removes whitespace underneath
+}
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+img {
+  height: auto;
+}
+svg {
+  max-height: 100%; // Fixes Safari bug
+  &:not(:root) {
+    // Show content outside of SVG viewbox so it can be seen when animated
+    overflow: visible;
+  }
+}
+ul[class] {
+  // Would remove padding and margins here, but they're most likely going to be overriden and ul[class] has a level of extra specificity over just using a class name
+  list-style: none;
+}
+// Stop Webkit (Safari) forcing rounded borders
+// https://stackoverflow.com/a/2918716
+input[type="search"] {
+  -webkit-appearance: textfield;
+}
+// Stop Webkit (Safari) forcing widths and whatnot on date inputs
+// https://stackoverflow.com/a/31523871
+input[type="date"] {
+  // Fixes Safari date input appearance
+  -moz-appearance: textfield;
+  -webkit-appearance: textfield;
+}
+table {
+  border-collapse: collapse;
+  // Need this so that you can remove gaps between cells
+}
+// Let elements within a <th> or <td> fill the height of parent if flex
+// https://codepen.io/techdept/pen/gZmmaj
+table,
+tr {
+  // height: 100%;
+  // Removed, as it makes rows massive on FF
+}
+// Table vertical alignment default to top, as browsers are inconsistent
+th,
+td {
+  // vertical-align: top;
+}
+/**
+ * Add the correct text decoration in Chrome, Edge, and Safari.
+ */
+abbr[title] {
+  text-decoration: underline dotted;
+}
+// Correct default font weight
+strong {
+  font-weight: 600;
+}
+// Prevent <sub> and <sup> elements from affecting the line height in all browsers
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sub {
+  bottom: -0.25em;
+}
+sup {
+  top: -0.5em;
+}
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}
+fieldset {
+  padding: 0;
+  border-width: 0;
+}
+address {
+  font-style: inherit;
+  // Have to style this like a <p> as the compiler won't let me put <address> inside <p>
+  // Errors parsing template: Unexpected closing tag "p"
+  margin-bottom: 1em;
+}
+dd {
+  margin-left: 0;
+}

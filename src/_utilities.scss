@@ -1,0 +1,68 @@
+/**
+ * responsive-value
+ * Scale a property with viewport width, but constrained with a min/max size and viewport width, e.g.
+    // Scale font from 12px -> 18px between 1000px and 2000px viewport width
+    body {
+        @include responsive-value(
+            $size-min: 12px,
+            $size-max: 18px,
+            $width-min: 768px,
+            $width-max: 2000px
+        );
+        // Shorthand
+        @include responsive-value(12px, 18px, 768px, 2000px);
+        // Other properties (as it defaults to font-size)
+        @include responsive-value(12px, 18px, 768px, 2000px, 'margin-bottom');
+     }
+ * NOTE: Must all be pixel values!
+ */
+@mixin responsive-value(
+  $size-min,
+  $size-max,
+  $width-min: 768px,
+  $width-max: 2000px,
+  $property: "font-size"
+) {
+  // Min size
+  #{$property}: $size-min;
+  // Scaling within constraints
+  @media screen and (min-width: $width-min) {
+    #{$property}: calc(
+      #{$size-min} + #{strip-unit($size-max - $size-min)} *
+        ((100vw - #{$width-min}) / #{strip-unit($width-max - $width-min)})
+    );
+  }
+  // Max size
+  @media screen and (min-width: $width-max) {
+    #{$property}: $size-max;
+  }
+}
+// Required for the above
+@function strip-unit($value) {
+  @return $value / ($value * 0 + 1);
+}
+@mixin edging($inset, $padding: $inset, $invert: false) {
+  $sin26deg: 0.43837114678;
+  @if ($padding) {
+    padding: $padding * $sin26deg $inset;
+  }
+  @if ($invert) {
+    clip-path: polygon(
+      $inset 0,
+      100% 0,
+      100% calc(100% - #{$inset * $sin26deg}),
+      calc(100% - #{$inset}) 100%,
+      0 100%,
+      0 $inset * $sin26deg
+    );
+  } @else {
+    clip-path: polygon(
+      0 0,
+      calc(100% - #{$inset}) 0,
+      100% $inset * $sin26deg,
+      100% 100%,
+      $inset 100%,
+      0 calc(100% - #{$inset * $sin26deg})
+    );
+  }
+}

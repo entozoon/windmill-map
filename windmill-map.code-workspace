@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "search.exclude": {
+      "_assets/**": true
+    },
+    "editor.formatOnSave": true,
+    "[php]": {
+      "editor.formatOnSave": false
+    },
+    "peacock.color": "#113",
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#1e1e59",
+      "activityBar.activeBorder": "#a73838",
+      "activityBar.background": "#1e1e59",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#a73838",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "statusBar.background": "#111133",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#1e1e59",
+      "titleBar.activeBackground": "#111133",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#11113399",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+  }
+}
