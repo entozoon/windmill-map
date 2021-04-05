@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { Link } from "gatsby";
 import Logo from "../logo.inline.svg";
+
 const Layout = ({ location, children }) => {
   return (
     <>

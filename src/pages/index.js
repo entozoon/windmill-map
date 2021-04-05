@@ -1,7 +1,13 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
+import axios from "axios";
 import Layout from "../components/layout";
+import { dump } from "./dump";
 const windmills = [];
+var axiosInstance = axios.create({
+  baseURL: "https://en.wikipedia.org/wiki",
+  timeout: 5000,
+});
 export default ({ data, location }) => {
   const posts = data.allMarkdownRemark.nodes;
   console.log("::posts", posts);
@@ -20,6 +26,11 @@ export default ({ data, location }) => {
       ) : (
         ""
       )} */}
+      {/* <div
+        dangerouslySetInnerHTML={{
+          __html: dump,
+        }}
+      /> */}
     </Layout>
   );
 };
