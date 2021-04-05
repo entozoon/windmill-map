@@ -45,26 +45,26 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     );
     return;
   }
-  const posts = result.data.postsRemark.nodes;
+  // const posts = result.data.postsRemark.nodes;
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
   // `context` is available in the template as a prop and as a variable in GraphQL
-  if (posts.length > 0) {
-    posts.forEach((post, index) => {
-      const previousPostId = index === 0 ? null : posts[index - 1].id;
-      const nextPostId =
-        index === posts.length - 1 ? null : posts[index + 1].id;
-      createPage({
-        path: post.fields.slug,
-        component: templatePost,
-        context: {
-          id: post.id,
-          previousPostId,
-          nextPostId,
-        },
-      });
-    });
-  }
+  // if (posts.length > 0) {
+  //   posts.forEach((post, index) => {
+  //     const previousPostId = index === 0 ? null : posts[index - 1].id;
+  //     const nextPostId =
+  //       index === posts.length - 1 ? null : posts[index + 1].id;
+  //     createPage({
+  //       path: post.fields.slug,
+  //       component: templatePost,
+  //       context: {
+  //         id: post.id,
+  //         previousPostId,
+  //         nextPostId,
+  //       },
+  //     });
+  //   });
+  // }
 };
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
