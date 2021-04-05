@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Buckland",
+    "lat": 51.24262,
+    "lng": -0.2526,
+    "url": "http://www.windmillworld.com/millid/2595.htm",
+    "location": "Buckland",
+    "type": "smock",
+    "condition": "small mill on top of building, assumed to be for driving a saw mill, now in working order"
+  },
+  {
+    "name": "Shiremark Mill",
+    "lat": 51.1256,
+    "lng": -0.324,
+    "url": "http://www.windmillworld.com/millid/2587.htm",
+    "location": "Capel",
+    "type": "smock",
+    "condition": "substantially destroyed by fire 1972"
+  },
+  {
+    "name": "Charlwood",
+    "lat": 51.15404,
+    "lng": -0.2216,
+    "url": "http://www.windmillworld.com/millid/2601.htm",
+    "location": "Charlwood",
+    "type": "smock",
+    "condition": "residential conversion"
+  },
+  {
+    "name": "Lowfield Heath Mill",
+    "lat": 51.15244,
+    "lng": -0.2356,
+    "url": "http://www.windmillworld.com/millid/2596.htm",
+    "location": "Charlwood",
+    "type": "post",
+    "condition": "\n      used to stand at Lowfield Heath in Sussex, but was moved\n      to Charlwood in 1989\n    "
+  },
+  {
+    "name": "Hungry Corner Mill",
+    "lat": 51.09754,
+    "lng": -0.6414,
+    "url": "http://www.windmillworld.com/millid/1834.htm",
+    "location": "Chiddingfold",
+    "type": "smock",
+    "condition": "base remains"
+  },
+  {
+    "name": "Mugswell Mill",
+    "lat": 51.27844,
+    "lng": -0.1972,
+    "url": "http://www.windmillworld.com/millid/2603.htm",
+    "location": "Chipstead",
+    "type": "post",
+    "condition": "roundhouse remains"
+  },
+  {
+    "name": "Hurt Wood Mill",
+    "lat": 51.1727,
+    "lng": -0.4601,
+    "url": "http://www.windmillworld.com/millid/2575.htm",
+    "location": "Ewhurst",
+    "type": "tower",
+    "condition": "residential conversion"
+  },
+  {
+    "name": "Frimley Green",
+    "lat": 51.29786,
+    "lng": -0.7159,
+    "url": "http://www.windmillworld.com/millid/1828.htm",
+    "location": "Frimley Green",
+    "type": "tower",
+    "condition": "residential conversion"
+  },
+  {
+    "name": "Almer's Mill",
+    "lat": 51.14278,
+    "lng": -0.3618,
+    "url": "http://www.windmillworld.com/millid/2585.htm",
+    "location": "Ockley",
+    "type": "smock",
+    "condition": "\n      Collpsed 1944, leaving just the base.\n      In process of being reconstructed as authentic looking mill, but for residential use.\n    "
+  },
+  {
+    "name": "Outwood Post Mill",
+    "lat": 51.19375,
+    "lng": -0.1012,
+    "url": "http://www.windmillworld.com/millid/2622.htm",
+    "location": "Outwood",
+    "type": "post",
+    "condition": "dated 1665, in working order"
+  },
+  {
+    "name": "Reigate Heath",
+    "lat": 51.23616,
+    "lng": -0.2332,
+    "url": "http://www.windmillworld.com/millid/2599.htm",
+    "location": "Reigate Heath",
+    "type": "post",
+    "condition": "conserved - roundhouse used as a church"
+  },
+  {
+    "name": "Tadworth",
+    "lat": 51.2843,
+    "lng": -0.2286,
+    "url": "http://www.windmillworld.com/millid/2600.htm",
+    "location": "Tadworth",
+    "type": "post",
+    "condition": null
+  },
+  {
+    "name": "Wray Common Mill",
+    "lat": 51.24478,
+    "lng": -0.1833,
+    "url": "http://www.windmillworld.com/millid/2607.htm",
+    "location": "Wray Common",
+    "type": "tower",
+    "condition": "residential conversion"
+  }
+]

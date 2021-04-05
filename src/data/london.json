@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Barnet Gate Mill",
+    "lat": 51.64319,
+    "lng": -0.2422,
+    "url": "http://www.windmillworld.com/millid/2594.htm",
+    "location": "\nArkley\n",
+    "type": "tower mill",
+    "condition": "Well maintained external appearance, with 4 sails. Not open to the public."
+  },
+  {
+    "name": "Ashby's Mill",
+    "lat": 51.45321,
+    "lng": -0.1238,
+    "url": "http://www.windmillworld.com/millid/2617.htm",
+    "location": "\nBrixton\n",
+    "type": "tower mill",
+    "condition": "\n      Subject to an extensive restoration in early 2011 and now regularly open to the public.\n      New visitor centre being constructed 2019-2020.\n    "
+  },
+  {
+    "name": "\nClerkenwell\n",
+    "lat": 51.5285,
+    "lng": -0.1094,
+    "url": "http://www.windmillworld.com/millid/2618.htm",
+    "location": "\nClerkenwell\n",
+    "type": "tower mill",
+    "condition": "truncated tower, within the waterworks site"
+  },
+  {
+    "name": "\nErith\n",
+    "lat": 51.47365,
+    "lng": 0.16051,
+    "url": "http://www.windmillworld.com/millid/2643.htm",
+    "location": "\nErith\n",
+    "type": "post mill",
+    "condition": "part of the roundhouse wall, incorporated into a general boundary wall"
+  },
+  {
+    "name": "\nKeston\n",
+    "lat": 51.35769,
+    "lng": 0.03154,
+    "url": "http://www.windmillworld.com/millid/2634.htm",
+    "location": "\nKeston\n",
+    "type": "post mill",
+    "condition": "conserved, occasionally open to the public"
+  },
+  {
+    "name": "\nMitcham Common\n",
+    "lat": 51.39502,
+    "lng": -0.145,
+    "url": "http://www.windmillworld.com/millid/2612.htm",
+    "location": "\nMitcham Common\n",
+    "type": "Hollow-post",
+    "condition": "bare trestle remains, previously deteriorating rapidly, but now stabilized"
+  },
+  {
+    "name": "Common Mill",
+    "lat": 51.48171,
+    "lng": 0.0841,
+    "url": "http://www.windmillworld.com/millid/2638.htm",
+    "location": "\nPlumstead\n",
+    "type": "tower mill",
+    "condition": "converted, providing accomodation above the Old Mill pub"
+  },
+  {
+    "name": "\nShirley\n",
+    "lat": 51.36887,
+    "lng": -0.0548,
+    "url": "http://www.windmillworld.com/millid/2624.htm",
+    "location": "\nShirley\n",
+    "type": "tower mill",
+    "condition": "restored and open to the public"
+  },
+  {
+    "name": "Crane Park Mill",
+    "lat": 51.44333,
+    "lng": -0.377,
+    "url": "http://www.windmillworld.com/millid/2583.htm",
+    "location": "\nTwickenham\n",
+    "type": "tower",
+    "condition": "Used as a nature and visitor centre by the London Wildlife Trust"
+  },
+  {
+    "name": "\nUpminster\n",
+    "lat": 51.5579,
+    "lng": 0.24507,
+    "url": "http://www.windmillworld.com/millid/2653.htm",
+    "location": "\nUpminster\n",
+    "type": "smock mill",
+    "condition": "undergoing extensive restoration 2016-2020"
+  },
+  {
+    "name": "Common Mill",
+    "lat": 51.45499,
+    "lng": -0.1763,
+    "url": "http://www.windmillworld.com/millid/2606.htm",
+    "location": "\nWandsworth\n",
+    "type": "smock mill",
+    "condition": "small mill, for pumping - no sails remaining"
+  },
+  {
+    "name": "\nWimbledon\n",
+    "lat": 51.43762,
+    "lng": -0.2316,
+    "url": "http://www.windmillworld.com/millid/2598.htm",
+    "location": "\nWimbledon\n",
+    "type": "hollow post mill",
+    "condition": "Much altered from its working appearance. Now a milling museum and regularly open."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Jackson's Mill",
+    "lat": 54.78661,
+    "lng": -1.3643,
+    "url": "http://www.windmillworld.com/millid/1408.htm",
+    "location": "Easington",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Thorpe Moor Mill",
+    "lat": 54.77281,
+    "lng": -1.3605,
+    "url": "http://www.windmillworld.com/millid/1413.htm",
+    "location": "Easington",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Dean Bank Mill",
+    "lat": 54.68687,
+    "lng": -1.5736,
+    "url": "http://www.windmillworld.com/millid/1365.htm",
+    "location": "Ferryhill",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Heworth Mill",
+    "lat": 54.59173,
+    "lng": -1.5524,
+    "url": "http://www.windmillworld.com/millid/1368.htm",
+    "location": "Newton Aycliffe",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Redworth",
+    "lat": 54.60559,
+    "lng": -1.6454,
+    "url": "http://www.windmillworld.com/millid/1339.htm",
+    "location": "Redworth",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Ushaw Moor Mill",
+    "lat": 54.7888,
+    "lng": -1.6667,
+    "url": "http://www.windmillworld.com/millid/1336.htm",
+    "location": "Ushaw Moor",
+    "type": "tower",
+    "condition": "ruined base"
+  }
+]

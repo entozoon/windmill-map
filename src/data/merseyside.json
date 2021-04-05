@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Bidston Hill",
+    "lat": 53.39627,
+    "lng": -3.0722,
+    "url": "http://www.windmillworld.com/millid/1228.htm",
+    "location": "Bidston Hill",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Gayton",
+    "lat": 53.32242,
+    "lng": -3.0838,
+    "url": "http://www.windmillworld.com/millid/1227.htm",
+    "location": "Gayton",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Moor Lane Mill",
+    "lat": 53.49575,
+    "lng": -3.0122,
+    "url": "http://www.windmillworld.com/millid/1459.htm",
+    "location": "Great Crosby",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Heswall",
+    "lat": 53.33401,
+    "lng": -3.0946,
+    "url": "http://www.windmillworld.com/millid/1226.htm",
+    "location": "Heswall",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Forest's Mill",
+    "lat": 53.528,
+    "lng": -2.9359,
+    "url": "http://www.windmillworld.com/millid/1466.htm",
+    "location": "Lydiate",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Marine Lake Mill",
+    "lat": 53.65316,
+    "lng": -3.0046,
+    "url": "http://www.windmillworld.com/millid/1461.htm",
+    "location": "Southport",
+    "type": "Wind Engine",
+    "condition": null
+  },
+  {
+    "name": "Ravenhead Mill",
+    "lat": 53.44189,
+    "lng": -2.7497,
+    "url": "http://www.windmillworld.com/millid/1248.htm",
+    "location": "St Helens",
+    "type": "tower mill",
+    "condition": null
+  }
+]

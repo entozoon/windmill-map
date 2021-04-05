@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Nixey's Mill",
+    "lat": 51.82207,
+    "lng": -1.0553,
+    "url": "http://www.windmillworld.com/millid/1664.htm",
+    "location": "\nBrill\n",
+    "type": "post",
+    "condition": "\n      Preserved - unable to turn to face wind.\n      Extensively restored in 2009, giving it a new external appearance with new roundhouse, rear steps,\n      weatherboarding and sails.\n    "
+  },
+  {
+    "name": "Caldecotte Arms Mill",
+    "lat": 52.01098,
+    "lng": -0.7078,
+    "url": "http://www.windmillworld.com/millid/1704.htm",
+    "location": "\nCaldecotte - Milton Keynes\n",
+    "type": "tower",
+    "condition": "built as a dummy mill (by professional millwrights) for pub/hotel complex"
+  },
+  {
+    "name": "Hawridge",
+    "lat": 51.75312,
+    "lng": -0.6466,
+    "url": "http://www.windmillworld.com/millid/1711.htm",
+    "location": "\nCholesbury\n",
+    "type": "tower",
+    "condition": "built on site of previous smock mill"
+  },
+  {
+    "name": "Grove's Mill",
+    "lat": 51.64412,
+    "lng": -0.6307,
+    "url": "http://www.windmillworld.com/millid/1833.htm",
+    "location": "\nColeshill\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nEdlesborough\n",
+    "lat": 51.86246,
+    "lng": -0.5748,
+    "url": "http://www.windmillworld.com/millid/1719.htm",
+    "location": "\nEdlesborough\n",
+    "type": "tower",
+    "condition": "(alongside watermill) - house converted"
+  },
+  {
+    "name": "Cobstone Mill",
+    "lat": 51.61701,
+    "lng": -0.8895,
+    "url": "http://www.windmillworld.com/millid/1819.htm",
+    "location": "\nIbstone\n",
+    "type": "smock",
+    "condition": "\n      cosmetically restored for a starring part in \"Chitty Chitty Bang Bang\".\n    "
+  },
+  {
+    "name": "\nLacey Green\n",
+    "lat": 51.69979,
+    "lng": -0.816,
+    "url": "http://www.windmillworld.com/millid/1695.htm",
+    "location": "\nLacey Green\n",
+    "type": "smock",
+    "condition": "conserved"
+  },
+  {
+    "name": "\nNew Bradwell - Milton Keynes\n",
+    "lat": 52.06225,
+    "lng": -0.7891,
+    "url": "http://www.windmillworld.com/millid/1696.htm",
+    "location": "\nNew Bradwell - Milton Keynes\n",
+    "type": "tower",
+    "condition": "restored"
+  },
+  {
+    "name": "\nNorth Marston\n",
+    "lat": 51.89825,
+    "lng": -0.8751,
+    "url": "http://www.windmillworld.com/millid/1690.htm",
+    "location": "\nNorth Marston\n",
+    "type": "tower",
+    "condition": "truncated"
+  },
+  {
+    "name": "\nPitstone\n",
+    "lat": 51.83176,
+    "lng": -0.6298,
+    "url": "http://www.windmillworld.com/millid/1713.htm",
+    "location": "\nPitstone\n",
+    "type": "post",
+    "condition": "conserved, owned by the National Trust"
+  },
+  {
+    "name": "\nQuainton\n",
+    "lat": 51.87556,
+    "lng": -0.9167,
+    "url": "http://www.windmillworld.com/millid/1681.htm",
+    "location": "\nQuainton\n",
+    "type": "tower",
+    "condition": "restored to working order"
+  },
+  {
+    "name": "\nThornborough\n",
+    "lat": 52.01055,
+    "lng": -0.9271,
+    "url": "http://www.windmillworld.com/millid/1679.htm",
+    "location": "\nThornborough\n",
+    "type": "tower",
+    "condition": "truncated"
+  },
+  {
+    "name": "\nWendover\n",
+    "lat": 51.76571,
+    "lng": -0.745,
+    "url": "http://www.windmillworld.com/millid/1702.htm",
+    "location": "\nWendover\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nWexham\n",
+    "lat": 51.55027,
+    "lng": -0.5661,
+    "url": "http://www.windmillworld.com/millid/1838.htm",
+    "location": "\nWexham\n",
+    "type": "tower",
+    "condition": "truncated and converted"
+  }
+]

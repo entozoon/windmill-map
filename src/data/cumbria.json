@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Eccle Riggs",
+    "lat": 54.2713,
+    "lng": -3.2115,
+    "url": "http://www.windmillworld.com/millid/1453.htm",
+    "location": "Broughton in Furness",
+    "type": "tower mill",
+    "condition": "ivy covered in 1994"
+  },
+  {
+    "name": "Windmill Hill",
+    "lat": 54.27009,
+    "lng": -3.2023,
+    "url": "http://www.windmillworld.com/millid/1454.htm",
+    "location": "Broughton in Furness",
+    "type": "tower mill",
+    "condition": "\n      remains described by Gareth Hughes as\n      \"just a short curved section of mortared wall built into a dry-stone field boundary\"\n    "
+  },
+  {
+    "name": "Cardewlees",
+    "lat": 54.85276,
+    "lng": -3.0171,
+    "url": "http://www.windmillworld.com/millid/1322.htm",
+    "location": "Cardewlees",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Cockermouth",
+    "lat": 54.66496,
+    "lng": -3.3675,
+    "url": "http://www.windmillworld.com/millid/1316.htm",
+    "location": "Cockermouth",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Haverigg Mill",
+    "lat": 54.19406,
+    "lng": -3.2507,
+    "url": "http://www.windmillworld.com/millid/1452.htm",
+    "location": "Hodbarrow",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Langrigg",
+    "lat": 54.798,
+    "lng": -3.2911,
+    "url": "http://www.windmillworld.com/millid/1318.htm",
+    "location": "Langrigg",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Monkhill",
+    "lat": 54.91743,
+    "lng": -3.0265,
+    "url": "http://www.windmillworld.com/millid/1321.htm",
+    "location": "Monkhill",
+    "type": "tower",
+    "condition": "house conversion"
+  },
+  {
+    "name": "Schoose Farm Mill",
+    "lat": 54.6372,
+    "lng": -3.5288,
+    "url": "http://www.windmillworld.com/millid/1315.htm",
+    "location": "Workington",
+    "type": "tower mill",
+    "condition": null
+  }
+]

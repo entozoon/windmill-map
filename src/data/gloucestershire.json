@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Clifton Down, Bristol",
+    "lat": 51.45669,
+    "lng": -2.6265,
+    "url": "http://www.windmillworld.com/millid/1755.htm",
+    "location": "Clifton Down, Bristol",
+    "type": "tower",
+    "condition": "former snuff mill, converted into observatory"
+  },
+  {
+    "name": "Falfield",
+    "lat": 51.63489,
+    "lng": -2.458,
+    "url": "http://www.windmillworld.com/millid/1758.htm",
+    "location": "Falfield",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "The Round House",
+    "lat": 51.99021,
+    "lng": -2.1932,
+    "url": "http://www.windmillworld.com/millid/extra2.htm",
+    "location": "Forthampton",
+    "type": "tower",
+    "condition": "house converted base remains"
+  },
+  {
+    "name": "Frampton Cotterell",
+    "lat": 51.52992,
+    "lng": -2.4741,
+    "url": "http://www.windmillworld.com/millid/1757.htm",
+    "location": "Frampton Cotterell",
+    "type": "tower",
+    "condition": "tower has no cap"
+  },
+  {
+    "name": "Grange Mill",
+    "lat": 51.86305,
+    "lng": -1.8871,
+    "url": "http://www.windmillworld.com/millid/1582.htm",
+    "location": "Hazelton",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Castle Hill",
+    "lat": 51.9599,
+    "lng": -2.4247,
+    "url": "http://www.windmillworld.com/millid/1565.htm",
+    "location": "Newent",
+    "type": "smock",
+    "condition": "built in 1920's to generate electricity"
+  },
+  {
+    "name": "Martin's Hill Mill",
+    "lat": 51.92718,
+    "lng": -1.693,
+    "url": "http://www.windmillworld.com/millid/1594.htm",
+    "location": "Oddington",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Siddington",
+    "lat": 51.6955,
+    "lng": -1.9405,
+    "url": "http://www.windmillworld.com/millid/1763.htm",
+    "location": "Siddington",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Folly Mill",
+    "lat": 51.65228,
+    "lng": -2.6702,
+    "url": "http://www.windmillworld.com/millid/1754.htm",
+    "location": "Tidenham",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Warmley",
+    "lat": 51.45288,
+    "lng": -2.4793,
+    "url": "http://www.windmillworld.com/millid/1756.htm",
+    "location": "Warmley",
+    "type": "tower",
+    "condition": "Ore crushing mill"
+  }
+]

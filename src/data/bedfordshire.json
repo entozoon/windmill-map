@@ -1,0 +1,119 @@
+[
+  {
+    "name": "\nDunstable\n",
+    "lat": 51.88544,
+    "lng": -0.5273,
+    "url": "http://www.windmillworld.com/millid/2259.htm",
+    "location": "\nDunstable\n",
+    "type": "tower",
+    "condition": "used as Sea Cadets headquarters"
+  },
+  {
+    "name": "\nHoughton Conquest\n",
+    "lat": 52.06897,
+    "lng": -0.4734,
+    "url": "http://www.windmillworld.com/millid/2262.htm",
+    "location": "\nHoughton Conquest\n",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "\nHulcote\n",
+    "lat": 52.03417,
+    "lng": -0.6269,
+    "url": "http://www.windmillworld.com/millid/1714.htm",
+    "location": "\nHulcote\n",
+    "type": "tower",
+    "condition": "truncated, house converted"
+  },
+  {
+    "name": "\nLower Dean\n",
+    "lat": 52.31606,
+    "lng": -0.4742,
+    "url": "http://www.windmillworld.com/millid/2261.htm",
+    "location": "\nLower Dean\n",
+    "type": "composite",
+    "condition": "collapsed 1959, and roundhouse reduced to 1 storey around 1969, now ruinous"
+  },
+  {
+    "name": "\nPotton\n",
+    "lat": 52.13333,
+    "lng": -0.2291,
+    "url": "http://www.windmillworld.com/millid/2292.htm",
+    "location": "\nPotton\n",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "\nSharnbrook\n",
+    "lat": 52.22302,
+    "lng": -0.5407,
+    "url": "http://www.windmillworld.com/millid/1723.htm",
+    "location": "\nSharnbrook\n",
+    "type": "tower",
+    "condition": "converted to observation tower"
+  },
+  {
+    "name": "\nShefford\n",
+    "lat": 52.04176,
+    "lng": -0.3252,
+    "url": "http://www.windmillworld.com/millid/2278.htm",
+    "location": "\nShefford\n",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "\nStanbridge\n",
+    "lat": 51.91095,
+    "lng": -0.6021,
+    "url": "http://www.windmillworld.com/millid/1717.htm",
+    "location": "\nStanbridge\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nStevington\n",
+    "lat": 52.16423,
+    "lng": -0.5512,
+    "url": "http://www.windmillworld.com/millid/2480.htm",
+    "location": "\nStevington\n",
+    "type": "post",
+    "condition": "restored"
+  },
+  {
+    "name": "\nThurleigh\n",
+    "lat": 52.212,
+    "lng": -0.4679,
+    "url": "http://www.windmillworld.com/millid/2263.htm",
+    "location": "\nThurleigh\n",
+    "type": "tower",
+    "condition": "recently house converted"
+  },
+  {
+    "name": "Doolittle",
+    "lat": 51.87136,
+    "lng": -0.5632,
+    "url": "http://www.windmillworld.com/millid/1722.htm",
+    "location": "\nTotternhoe\n",
+    "type": "tower",
+    "condition": "Windmill which also utilized water power.  Undergoing restoration."
+  },
+  {
+    "name": "\nUpper Dean\n",
+    "lat": 52.30153,
+    "lng": -0.4755,
+    "url": "http://www.windmillworld.com/millid/2260.htm",
+    "location": "\nUpper Dean\n",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "\nWoburn\n",
+    "lat": 51.98656,
+    "lng": -0.6317,
+    "url": "http://www.windmillworld.com/millid/1712.htm",
+    "location": "\nWoburn\n",
+    "type": "smock",
+    "condition": "base remains, house converted"
+  }
+]

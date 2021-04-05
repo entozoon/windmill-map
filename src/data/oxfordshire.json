@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Arncott",
+    "lat": 51.85004,
+    "lng": -1.1087,
+    "url": "http://www.windmillworld.com/millid/1655.htm",
+    "location": "Arncott",
+    "type": "post mill",
+    "condition": "collapsed 1950 - 2 piers survive"
+  },
+  {
+    "name": "East Mill",
+    "lat": 51.87936,
+    "lng": -1.1125,
+    "url": "http://www.windmillworld.com/millid/1654.htm",
+    "location": "Blackthorn",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "West Mill",
+    "lat": 51.87885,
+    "lng": -1.1124,
+    "url": "http://www.windmillworld.com/millid/1653.htm",
+    "location": "Blackthorn",
+    "type": "tower mill",
+    "condition": "truncated"
+  },
+  {
+    "name": "Bloxham Grove",
+    "lat": 52.0269,
+    "lng": -1.3357,
+    "url": "http://www.windmillworld.com/millid/1635.htm",
+    "location": "Bloxham",
+    "type": "post mill",
+    "condition": "small mill, restored 2008"
+  },
+  {
+    "name": "Chinnor",
+    "lat": 51.70368,
+    "lng": -0.9163,
+    "url": "http://www.windmillworld.com/millid/1682.htm",
+    "location": "Chinnor",
+    "type": "post mill",
+    "condition": "dismantled in 1965, but now being rebuilt.  Famous for having 3 crosstrees, and 6 quarterbars."
+  },
+  {
+    "name": "Milton Common Mill",
+    "lat": 51.71663,
+    "lng": -1.0787,
+    "url": "http://www.windmillworld.com/millid/1661.htm",
+    "location": "Great Haseley",
+    "type": "tower mill",
+    "condition": "restoration started in 2009"
+  },
+  {
+    "name": "North Leigh",
+    "lat": 51.81359,
+    "lng": -1.4406,
+    "url": "http://www.windmillworld.com/millid/1619.htm",
+    "location": "North Leigh",
+    "type": "tower mill",
+    "condition": "conserved but now in poor state of repair"
+  },
+  {
+    "name": "Wardington",
+    "lat": 52.1242,
+    "lng": -1.2905,
+    "url": "http://www.windmillworld.com/millid/1638.htm",
+    "location": "Wardington",
+    "type": "tower mill",
+    "condition": "built on top of watermill"
+  },
+  {
+    "name": "Littleworth Mill",
+    "lat": 51.74278,
+    "lng": -1.1488,
+    "url": "http://www.windmillworld.com/millid/1651.htm",
+    "location": "Wheatley",
+    "type": "tower mill",
+    "condition": "restored"
+  }
+]

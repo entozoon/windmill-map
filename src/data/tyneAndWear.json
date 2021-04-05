@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Cleadon",
+    "lat": 54.96185,
+    "lng": -1.3936,
+    "url": "http://www.windmillworld.com/millid/1399.htm",
+    "location": "Cleadon",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Fulwell Mill",
+    "lat": 54.92833,
+    "lng": -1.3899,
+    "url": "http://www.windmillworld.com/millid/1401.htm",
+    "location": "Fulwell",
+    "type": "tower",
+    "condition": "restored"
+  },
+  {
+    "name": "Heaton Mill",
+    "lat": 54.98564,
+    "lng": -1.5856,
+    "url": "http://www.windmillworld.com/millid/1358.htm",
+    "location": "Heaton, Newcastle",
+    "type": "tower",
+    "condition": "stump"
+  },
+  {
+    "name": "Chimney Mill",
+    "lat": 54.98384,
+    "lng": -1.6255,
+    "url": "http://www.windmillworld.com/millid/1343.htm",
+    "location": "Newcastle",
+    "type": "smock",
+    "condition": null
+  },
+  {
+    "name": "West Mill",
+    "lat": 54.94441,
+    "lng": -1.4483,
+    "url": "http://www.windmillworld.com/millid/1383.htm",
+    "location": "West Boldon",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Whickham",
+    "lat": 54.94388,
+    "lng": -1.6734,
+    "url": "http://www.windmillworld.com/millid/1335.htm",
+    "location": "Whickham",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Whitburn",
+    "lat": 54.95606,
+    "lng": -1.3659,
+    "url": "http://www.windmillworld.com/millid/1407.htm",
+    "location": "Whitburn",
+    "type": "tower",
+    "condition": "visual restoration"
+  }
+]

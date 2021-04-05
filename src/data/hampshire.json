@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Knowle Mill",
+    "lat": 50.68338,
+    "lng": -1.0957,
+    "url": "http://www.windmillworld.com/millid/8791.htm",
+    "location": "\nBembridge, Isle of Wight\n",
+    "type": "tower",
+    "condition": "restored, owned by the National Trust"
+  },
+  {
+    "name": "\nBursledon\n",
+    "lat": 50.89487,
+    "lng": -1.315,
+    "url": "http://www.windmillworld.com/millid/8695.htm",
+    "location": "\nBursledon\n",
+    "type": "tower",
+    "condition": "restored and working"
+  },
+  {
+    "name": "Calbourne, Isle of Wight",
+    "lat": 50.67982,
+    "lng": -1.4124,
+    "url": "http://www.windmillworld.com/millid/extra1.htm",
+    "location": "Calbourne, Isle of Wight",
+    "type": "minature mill",
+    "condition": "Small windmill, in the grounds of Calbourne water mill"
+  },
+  {
+    "name": "Chalton Mill",
+    "lat": 50.93982,
+    "lng": -0.9822,
+    "url": "http://www.windmillworld.com/millid/8752.htm",
+    "location": "\nChalton Down\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nCrux Easton\n",
+    "lat": 51.30442,
+    "lng": -1.3891,
+    "url": "http://www.windmillworld.com/millid/1777.htm",
+    "location": "\nCrux Easton\n",
+    "type": "Wind engine by John Wallis Titt",
+    "condition": "magnificently restored 2002"
+  },
+  {
+    "name": "Enham",
+    "lat": 51.22257,
+    "lng": -1.4516,
+    "url": "http://www.windmillworld.com/millid/extra7.htm",
+    "location": "Enham",
+    "type": "reduced size post mill",
+    "condition": "\n      Construction 2008-2012 at David Hayward's home.\n      Now relocated to local farm park.\n    "
+  },
+  {
+    "name": "Langstone Mill",
+    "lat": 50.83955,
+    "lng": -0.9786,
+    "url": "http://www.windmillworld.com/millid/8754.htm",
+    "location": "\nHavant\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nPorchester\n",
+    "lat": 50.83574,
+    "lng": -1.122,
+    "url": "http://www.windmillworld.com/millid/8715.htm",
+    "location": "\nPorchester\n",
+    "type": "tower",
+    "condition": "very truncated base"
+  },
+  {
+    "name": "Marland's Mill",
+    "lat": 51.02626,
+    "lng": -1.081,
+    "url": "http://www.windmillworld.com/millid/8730.htm",
+    "location": "\nWest Meon\n",
+    "type": "tower",
+    "condition": "truncated"
+  }
+]

@@ -1,0 +1,1712 @@
+[
+  {
+    "name": "Charlie Water's Mill",
+    "lat": 52.64304,
+    "lng": 1.56602,
+    "url": "http://www.windmillworld.com/millid/2210.htm",
+    "location": "\nAcle\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Clippesby Mill",
+    "lat": 52.65943,
+    "lng": 1.56108,
+    "url": "http://www.windmillworld.com/millid/2206.htm",
+    "location": "\nAshby with Oby\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Oby Mill",
+    "lat": 52.66827,
+    "lng": 1.56181,
+    "url": "http://www.windmillworld.com/millid/2207.htm",
+    "location": "\nAshby with Oby\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nAslacton\n",
+    "lat": 52.46849,
+    "lng": 1.17502,
+    "url": "http://www.windmillworld.com/millid/2507.htm",
+    "location": "\nAslacton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Cawston Road Mill",
+    "lat": 52.79192,
+    "lng": 1.24071,
+    "url": "http://www.windmillworld.com/millid/2144.htm",
+    "location": "\nAylsham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nBanham\n",
+    "lat": 52.45075,
+    "lng": 1.01952,
+    "url": "http://www.windmillworld.com/millid/2490.htm",
+    "location": "\nBanham\n",
+    "type": "composite mill",
+    "condition": null
+  },
+  {
+    "name": "Mill Road Mill",
+    "lat": 52.45288,
+    "lng": 1.04174,
+    "url": "http://www.windmillworld.com/millid/2492.htm",
+    "location": "\nBanham\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nBarnham Broom\n",
+    "lat": 52.62319,
+    "lng": 1.0654,
+    "url": "http://www.windmillworld.com/millid/2133.htm",
+    "location": "\nBarnham Broom\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Old Hall Mill",
+    "lat": 52.70602,
+    "lng": 1.39398,
+    "url": "http://www.windmillworld.com/millid/2157.htm",
+    "location": "\nBelaugh\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Black Mill",
+    "lat": 52.57288,
+    "lng": 1.64001,
+    "url": "http://www.windmillworld.com/millid/2247.htm",
+    "location": "\nBelton Marshes\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "High Mill",
+    "lat": 52.58651,
+    "lng": 1.63776,
+    "url": "http://www.windmillworld.com/millid/2245.htm",
+    "location": "\nBerney Arms\n",
+    "type": "tower mill",
+    "condition": "Owned by English Heritage, open regularly"
+  },
+  {
+    "name": "\nBillingford\n",
+    "lat": 52.36227,
+    "lng": 1.18113,
+    "url": "http://www.windmillworld.com/millid/2511.htm",
+    "location": "\nBillingford\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nBixley\n",
+    "lat": 52.60675,
+    "lng": 1.33046,
+    "url": "http://www.windmillworld.com/millid/2154.htm",
+    "location": "\nBixley\n",
+    "type": "tower mill",
+    "condition": "truncated to 7 floors from an original 11"
+  },
+  {
+    "name": "Blackborough End",
+    "lat": 52.70355,
+    "lng": 0.46195,
+    "url": "http://www.windmillworld.com/millid/9529.htm",
+    "location": "Blackborough End",
+    "type": "tower",
+    "condition": "3 storey residential rebuild from fragmentary remains"
+  },
+  {
+    "name": "Friary Mill",
+    "lat": 52.95436,
+    "lng": 1.0263,
+    "url": "http://www.windmillworld.com/millid/2124.htm",
+    "location": "\nBlakeney\n",
+    "type": "tower mill",
+    "condition": "Owned by the National Trust, not open to the public, but used for staff/volunteer accomodation"
+  },
+  {
+    "name": "\nBooton\n",
+    "lat": 52.75927,
+    "lng": 1.12537,
+    "url": "http://www.windmillworld.com/millid/2139.htm",
+    "location": "\nBooton\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Bressingham",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "location": "Bressingham",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "\nBriningham\n",
+    "lat": 52.86089,
+    "lng": 1.02275,
+    "url": "http://www.windmillworld.com/millid/2126.htm",
+    "location": "\nBriningham\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Belle Vue Mill",
+    "lat": 52.86044,
+    "lng": 1.02027,
+    "url": "http://www.windmillworld.com/millid/2125.htm",
+    "location": "\nBriningham\n",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "\nBroome\n",
+    "lat": 52.46669,
+    "lng": 1.45646,
+    "url": "http://www.windmillworld.com/millid/2536.htm",
+    "location": "\nBroome\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nBuckenham Ferry\n",
+    "lat": 52.58691,
+    "lng": 1.47307,
+    "url": "http://www.windmillworld.com/millid/2169.htm",
+    "location": "\nBuckenham Ferry\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "St Margaret's Mill",
+    "lat": 52.65157,
+    "lng": 1.57368,
+    "url": "http://www.windmillworld.com/millid/2215.htm",
+    "location": "\nBurgh St Margaret\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nBurgh St Peter\n",
+    "lat": 52.4821,
+    "lng": 1.63297,
+    "url": "http://www.windmillworld.com/millid/2558.htm",
+    "location": "\nBurgh St Peter\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nBurgh St Peter\n",
+    "lat": 52.49138,
+    "lng": 1.68236,
+    "url": "http://www.windmillworld.com/millid/2562.htm",
+    "location": "\nBurgh St Peter\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Union Mills",
+    "lat": 52.94929,
+    "lng": 0.74066,
+    "url": "http://www.windmillworld.com/millid/2100.htm",
+    "location": "\nBurnham Overy\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nBurnham Overy Staithe\n",
+    "lat": 52.95958,
+    "lng": 0.73446,
+    "url": "http://www.windmillworld.com/millid/2099.htm",
+    "location": "\nBurnham Overy Staithe\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nCarbrooke\n",
+    "lat": 52.57141,
+    "lng": 0.87967,
+    "url": "http://www.windmillworld.com/millid/2113.htm",
+    "location": "\nCarbrooke\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nCaston\n",
+    "lat": 52.54637,
+    "lng": 0.876,
+    "url": "http://www.windmillworld.com/millid/2471.htm",
+    "location": "\nCaston\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nCatfield\n",
+    "lat": 52.73338,
+    "lng": 1.53538,
+    "url": "http://www.windmillworld.com/millid/2190.htm",
+    "location": "\nCatfield\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Barton Broad Mill",
+    "lat": 52.74332,
+    "lng": 1.50358,
+    "url": "http://www.windmillworld.com/millid/2174.htm",
+    "location": "\nCatfield\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Middle Marsh Mill",
+    "lat": 52.73494,
+    "lng": 1.51328,
+    "url": "http://www.windmillworld.com/millid/2182.htm",
+    "location": "\nCatfield\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Swim Coots Mill",
+    "lat": 52.73469,
+    "lng": 1.5703,
+    "url": "http://www.windmillworld.com/millid/2209.htm",
+    "location": "\nCatfield\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "White Mill",
+    "lat": 52.77675,
+    "lng": 1.16507,
+    "url": "http://www.windmillworld.com/millid/2142.htm",
+    "location": "\nCawston\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nCley-Next-the-Sea\n",
+    "lat": 52.95467,
+    "lng": 1.04287,
+    "url": "http://www.windmillworld.com/millid/2129.htm",
+    "location": "\nCley-Next-the-Sea\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nDenver\n",
+    "lat": 52.58492,
+    "lng": 0.36765,
+    "url": "http://www.windmillworld.com/millid/2083.htm",
+    "location": "\nDenver\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Victoria Mill",
+    "lat": 52.36995,
+    "lng": 1.11803,
+    "url": "http://www.windmillworld.com/millid/2498.htm",
+    "location": "\nDiss\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nEast Dereham\n",
+    "lat": 52.67734,
+    "lng": 0.96202,
+    "url": "http://www.windmillworld.com/millid/2118.htm",
+    "location": "\nEast Dereham\n",
+    "type": "tower mill",
+    "condition": "Latest restoration 2013. Now operated as a Community Exhibition Centre"
+  },
+  {
+    "name": "\nEast Harling\n",
+    "lat": 52.4361,
+    "lng": 0.94188,
+    "url": "http://www.windmillworld.com/millid/2481.htm",
+    "location": "\nEast Harling\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nEast Runton\n",
+    "lat": 52.93291,
+    "lng": 1.27287,
+    "url": "http://www.windmillworld.com/millid/2149.htm",
+    "location": "\nEast Runton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "High Mill",
+    "lat": 52.8141,
+    "lng": 1.51374,
+    "url": "http://www.windmillworld.com/millid/2176.htm",
+    "location": "\nEast Ruston\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "New Mill",
+    "lat": 52.80877,
+    "lng": 1.5015,
+    "url": "http://www.windmillworld.com/millid/2171.htm",
+    "location": "\nEast Ruston\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "East Tunstall",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "location": "East Tunstall",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "\nEast Wretham\n",
+    "lat": 52.47906,
+    "lng": 0.8334,
+    "url": "http://www.windmillworld.com/millid/2467.htm",
+    "location": "\nEast Wretham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Emneth",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "location": "Emneth",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "\nErpingham\n",
+    "lat": 52.83287,
+    "lng": 1.26579,
+    "url": "http://www.windmillworld.com/millid/2148.htm",
+    "location": "\nErpingham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Holt Road Mill",
+    "lat": 52.83201,
+    "lng": 0.85229,
+    "url": "http://www.windmillworld.com/millid/2108.htm",
+    "location": "\nFakenham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Wilton Road Mill",
+    "lat": 52.47957,
+    "lng": 0.52959,
+    "url": "http://www.windmillworld.com/millid/2438.htm",
+    "location": "\nFeltwell\n",
+    "type": "tower mill",
+    "condition": "not much left of the tower"
+  },
+  {
+    "name": "\nFoulsham\n",
+    "lat": 52.78275,
+    "lng": 1.01257,
+    "url": "http://www.windmillworld.com/millid/2122.htm",
+    "location": "\nFoulsham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nFoxley\n",
+    "lat": 52.74717,
+    "lng": 1.00913,
+    "url": "http://www.windmillworld.com/millid/2121.htm",
+    "location": "\nFoxley\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nFrettenham\n",
+    "lat": 52.71078,
+    "lng": 1.32347,
+    "url": "http://www.windmillworld.com/millid/2153.htm",
+    "location": "\nFrettenham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Caldecott Mill",
+    "lat": 52.5609,
+    "lng": 1.63428,
+    "url": "http://www.windmillworld.com/millid/2244.htm",
+    "location": "\nFritton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "St Olaves Mill",
+    "lat": 52.5398,
+    "lng": 1.62159,
+    "url": "http://www.windmillworld.com/millid/2556.htm",
+    "location": "\nFritton\n",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "\nFritton Marshes\n",
+    "lat": 52.54071,
+    "lng": 1.61197,
+    "url": "http://www.windmillworld.com/millid/2555.htm",
+    "location": "\nFritton Marshes\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Croxton Mill",
+    "lat": 52.84323,
+    "lng": 0.93767,
+    "url": "http://www.windmillworld.com/millid/2115.htm",
+    "location": "\nFulmodeston\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nGarboldisham\n",
+    "lat": 52.3856,
+    "lng": 0.94143,
+    "url": "http://www.windmillworld.com/millid/2482.htm",
+    "location": "\nGarboldisham\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nGayton\n",
+    "lat": 52.74331,
+    "lng": 0.56476,
+    "url": "http://www.windmillworld.com/millid/2095.htm",
+    "location": "\nGayton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nGooderstone\n",
+    "lat": 52.5812,
+    "lng": 0.5843,
+    "url": "http://www.windmillworld.com/millid/2096.htm",
+    "location": "\nGooderstone\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nGreat Bircham\n",
+    "lat": 52.86265,
+    "lng": 0.61343,
+    "url": "http://www.windmillworld.com/millid/2097.htm",
+    "location": "\nGreat Bircham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nGreat Dunham\n",
+    "lat": 52.69118,
+    "lng": 0.78899,
+    "url": "http://www.windmillworld.com/millid/2104.htm",
+    "location": "\nGreat Dunham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nGreat Ellingham\n",
+    "lat": 52.53245,
+    "lng": 0.97423,
+    "url": "http://www.windmillworld.com/millid/2487.htm",
+    "location": "\nGreat Ellingham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nGreat Snoring\n",
+    "lat": 52.77245,
+    "lng": 0.88908,
+    "url": "http://www.windmillworld.com/millid/2111.htm",
+    "location": "\nGreat Snoring\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nGreat Walsingham\n",
+    "lat": 52.89991,
+    "lng": 0.88955,
+    "url": "http://www.windmillworld.com/millid/2110.htm",
+    "location": "\nGreat Walsingham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Ashtree Farm Mill",
+    "lat": 52.62534,
+    "lng": 1.70231,
+    "url": "http://www.windmillworld.com/millid/2256.htm",
+    "location": "\nGreat Yarmouth\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHaddiscoe\n",
+    "lat": 52.55115,
+    "lng": 1.60951,
+    "url": "http://www.windmillworld.com/millid/2233.htm",
+    "location": "\nHaddiscoe\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Langley Detached Mill",
+    "lat": 52.58214,
+    "lng": 1.63782,
+    "url": "http://www.windmillworld.com/millid/2246.htm",
+    "location": "\nHaddiscoe\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Pettingell's Mill",
+    "lat": 52.55606,
+    "lng": 1.6273,
+    "url": "http://www.windmillworld.com/millid/2239.htm",
+    "location": "\nHaddiscoe\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Six Mile House Mill",
+    "lat": 52.57311,
+    "lng": 1.61742,
+    "url": "http://www.windmillworld.com/millid/2236.htm",
+    "location": "\nHaddiscoe\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHales\n",
+    "lat": 52.52052,
+    "lng": 1.50898,
+    "url": "http://www.windmillworld.com/millid/2543.htm",
+    "location": "\nHales\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHalvergate\n",
+    "lat": 52.5978,
+    "lng": 1.56617,
+    "url": "http://www.windmillworld.com/millid/2213.htm",
+    "location": "\nHalvergate\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "High's Mill",
+    "lat": 52.60661,
+    "lng": 1.62778,
+    "url": "http://www.windmillworld.com/millid/2237.htm",
+    "location": "\nHalvergate\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Mutton's Mill",
+    "lat": 52.59998,
+    "lng": 1.60348,
+    "url": "http://www.windmillworld.com/millid/2227.htm",
+    "location": "\nHalvergate\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Six Mile House Mill",
+    "lat": 52.63053,
+    "lng": 1.6356,
+    "url": "http://www.windmillworld.com/millid/2240.htm",
+    "location": "\nHalvergate\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Key's Mill",
+    "lat": 52.61863,
+    "lng": 1.63601,
+    "url": "http://www.windmillworld.com/millid/2242.htm",
+    "location": "\nHalvergate Marshes\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHardley Marshes\n",
+    "lat": 52.56708,
+    "lng": 1.52189,
+    "url": "http://www.windmillworld.com/millid/2189.htm",
+    "location": "\nHardley Marshes\n",
+    "type": "tower mill",
+    "condition": "Under restoration by Hardley Windmill Trust. Contains an internal turbine"
+  },
+  {
+    "name": "\nHarpley\n",
+    "lat": 52.79537,
+    "lng": 0.66722,
+    "url": "http://www.windmillworld.com/millid/2098.htm",
+    "location": "\nHarpley\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHempnall\n",
+    "lat": 52.50011,
+    "lng": 1.29511,
+    "url": "http://www.windmillworld.com/millid/2524.htm",
+    "location": "\nHempnall\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHickling\n",
+    "lat": 52.751,
+    "lng": 1.56781,
+    "url": "http://www.windmillworld.com/millid/2204.htm",
+    "location": "\nHickling\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Stubb Mill",
+    "lat": 52.74056,
+    "lng": 1.60951,
+    "url": "http://www.windmillworld.com/millid/2225.htm",
+    "location": "\nHickling\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHickling Broad\n",
+    "lat": 52.74207,
+    "lng": 1.58268,
+    "url": "http://www.windmillworld.com/millid/2217.htm",
+    "location": "\nHickling Broad\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHindolveston\n",
+    "lat": 52.82219,
+    "lng": 1.02049,
+    "url": "http://www.windmillworld.com/millid/2127.htm",
+    "location": "\nHindolveston\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Lower Green Mill",
+    "lat": 52.89813,
+    "lng": 0.95625,
+    "url": "http://www.windmillworld.com/millid/2116.htm",
+    "location": "\nHindringham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHingham, Mill Corner\n",
+    "lat": 52.57633,
+    "lng": 0.98899,
+    "url": "http://www.windmillworld.com/millid/2488.htm",
+    "location": "\nHingham, Mill Corner\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Heath Mill",
+    "lat": 52.89098,
+    "lng": 1.08972,
+    "url": "http://www.windmillworld.com/millid/2135.htm",
+    "location": "\nHolt\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nHoningham\n",
+    "lat": 52.65958,
+    "lng": 1.10623,
+    "url": "http://www.windmillworld.com/millid/2137.htm",
+    "location": "\nHoningham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Hobb's Mill",
+    "lat": 52.69324,
+    "lng": 1.47249,
+    "url": "http://www.windmillworld.com/millid/2167.htm",
+    "location": "\nHorning\n",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "St Benet's Abbey",
+    "lat": 52.6874,
+    "lng": 1.52042,
+    "url": "http://www.windmillworld.com/millid/2188.htm",
+    "location": "\nHorning\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHorning Ferry\n",
+    "lat": 52.69706,
+    "lng": 1.469,
+    "url": "http://www.windmillworld.com/millid/2166.htm",
+    "location": "\nHorning Ferry\n",
+    "type": "smock mill",
+    "condition": "windpump, converted to holiday home, and external appearance much altered"
+  },
+  {
+    "name": "Neave's Mill",
+    "lat": 52.70423,
+    "lng": 1.49846,
+    "url": "http://www.windmillworld.com/millid/2173.htm",
+    "location": "\nHorning Marshes\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nHorsey\n",
+    "lat": 52.74104,
+    "lng": 1.63902,
+    "url": "http://www.windmillworld.com/millid/2238.htm",
+    "location": "\nHorsey\n",
+    "type": "tower mill",
+    "condition": "restored windpump"
+  },
+  {
+    "name": "St Helens Mill",
+    "lat": 52.70375,
+    "lng": 1.24061,
+    "url": "http://www.windmillworld.com/millid/2145.htm",
+    "location": "\nHorsford\n",
+    "type": "tower mill",
+    "condition": "derelict"
+  },
+  {
+    "name": "Dydall's Mill",
+    "lat": 52.70154,
+    "lng": 1.4408,
+    "url": "http://www.windmillworld.com/millid/2161.htm",
+    "location": "\nHoveton St John\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nIngham\n",
+    "lat": 52.77086,
+    "lng": 1.54396,
+    "url": "http://www.windmillworld.com/millid/2191.htm",
+    "location": "\nIngham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Marsh Mill",
+    "lat": 52.78121,
+    "lng": 1.5725,
+    "url": "http://www.windmillworld.com/millid/2208.htm",
+    "location": "\nIngham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Turf Fen Mill",
+    "lat": 52.71511,
+    "lng": 1.50694,
+    "url": "http://www.windmillworld.com/millid/2177.htm",
+    "location": "\nIrstead\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nKelling\n",
+    "lat": 52.93781,
+    "lng": 1.10999,
+    "url": "http://www.windmillworld.com/millid/2136.htm",
+    "location": "\nKelling\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nLimpenhoe Marshes\n",
+    "lat": 52.56222,
+    "lng": 1.53166,
+    "url": "http://www.windmillworld.com/millid/2193.htm",
+    "location": "\nLimpenhoe Marshes\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nLittle Cressingham\n",
+    "lat": 52.56756,
+    "lng": 0.75745,
+    "url": "http://www.windmillworld.com/millid/2102.htm",
+    "location": "\nLittle Cressingham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nLittle Melton\n",
+    "lat": 52.61643,
+    "lng": 1.18624,
+    "url": "http://www.windmillworld.com/millid/2143.htm",
+    "location": "\nLittle Melton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nLittle Snoring\n",
+    "lat": 52.86641,
+    "lng": 0.89484,
+    "url": "http://www.windmillworld.com/millid/2112.htm",
+    "location": "\nLittle Snoring\n",
+    "type": "post mill",
+    "condition": "little except the brick piers remain"
+  },
+  {
+    "name": "Boardman's Mill",
+    "lat": 52.71897,
+    "lng": 1.50689,
+    "url": "http://www.windmillworld.com/millid/2179.htm",
+    "location": "\nLudham\n",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Clayrack Mill",
+    "lat": 52.72071,
+    "lng": 1.50676,
+    "url": "http://www.windmillworld.com/millid/2178.htm",
+    "location": "\nLudham\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "High Mill",
+    "lat": 52.71089,
+    "lng": 1.54717,
+    "url": "http://www.windmillworld.com/millid/2195.htm",
+    "location": "\nLudham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "How Hill",
+    "lat": 52.71702,
+    "lng": 1.51267,
+    "url": "http://www.windmillworld.com/millid/2183.htm",
+    "location": "\nLudham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Womack Water Mill",
+    "lat": 52.70193,
+    "lng": 1.55066,
+    "url": "http://www.windmillworld.com/millid/2197.htm",
+    "location": "\nLudham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "North Mill",
+    "lat": 52.70065,
+    "lng": 1.50906,
+    "url": "http://www.windmillworld.com/millid/2181.htm",
+    "location": "\nLudham Bridge\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "South Mill",
+    "lat": 52.69779,
+    "lng": 1.51201,
+    "url": "http://www.windmillworld.com/millid/2184.htm",
+    "location": "\nLudham Bridge\n",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "\nMartham\n",
+    "lat": 52.71594,
+    "lng": 1.61502,
+    "url": "http://www.windmillworld.com/millid/2229.htm",
+    "location": "\nMartham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Mill Road Mill",
+    "lat": 52.66272,
+    "lng": 1.02092,
+    "url": "http://www.windmillworld.com/millid/2128.htm",
+    "location": "\nMattishall\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Mill Street Mill",
+    "lat": 52.65644,
+    "lng": 1.03587,
+    "url": "http://www.windmillworld.com/millid/2131.htm",
+    "location": "\nMattishall\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nMautby Marsh Farm\n",
+    "lat": 52.62989,
+    "lng": 1.6773,
+    "url": "http://www.windmillworld.com/millid/2254.htm",
+    "location": "\nMautby Marsh Farm\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nMethwold\n",
+    "lat": 52.5194,
+    "lng": 0.5504,
+    "url": "http://www.windmillworld.com/millid/2443.htm",
+    "location": "\nMethwold\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nMileham\n",
+    "lat": 52.72032,
+    "lng": 0.81339,
+    "url": "http://www.windmillworld.com/millid/2106.htm",
+    "location": "\nMileham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Wind pump museum",
+    "lat": 52.69813,
+    "lng": 1.56922,
+    "url": "http://www.windmillworld.com/millid/2214.htm",
+    "location": "\nMorse's Wind Engine Park - Repps with Bastwick\n",
+    "type": "post mill",
+    "condition": "Bob Morse's collection of wind engines"
+  },
+  {
+    "name": "\nMulbarton\n",
+    "lat": 52.5707,
+    "lng": 1.24348,
+    "url": "http://www.windmillworld.com/millid/2147.htm",
+    "location": "\nMulbarton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nNeatishead\n",
+    "lat": 52.72226,
+    "lng": 1.46317,
+    "url": "http://www.windmillworld.com/millid/2163.htm",
+    "location": "\nNeatishead\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nNecton\n",
+    "lat": 52.6506,
+    "lng": 0.7768,
+    "url": "http://www.windmillworld.com/millid/2103.htm",
+    "location": "\nNecton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nNordelph\n",
+    "lat": 52.57807,
+    "lng": 0.30248,
+    "url": "http://www.windmillworld.com/millid/2079.htm",
+    "location": "\nNordelph\n",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "\nNordelph\n",
+    "lat": 52.58367,
+    "lng": 0.30253,
+    "url": "http://www.windmillworld.com/millid/2080.htm",
+    "location": "\nNordelph\n",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "\nNorth Creake\n",
+    "lat": 52.90949,
+    "lng": 0.75425,
+    "url": "http://www.windmillworld.com/millid/2101.htm",
+    "location": "\nNorth Creake\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nNorth Tuddenham\n",
+    "lat": 52.68451,
+    "lng": 1.02686,
+    "url": "http://www.windmillworld.com/millid/2130.htm",
+    "location": "\nNorth Tuddenham\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nNorton Subcourse\n",
+    "lat": 52.55487,
+    "lng": 1.54346,
+    "url": "http://www.windmillworld.com/millid/2200.htm",
+    "location": "\nNorton Subcourse\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Boyce's Dyke Mill",
+    "lat": 52.55204,
+    "lng": 1.54122,
+    "url": "http://www.windmillworld.com/millid/2199.htm",
+    "location": "\nNorton Subcourse\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Peafield Mill",
+    "lat": 52.61802,
+    "lng": 1.29299,
+    "url": "http://www.windmillworld.com/millid/2151.htm",
+    "location": "\nNorwich\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nOld Buckenham\n",
+    "lat": 52.47785,
+    "lng": 1.03542,
+    "url": "http://www.windmillworld.com/millid/2491.htm",
+    "location": "\nOld Buckenham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Stow Mill",
+    "lat": 52.86968,
+    "lng": 1.44007,
+    "url": "http://www.windmillworld.com/millid/2159.htm",
+    "location": "\nPaston\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nPilson Green\n",
+    "lat": 52.66097,
+    "lng": 1.51757,
+    "url": "http://www.windmillworld.com/millid/2187.htm",
+    "location": "\nPilson Green\n",
+    "type": "post mill",
+    "condition": "Brand new post mill, under construction"
+  },
+  {
+    "name": "\nPotter Heigham\n",
+    "lat": 52.71257,
+    "lng": 1.57264,
+    "url": "http://www.windmillworld.com/millid/2211.htm",
+    "location": "\nPotter Heigham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Eelfleet Dyke Mill",
+    "lat": 52.72428,
+    "lng": 1.6262,
+    "url": "http://www.windmillworld.com/millid/2235.htm",
+    "location": "\nPotter Heigham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "High's Mill",
+    "lat": 52.71424,
+    "lng": 1.59565,
+    "url": "http://www.windmillworld.com/millid/2222.htm",
+    "location": "\nPotter Heigham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nReedham Ferry\n",
+    "lat": 52.55964,
+    "lng": 1.55259,
+    "url": "http://www.windmillworld.com/millid/2205.htm",
+    "location": "\nReedham Ferry\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Cadge's Mill",
+    "lat": 52.57467,
+    "lng": 1.60796,
+    "url": "http://www.windmillworld.com/millid/2232.htm",
+    "location": "\nReedham Marshes\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "North Mill",
+    "lat": 52.5754,
+    "lng": 1.60527,
+    "url": "http://www.windmillworld.com/millid/2231.htm",
+    "location": "\nReedham Marshes\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Polkey's Mill",
+    "lat": 52.57426,
+    "lng": 1.60582,
+    "url": "http://www.windmillworld.com/millid/2230.htm",
+    "location": "\nReedham Marshes\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nRepps\n",
+    "lat": 52.70527,
+    "lng": 1.57817,
+    "url": "http://www.windmillworld.com/millid/2216.htm",
+    "location": "\nRepps\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nRingstead\n",
+    "lat": 52.94486,
+    "lng": 0.53712,
+    "url": "http://www.windmillworld.com/millid/2091.htm",
+    "location": "\nRingstead\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nRockland St Peter\n",
+    "lat": 52.55747,
+    "lng": 0.92654,
+    "url": "http://www.windmillworld.com/millid/2479.htm",
+    "location": "\nRockland St Peter\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nRoughton\n",
+    "lat": 52.90477,
+    "lng": 1.29426,
+    "url": "http://www.windmillworld.com/millid/2150.htm",
+    "location": "\nRoughton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nRoydon\n",
+    "lat": 52.38295,
+    "lng": 1.1049,
+    "url": "http://www.windmillworld.com/millid/2496.htm",
+    "location": "\nRoydon\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Five Mile House Mill",
+    "lat": 52.62978,
+    "lng": 1.66005,
+    "url": "http://www.windmillworld.com/millid/2252.htm",
+    "location": "\nRunham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "North Mill",
+    "lat": 52.63137,
+    "lng": 1.64862,
+    "url": "http://www.windmillworld.com/millid/2250.htm",
+    "location": "\nRunham Swim\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "South Mill",
+    "lat": 52.6303,
+    "lng": 1.65136,
+    "url": "http://www.windmillworld.com/millid/2251.htm",
+    "location": "\nRunham Swim\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nSaham Toney\n",
+    "lat": 52.58116,
+    "lng": 0.8149,
+    "url": "http://www.windmillworld.com/millid/2107.htm",
+    "location": "\nSaham Toney\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nScole\n",
+    "lat": 52.36767,
+    "lng": 1.15998,
+    "url": "http://www.windmillworld.com/millid/2505.htm",
+    "location": "\nScole\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nSea Palling\n",
+    "lat": 52.78367,
+    "lng": 1.58025,
+    "url": "http://www.windmillworld.com/millid/2212.htm",
+    "location": "\nSea Palling\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nSedgeford\n",
+    "lat": 52.90081,
+    "lng": 0.54263,
+    "url": "http://www.windmillworld.com/millid/2093.htm",
+    "location": "\nSedgeford\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Fodderston Mill",
+    "lat": 52.65178,
+    "lng": 0.45089,
+    "url": "http://www.windmillworld.com/millid/2086.htm",
+    "location": "\nShouldham Thorpe\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Dilham Dyke Mill",
+    "lat": 52.76997,
+    "lng": 1.47359,
+    "url": "http://www.windmillworld.com/millid/2165.htm",
+    "location": "\nSmallburgh\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "May's Mill",
+    "lat": 52.7655,
+    "lng": 1.48701,
+    "url": "http://www.windmillworld.com/millid/2170.htm",
+    "location": "\nSmallburgh\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Howard's Mill",
+    "lat": 52.60716,
+    "lng": 1.63541,
+    "url": "http://www.windmillworld.com/millid/2241.htm",
+    "location": "\nSouth Walsham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "St Benet's Level Mill",
+    "lat": 52.68519,
+    "lng": 1.54869,
+    "url": "http://www.windmillworld.com/millid/2196.htm",
+    "location": "\nSt Benet's Level, Horning\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Hunsett Mill",
+    "lat": 52.76127,
+    "lng": 1.50173,
+    "url": "http://www.windmillworld.com/millid/2172.htm",
+    "location": "\nStalham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nStalham Staithe\n",
+    "lat": 52.76618,
+    "lng": 1.51411,
+    "url": "http://www.windmillworld.com/millid/2180.htm",
+    "location": "\nStalham Staithe\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nStarston\n",
+    "lat": 52.41135,
+    "lng": 1.28067,
+    "url": "http://www.windmillworld.com/millid/2523.htm",
+    "location": "\nStarston\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nStiffkey\n",
+    "lat": 52.95244,
+    "lng": 0.92542,
+    "url": "http://www.windmillworld.com/millid/2114.htm",
+    "location": "\nStiffkey\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nStoke Ferry\n",
+    "lat": 52.57567,
+    "lng": 0.50941,
+    "url": "http://www.windmillworld.com/millid/2090.htm",
+    "location": "\nStoke Ferry\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Commission Mill",
+    "lat": 52.63766,
+    "lng": 1.57893,
+    "url": "http://www.windmillworld.com/millid/2219.htm",
+    "location": "\nStokesby\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Old Hall Mill",
+    "lat": 52.628,
+    "lng": 1.59887,
+    "url": "http://www.windmillworld.com/millid/2224.htm",
+    "location": "\nStokesby\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Trett's Mill",
+    "lat": 52.63932,
+    "lng": 1.58951,
+    "url": "http://www.windmillworld.com/millid/2221.htm",
+    "location": "\nStokesby with Herringby\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Long Stratton Mill",
+    "lat": 52.48198,
+    "lng": 1.24901,
+    "url": "http://www.windmillworld.com/millid/2516.htm",
+    "location": "\nStratton St Michael\n",
+    "type": "tower mill",
+    "condition": "tower stands in the factory area of Basil L Leeder and Sons Ltd, who mill on a large scale basis"
+  },
+  {
+    "name": "\nSutton\n",
+    "lat": 52.75927,
+    "lng": 1.54929,
+    "url": "http://www.windmillworld.com/millid/2194.htm",
+    "location": "\nSutton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Balsam Fields Mill",
+    "lat": 52.7448,
+    "lng": 0.29765,
+    "url": "http://www.windmillworld.com/millid/2077.htm",
+    "location": "\nTerrington St Clement\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nThornham\n",
+    "lat": 52.96366,
+    "lng": 0.57194,
+    "url": "http://www.windmillworld.com/millid/2094.htm",
+    "location": "\nThornham\n",
+    "type": "composite mill",
+    "condition": null
+  },
+  {
+    "name": "\nThrigby\n",
+    "lat": 52.65019,
+    "lng": 1.64724,
+    "url": "http://www.windmillworld.com/millid/2249.htm",
+    "location": "\nThrigby\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Great Goliath Mill",
+    "lat": 52.52962,
+    "lng": 1.55701,
+    "url": "http://www.windmillworld.com/millid/2550.htm",
+    "location": "\nThurlton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Morse's Mill",
+    "lat": 52.68768,
+    "lng": 1.55046,
+    "url": "http://www.windmillworld.com/millid/2198.htm",
+    "location": "\nThurne Dyke\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nTittleshall\n",
+    "lat": 52.75212,
+    "lng": 0.79882,
+    "url": "http://www.windmillworld.com/millid/2105.htm",
+    "location": "\nTittleshall\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nTopcroft\n",
+    "lat": 52.49283,
+    "lng": 1.33579,
+    "url": "http://www.windmillworld.com/millid/2527.htm",
+    "location": "\nTopcroft\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nTottenhill\n",
+    "lat": 52.67135,
+    "lng": 0.42031,
+    "url": "http://www.windmillworld.com/millid/2085.htm",
+    "location": "\nTottenhill\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Stracey Arms Mill",
+    "lat": 52.62352,
+    "lng": 1.60604,
+    "url": "http://www.windmillworld.com/millid/2228.htm",
+    "location": "\nTunstall\n",
+    "type": "tower mill",
+    "condition": "restored to working order by the Norfolk Windmills Trust"
+  },
+  {
+    "name": "Tunstall Dyke Mill",
+    "lat": 52.62688,
+    "lng": 1.57753,
+    "url": "http://www.windmillworld.com/millid/2218.htm",
+    "location": "\nTunstall\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Acle Mill",
+    "lat": 52.6267,
+    "lng": 1.57922,
+    "url": "http://www.windmillworld.com/millid/2220.htm",
+    "location": "\nTunstall Dyke\n",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "Black Mill",
+    "lat": 52.67138,
+    "lng": 1.55557,
+    "url": "http://www.windmillworld.com/millid/2203.htm",
+    "location": "\nUpton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Palmer's Mill",
+    "lat": 52.66066,
+    "lng": 1.55211,
+    "url": "http://www.windmillworld.com/millid/2201.htm",
+    "location": "\nUpton Marshes\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Upwell",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "location": "Upwell",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Walpole Highway Mill",
+    "lat": 52.70476,
+    "lng": 0.24154,
+    "url": "http://www.windmillworld.com/millid/2074.htm",
+    "location": "\nWalpole St Peter\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Brograve Mill",
+    "lat": 52.7542,
+    "lng": 1.62625,
+    "url": "http://www.windmillworld.com/millid/2234.htm",
+    "location": "\nWaxham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Lambrigg Mill",
+    "lat": 52.76972,
+    "lng": 1.60357,
+    "url": "http://www.windmillworld.com/millid/2223.htm",
+    "location": "\nWaxham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "West Marsh Mill",
+    "lat": 52.72355,
+    "lng": 1.64776,
+    "url": "http://www.windmillworld.com/millid/2243.htm",
+    "location": "\nWest Somerton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Fen End Mill",
+    "lat": 52.68293,
+    "lng": 0.2214,
+    "url": "http://www.windmillworld.com/millid/2069.htm",
+    "location": "\nWest Walton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Ingleborough Mill",
+    "lat": 52.71232,
+    "lng": 0.18028,
+    "url": "http://www.windmillworld.com/millid/2062.htm",
+    "location": "\nWest Walton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nWest Winch\n",
+    "lat": 52.72405,
+    "lng": 0.41409,
+    "url": "http://www.windmillworld.com/millid/2084.htm",
+    "location": "\nWest Winch\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nWeybourne\n",
+    "lat": 52.9437,
+    "lng": 1.14726,
+    "url": "http://www.windmillworld.com/millid/2140.htm",
+    "location": "\nWeybourne\n",
+    "type": "tower mill",
+    "condition": "House converted, but sails maintained"
+  },
+  {
+    "name": "Stone's Mill",
+    "lat": 52.59356,
+    "lng": 1.60275,
+    "url": "http://www.windmillworld.com/millid/2226.htm",
+    "location": "\nWickhampton Marshes\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Hackford Road Mill",
+    "lat": 52.58151,
+    "lng": 1.05129,
+    "url": "http://www.windmillworld.com/millid/2132.htm",
+    "location": "\nWicklewood\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "High Street Mill",
+    "lat": 52.58193,
+    "lng": 1.06328,
+    "url": "http://www.windmillworld.com/millid/2134.htm",
+    "location": "\nWicklewood\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nWiggenhall St Mary Magdalen\n",
+    "lat": 52.67063,
+    "lng": 0.36001,
+    "url": "http://www.windmillworld.com/millid/2082.htm",
+    "location": "\nWiggenhall St Mary Magdalen\n",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "Ridlington Mill",
+    "lat": 52.8371,
+    "lng": 1.48588,
+    "url": "http://www.windmillworld.com/millid/2168.htm",
+    "location": "\nWitton\n",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "\nWorstead\n",
+    "lat": 52.79733,
+    "lng": 1.42564,
+    "url": "http://www.windmillworld.com/millid/2158.htm",
+    "location": "\nWorstead\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Silfield Mill",
+    "lat": 52.55681,
+    "lng": 1.13797,
+    "url": "http://www.windmillworld.com/millid/2141.htm",
+    "location": "\nWymondham\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nYaxham\n",
+    "lat": 52.65436,
+    "lng": 0.97496,
+    "url": "http://www.windmillworld.com/millid/2119.htm",
+    "location": "\nYaxham\n",
+    "type": "tower mill",
+    "condition": null
+  }
+]

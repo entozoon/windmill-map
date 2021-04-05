@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Bickerstaffe",
+    "lat": 53.53666,
+    "lng": -2.8442,
+    "url": "http://www.windmillworld.com/millid/1086.htm",
+    "location": "Bickerstaffe",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Bank Mill",
+    "lat": 53.68087,
+    "lng": -2.8155,
+    "url": "http://www.windmillworld.com/millid/1089.htm",
+    "location": "Bretherton",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Mere Mill",
+    "lat": 53.63364,
+    "lng": -2.8696,
+    "url": "http://www.windmillworld.com/millid/1083.htm",
+    "location": "Burscough",
+    "type": "tower",
+    "condition": "\n      house converted\n    "
+  },
+  {
+    "name": "Clifton",
+    "lat": 53.77486,
+    "lng": -2.814,
+    "url": "http://www.windmillworld.com/millid/1090.htm",
+    "location": "Clifton",
+    "type": "tower",
+    "condition": "converted - run as pub and restaurant"
+  },
+  {
+    "name": "Carr Hill",
+    "lat": 53.78111,
+    "lng": -2.8646,
+    "url": "http://www.windmillworld.com/millid/1084.htm",
+    "location": "Kirkham",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Little Marton",
+    "lat": 53.79913,
+    "lng": -2.9898,
+    "url": "http://www.windmillworld.com/millid/1463.htm",
+    "location": "Little Marton",
+    "type": "tower",
+    "condition": "conserved"
+  },
+  {
+    "name": "Lytham",
+    "lat": 53.7357,
+    "lng": -2.9554,
+    "url": "http://www.windmillworld.com/millid/1465.htm",
+    "location": "Lytham",
+    "type": "tower",
+    "condition": "conserved"
+  },
+  {
+    "name": "Parbold",
+    "lat": 53.58856,
+    "lng": -2.7701,
+    "url": "http://www.windmillworld.com/millid/1092.htm",
+    "location": "Parbold",
+    "type": "tower",
+    "condition": "converted - used as shops and art gallery"
+  },
+  {
+    "name": "Damside",
+    "lat": 53.931,
+    "lng": -2.9039,
+    "url": "http://www.windmillworld.com/millid/1079.htm",
+    "location": "Pilling",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Preesall",
+    "lat": 53.9125,
+    "lng": -2.9639,
+    "url": "http://www.windmillworld.com/millid/1464.htm",
+    "location": "Preesall",
+    "type": "tower",
+    "condition": "industrial premises"
+  },
+  {
+    "name": "Gaulter's Cottage",
+    "lat": 53.92006,
+    "lng": -2.9591,
+    "url": "http://www.windmillworld.com/millid/extra8.htm",
+    "location": "Preesall",
+    "type": "post",
+    "condition": "Probably constructed late 1990s"
+  },
+  {
+    "name": "Craggs Row",
+    "lat": 53.76428,
+    "lng": -2.7037,
+    "url": "http://www.windmillworld.com/millid/1095.htm",
+    "location": "Preston",
+    "type": "tower",
+    "condition": "storehouse"
+  },
+  {
+    "name": "Staining",
+    "lat": 53.82128,
+    "lng": -2.9926,
+    "url": "http://www.windmillworld.com/millid/1462.htm",
+    "location": "Staining",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Marsh Mill",
+    "lat": 53.8749,
+    "lng": -3.012,
+    "url": "http://www.windmillworld.com/millid/1460.htm",
+    "location": "Thornton",
+    "type": "tower",
+    "condition": "fully restored"
+  },
+  {
+    "name": "Treales",
+    "lat": 53.78848,
+    "lng": -2.8407,
+    "url": "http://www.windmillworld.com/millid/1087.htm",
+    "location": "Treales",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Holland Mill",
+    "lat": 53.54599,
+    "lng": -2.737,
+    "url": "http://www.windmillworld.com/millid/1094.htm",
+    "location": "Upholland",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Warton",
+    "lat": 53.75217,
+    "lng": -2.8795,
+    "url": "http://www.windmillworld.com/millid/1082.htm",
+    "location": "Warton",
+    "type": "post",
+    "condition": "sunken trestle - vandalized and remains removed from site"
+  },
+  {
+    "name": "Weeton",
+    "lat": 53.80402,
+    "lng": -2.9216,
+    "url": "http://www.windmillworld.com/millid/1077.htm",
+    "location": "Weeton",
+    "type": "tower",
+    "condition": "no remains above ground - cellar thought to exist"
+  },
+  {
+    "name": "Wrea Green",
+    "lat": 53.77515,
+    "lng": -2.9215,
+    "url": "http://www.windmillworld.com/millid/1078.htm",
+    "location": "Wrea Green",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Harrock Hill",
+    "lat": 53.61258,
+    "lng": -2.741,
+    "url": "http://www.windmillworld.com/millid/1093.htm",
+    "location": "Wrightington",
+    "type": "tower",
+    "condition": "ruins"
+  },
+  {
+    "name": "Brewery Mill",
+    "lat": 53.57495,
+    "lng": -2.5965,
+    "url": "http://www.windmillworld.com/millid/1096.htm",
+    "location": "Haigh",
+    "type": "tower mill",
+    "condition": null
+  }
+]

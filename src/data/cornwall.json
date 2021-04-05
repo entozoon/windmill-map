@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Treffy Mill",
+    "lat": 50.33467,
+    "lng": -4.6419,
+    "url": "http://www.windmillworld.com/millid/1845.htm",
+    "location": "Fowey",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Mount Herman Mill",
+    "lat": 49.99222,
+    "lng": -5.2196,
+    "url": "http://www.windmillworld.com/millid/1842.htm",
+    "location": "Landewednack",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Empacombe Mill",
+    "lat": 50.35491,
+    "lng": -4.1876,
+    "url": "http://www.windmillworld.com/millid/1846.htm",
+    "location": "Maker",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Penquean and Camel quarries",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "location": "Penquean and Camel quarries",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Carlyon Hill",
+    "lat": 50.5421,
+    "lng": -4.8833,
+    "url": "http://www.windmillworld.com/millid/1844.htm",
+    "location": "St Minver",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Trevone",
+    "lat": 50.5362,
+    "lng": -4.9698,
+    "url": "http://www.windmillworld.com/millid/1843.htm",
+    "location": "Trevone",
+    "type": "tower mill",
+    "condition": null
+  }
+]

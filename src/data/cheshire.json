@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Buerton",
+    "lat": 52.99227,
+    "lng": -2.4698,
+    "url": "http://www.windmillworld.com/millid/1258.htm",
+    "location": "Buerton",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Ravensmoor Mill",
+    "lat": 53.07364,
+    "lng": -2.5639,
+    "url": "http://www.windmillworld.com/millid/1254.htm",
+    "location": "Burland",
+    "type": "tower mill",
+    "condition": "house converted, but now topped off with a wind engine"
+  },
+  {
+    "name": "Burton",
+    "lat": 53.26264,
+    "lng": -3.0299,
+    "url": "http://www.windmillworld.com/millid/1231.htm",
+    "location": "Burton",
+    "type": "post mill",
+    "condition": "Described as \"only 8 courses remain\" in 1962"
+  },
+  {
+    "name": "Great Neston",
+    "lat": 53.29405,
+    "lng": -3.0677,
+    "url": "http://www.windmillworld.com/millid/1230.htm",
+    "location": "Great Neston",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Gibbet Mill",
+    "lat": 53.24307,
+    "lng": -2.9554,
+    "url": "http://www.windmillworld.com/millid/1238.htm",
+    "location": "Great Saughall",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Bevan's Mill",
+    "lat": 53.00138,
+    "lng": -2.8317,
+    "url": "http://www.windmillworld.com/millid/1244.htm",
+    "location": "Threapwood",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Dean's Mill",
+    "lat": 53.21251,
+    "lng": -2.8875,
+    "url": "http://www.windmillworld.com/millid/1243.htm",
+    "location": "Upton by Chester",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Willaston",
+    "lat": 53.29833,
+    "lng": -3.0105,
+    "url": "http://www.windmillworld.com/millid/1233.htm",
+    "location": "Willaston",
+    "type": "tower mill",
+    "condition": "house converted"
+  }
+]

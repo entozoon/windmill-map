@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Bradford-On-Avon",
+    "lat": 51.34918,
+    "lng": -2.2495,
+    "url": "http://www.windmillworld.com/millid/1759.htm",
+    "location": "Bradford-On-Avon",
+    "type": "tower",
+    "condition": "converted - now a bed and breakfast"
+  },
+  {
+    "name": "Saxon Mill",
+    "lat": 51.51839,
+    "lng": -1.7284,
+    "url": "http://www.windmillworld.com/millid/1767.htm",
+    "location": "Chiseldon",
+    "type": "tower mill",
+    "condition": "\n      dismantled and moved to Swindon\n    "
+  },
+  {
+    "name": "Devizes",
+    "lat": 51.35091,
+    "lng": -1.9984,
+    "url": "http://www.windmillworld.com/millid/1761.htm",
+    "location": "Devizes",
+    "type": "tower",
+    "condition": "\n      used for grinding rape seed then snuff,\n      now incorporated into Devizes Castle as the North Tower\n    "
+  },
+  {
+    "name": "East Knoyle",
+    "lat": 51.07822,
+    "lng": -2.182,
+    "url": "http://www.windmillworld.com/millid/1760.htm",
+    "location": "East Knoyle",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Windmill Hill",
+    "lat": 51.55003,
+    "lng": -1.8471,
+    "url": "http://www.windmillworld.com/millid/1765.htm",
+    "location": "Swindon",
+    "type": "tower",
+    "condition": "rebuilt, moved from Chiseldon"
+  },
+  {
+    "name": "Idmiston Mill",
+    "lat": 51.12231,
+    "lng": -1.7491,
+    "url": "http://www.windmillworld.com/millid/1766.htm",
+    "location": "West Gomeldon",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Wilton Mill",
+    "lat": 51.35296,
+    "lng": -1.6055,
+    "url": "http://www.windmillworld.com/millid/1771.htm",
+    "location": "Wilton",
+    "type": "tower",
+    "condition": "working"
+  }
+]

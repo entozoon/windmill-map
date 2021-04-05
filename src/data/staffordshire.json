@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Werrington",
+    "lat": 53.02483,
+    "lng": -2.0879,
+    "url": "http://www.windmillworld.com/millid/1275.htm",
+    "location": "Caverswall",
+    "type": "tower",
+    "condition": "now houses radio communications"
+  },
+  {
+    "name": "Codsall",
+    "lat": 52.63382,
+    "lng": -2.1965,
+    "url": "http://www.windmillworld.com/millid/1270.htm",
+    "location": "Codsall",
+    "type": "tower",
+    "condition": "House converted"
+  },
+  {
+    "name": "Butterhill",
+    "lat": 52.76878,
+    "lng": -2.1511,
+    "url": "http://www.windmillworld.com/millid/1271.htm",
+    "location": "Coppenhall",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Croxton",
+    "lat": 52.88384,
+    "lng": -2.3255,
+    "url": "http://www.windmillworld.com/millid/1264.htm",
+    "location": "Eccleshall",
+    "type": "tower",
+    "condition": "Recently house converted"
+  },
+  {
+    "name": "Enville",
+    "lat": 52.48628,
+    "lng": -2.2282,
+    "url": "http://www.windmillworld.com/millid/1568.htm",
+    "location": "Enville",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Essington",
+    "lat": 52.63088,
+    "lng": -2.0848,
+    "url": "http://www.windmillworld.com/millid/1276.htm",
+    "location": "Essington",
+    "type": "post",
+    "condition": "roundhouse and main post remain, derelict"
+  },
+  {
+    "name": "Forton",
+    "lat": 52.79082,
+    "lng": -2.3588,
+    "url": "http://www.windmillworld.com/millid/1263.htm",
+    "location": "Forton",
+    "type": "tower",
+    "condition": "incorporated into a monument/folly c1780, now ruined"
+  },
+  {
+    "name": "Meir Heath",
+    "lat": 52.95768,
+    "lng": -2.1041,
+    "url": "http://www.windmillworld.com/millid/1273.htm",
+    "location": "Fulford",
+    "type": "tower",
+    "condition": "flat roofed tower, recently made watertight"
+  },
+  {
+    "name": "Gentleshaw",
+    "lat": 52.70458,
+    "lng": -1.9262,
+    "url": "http://www.windmillworld.com/millid/1278.htm",
+    "location": "Gentleshaw",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Beffcote",
+    "lat": 52.77212,
+    "lng": -2.2919,
+    "url": "http://www.windmillworld.com/millid/1266.htm",
+    "location": "Gnosall",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Speedwell Mill",
+    "lat": 52.66413,
+    "lng": -1.9017,
+    "url": "http://www.windmillworld.com/millid/1279.htm",
+    "location": "Hammerwich",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Long Row Mill",
+    "lat": 53.08355,
+    "lng": -2.2399,
+    "url": "http://www.windmillworld.com/millid/1269.htm",
+    "location": "Kidsgrove",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Grange Lane Mill",
+    "lat": 52.6925,
+    "lng": -1.84,
+    "url": "http://www.windmillworld.com/millid/1281.htm",
+    "location": "Lichfield",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Nurton Hill Mill",
+    "lat": 52.59597,
+    "lng": -2.242,
+    "url": "http://www.windmillworld.com/millid/1567.htm",
+    "location": "Pattingham",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Shareshill Mill",
+    "lat": 52.66232,
+    "lng": -2.0772,
+    "url": "http://www.windmillworld.com/millid/1277.htm",
+    "location": "Saredon",
+    "type": "tower",
+    "condition": "house converted, painted pink"
+  },
+  {
+    "name": "Broad Eye",
+    "lat": 52.80683,
+    "lng": -2.1228,
+    "url": "http://www.windmillworld.com/millid/1272.htm",
+    "location": "Stafford",
+    "type": "tower",
+    "condition": "Conserved - being adapted as an Industrial Heritage Museum"
+  },
+  {
+    "name": "Windmill Farm",
+    "lat": 52.73134,
+    "lng": -1.9026,
+    "url": "http://www.windmillworld.com/millid/1280.htm",
+    "location": "Upper Longdon",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Moneymore Mill",
+    "lat": 52.61583,
+    "lng": -1.8026,
+    "url": "http://www.windmillworld.com/millid/1282.htm",
+    "location": "Weeford",
+    "type": "tower",
+    "condition": null
+  }
+]

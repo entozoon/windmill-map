@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Baldromma, Maughold",
+    "lat": 54.29555,
+    "lng": -4.3219,
+    "url": "http://www.windmillworld.com/millid/iom5.htm",
+    "location": "Baldromma, Maughold",
+    "type": "small farm mill",
+    "condition": "incorporated into house"
+  },
+  {
+    "name": "Ballacorage, Ballaugh",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/iom4.htm",
+    "location": "Ballacorage, Ballaugh",
+    "type": "small farm threshing mill",
+    "condition": "house converted as \"Windmill Cottage\""
+  },
+  {
+    "name": "Ballawhane, Andreas",
+    "lat": 54.38154,
+    "lng": -4.4684,
+    "url": "http://www.windmillworld.com/millid/iom2.htm",
+    "location": "Ballawhane, Andreas",
+    "type": "small stone tower threshing mill",
+    "condition": "derelict by 1952, with uneven/ruinous curb, adjacent to 2 storey barn"
+  },
+  {
+    "name": "Billown Quarry, Malew",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/iom7.htm",
+    "location": "Billown Quarry, Malew",
+    "type": "large iron wind pump",
+    "condition": null
+  },
+  {
+    "name": "Castletown",
+    "lat": 54.07525,
+    "lng": -4.6623,
+    "url": "http://www.windmillworld.com/millid/iom1.htm",
+    "location": "Castletown",
+    "type": "tower",
+    "condition": "\n      House converted - now has a glass roof contained within the tower.\n    "
+  },
+  {
+    "name": "Lezayre Mill (Now Beaconsfield Towers)",
+    "lat": 54.32855,
+    "lng": -4.3922,
+    "url": "http://www.windmillworld.com/millid/iom3.htm",
+    "location": "Ramsey",
+    "type": "combined corn and saw mill",
+    "condition": "smooth rendered tower truncated to two storeys, now incorporated into Beaconsfield Towers residential care home"
+  },
+  {
+    "name": "South Barrule Slate Quarry Malew",
+    "lat": 54.15865,
+    "lng": -4.6502,
+    "url": "http://www.windmillworld.com/millid/iom6.htm",
+    "location": "South Barrule Slate Quarry Malew",
+    "type": "small stone tower",
+    "condition": null
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Brockley",
+    "lat": 51.39118,
+    "lng": -2.7589,
+    "url": "http://www.windmillworld.com/millid/1751.htm",
+    "location": "Brockley",
+    "type": "tower mill",
+    "condition": "ruin"
+  },
+  {
+    "name": "Watchfield mill",
+    "lat": 51.21783,
+    "lng": -2.9352,
+    "url": "http://www.windmillworld.com/millid/1736.htm",
+    "location": "Burnham Without",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Ashton Mill",
+    "lat": 51.2488,
+    "lng": -2.8401,
+    "url": "http://www.windmillworld.com/millid/1744.htm",
+    "location": "Chapel Allerton",
+    "type": "tower mill",
+    "condition": "preserved - open to the public"
+  },
+  {
+    "name": "Willtown Mill",
+    "lat": 51.01698,
+    "lng": -2.8744,
+    "url": "http://www.windmillworld.com/millid/1741.htm",
+    "location": "Curry Rivel",
+    "type": "tower mill",
+    "condition": "truncated at around 9ft"
+  },
+  {
+    "name": "Broadfield windmill",
+    "lat": 51.38112,
+    "lng": -2.6979,
+    "url": "http://www.windmillworld.com/millid/1753.htm",
+    "location": "Felton",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Stembridge Mill",
+    "lat": 51.07113,
+    "lng": -2.8108,
+    "url": "http://www.windmillworld.com/millid/1748.htm",
+    "location": "High Ham",
+    "type": "tower mill",
+    "condition": "thatched mill, owned by the National Trust"
+  },
+  {
+    "name": "Hutton",
+    "lat": 51.32465,
+    "lng": -2.9169,
+    "url": "http://www.windmillworld.com/millid/1739.htm",
+    "location": "Hutton",
+    "type": "tower mill",
+    "condition": "Observation tower with big pent roof and windows all round below this"
+  },
+  {
+    "name": "Vale Mill",
+    "lat": 51.3498,
+    "lng": -2.9202,
+    "url": "http://www.windmillworld.com/millid/1738.htm",
+    "location": "Locking",
+    "type": "tower mill",
+    "condition": "Truncated tower incorporated into large house, forming semicircular feature at right end of front, with 2 circular rooms inside."
+  },
+  {
+    "name": "Portishead",
+    "lat": 51.48663,
+    "lng": -2.7817,
+    "url": "http://www.windmillworld.com/millid/1749.htm",
+    "location": "Portishead",
+    "type": "tower mill",
+    "condition": "converted"
+  },
+  {
+    "name": "Uphill, Weston-super-mare",
+    "lat": 51.31913,
+    "lng": -2.9808,
+    "url": "http://www.windmillworld.com/millid/1733.htm",
+    "location": "Uphill, Weston-super-mare",
+    "type": "tower mill",
+    "condition": "truncated tower"
+  },
+  {
+    "name": "Walton",
+    "lat": 51.11373,
+    "lng": -2.7697,
+    "url": "http://www.windmillworld.com/millid/1750.htm",
+    "location": "Walton",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Stone Allerton",
+    "lat": 51.25977,
+    "lng": -2.8518,
+    "url": "http://www.windmillworld.com/millid/1742.htm",
+    "location": "Weare",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Burlinch Mill",
+    "lat": 51.05915,
+    "lng": -3.0486,
+    "url": "http://www.windmillworld.com/millid/1730.htm",
+    "location": "West Monkton",
+    "type": "tower mill",
+    "condition": "\n      Vertical sided tower shell in wood\n    "
+  },
+  {
+    "name": "Woodball Mill",
+    "lat": 51.05722,
+    "lng": -3.0628,
+    "url": "http://www.windmillworld.com/millid/1729.htm",
+    "location": "West Monkton",
+    "type": "tower mill",
+    "condition": "\n      Squat,2 storey, on end wall of cottage.\n    "
+  },
+  {
+    "name": "Worle",
+    "lat": 51.36493,
+    "lng": -2.9352,
+    "url": "http://www.windmillworld.com/millid/1737.htm",
+    "location": "Worle",
+    "type": "tower mill",
+    "condition": "converted to observatory"
+  }
+]

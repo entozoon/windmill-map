@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Little Rey",
+    "lat": 50.39234,
+    "lng": -3.5127,
+    "url": "http://www.windmillworld.com/millid/1853.htm",
+    "location": "Brixham",
+    "type": "tower",
+    "condition": "base remains"
+  },
+  {
+    "name": "Cliston Manor",
+    "lat": 50.7595,
+    "lng": -3.4327,
+    "url": "http://www.windmillworld.com/millid/1854.htm",
+    "location": "Broadclyst",
+    "type": "tower",
+    "condition": "roofed tower remains"
+  },
+  {
+    "name": "Warborough",
+    "lat": 50.39976,
+    "lng": -3.5647,
+    "url": "http://www.windmillworld.com/millid/1850.htm",
+    "location": "Galmpton",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Instow",
+    "lat": 51.05881,
+    "lng": -4.1689,
+    "url": "http://www.windmillworld.com/millid/1726.htm",
+    "location": "Instow",
+    "type": "tower",
+    "condition": "very ruinous"
+  },
+  {
+    "name": "Lundy Island",
+    "lat": 51.1864,
+    "lng": -4.6668,
+    "url": "http://www.windmillworld.com/millid/1724.htm",
+    "location": "Lundy Island",
+    "type": "tower",
+    "condition": "very ruinous"
+  },
+  {
+    "name": "Long Burrow",
+    "lat": 50.48085,
+    "lng": -3.5916,
+    "url": "http://www.windmillworld.com/millid/1848.htm",
+    "location": "North Whilborough",
+    "type": "tower",
+    "condition": "was derelict - recently house converted"
+  },
+  {
+    "name": "Bidna",
+    "lat": 51.04407,
+    "lng": -4.2007,
+    "url": "http://www.windmillworld.com/millid/1725.htm",
+    "location": "Northam",
+    "type": "tower",
+    "condition": "ruinous"
+  },
+  {
+    "name": "Millennium Mill",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/x1.htm",
+    "location": "Occombe Farm, Paignton",
+    "type": "tower",
+    "condition": "never built"
+  },
+  {
+    "name": "Fernacombe",
+    "lat": 50.45003,
+    "lng": -3.5845,
+    "url": "http://www.windmillworld.com/millid/1849.htm",
+    "location": "Paignton",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Heanton",
+    "lat": 50.87232,
+    "lng": -4.146,
+    "url": "http://www.windmillworld.com/millid/1727.htm",
+    "location": "Petrockstow",
+    "type": "tower",
+    "condition": "ruinous"
+  },
+  {
+    "name": "Yaddon Down",
+    "lat": 50.48054,
+    "lng": -3.5388,
+    "url": "http://www.windmillworld.com/millid/1851.htm",
+    "location": "Torquay",
+    "type": "tower",
+    "condition": "tower remains"
+  }
+]

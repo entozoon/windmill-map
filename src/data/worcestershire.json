@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Weatheroak Hill Mill",
+    "lat": 52.36408,
+    "lng": -1.9134,
+    "url": "http://www.windmillworld.com/millid/1580.htm",
+    "location": "Alvechurch",
+    "type": "tower mill",
+    "condition": "Undergoing house conversion"
+  },
+  {
+    "name": "Areley Common Mill",
+    "lat": 52.33152,
+    "lng": -2.2903,
+    "url": "http://www.windmillworld.com/millid/1566.htm",
+    "location": "Areley Kings",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Danzey Green Mill",
+    "lat": 52.31195,
+    "lng": -2.0721,
+    "url": "http://www.windmillworld.com/millid/1574.htm",
+    "location": "Bromsgrove",
+    "type": "post mill",
+    "condition": "Moved to Avoncroft Museum of buildings in 1969, and restored, working"
+  },
+  {
+    "name": "Holberrow Green",
+    "lat": 52.22752,
+    "lng": -1.9658,
+    "url": "http://www.windmillworld.com/millid/1577.htm",
+    "location": "Holberrow Green",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Stonepits Quarry",
+    "lat": 52.21049,
+    "lng": -1.9889,
+    "url": "http://www.windmillworld.com/millid/1575.htm",
+    "location": "Inkberrow",
+    "type": "tower mill",
+    "condition": "house converted - used to be run as a hotel"
+  },
+  {
+    "name": "Rollsford Mill",
+    "lat": 52.07249,
+    "lng": -2.9343,
+    "url": "http://www.windmillworld.com/millid/1562.htm",
+    "location": "Moccas",
+    "type": "tower mill",
+    "condition": null
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Arnesby",
+    "lat": 52.52681,
+    "lng": -1.0952,
+    "url": "http://www.windmillworld.com/millid/1656.htm",
+    "location": "Arnesby",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Ashby Folville",
+    "lat": 52.70498,
+    "lng": -0.969,
+    "url": "http://www.windmillworld.com/millid/1495.htm",
+    "location": "Ashby Folville",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Barkestone",
+    "lat": 52.90651,
+    "lng": -0.8425,
+    "url": "http://www.windmillworld.com/millid/1507.htm",
+    "location": "Barkestone",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Gilmorton",
+    "lat": 52.48986,
+    "lng": -1.1508,
+    "url": "http://www.windmillworld.com/millid/1650.htm",
+    "location": "Gilmorton",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Harby",
+    "lat": 52.87314,
+    "lng": -0.9038,
+    "url": "http://www.windmillworld.com/millid/1501.htm",
+    "location": "Harby",
+    "type": "tower mill",
+    "condition": "truncated"
+  },
+  {
+    "name": "Post Mill",
+    "lat": 52.54309,
+    "lng": -0.9858,
+    "url": "http://www.windmillworld.com/millid/1671.htm",
+    "location": "Kibworth Harcourt",
+    "type": "post mill",
+    "condition": "restored"
+  },
+  {
+    "name": "Long Clawson",
+    "lat": 52.83312,
+    "lng": -0.9197,
+    "url": "http://www.windmillworld.com/millid/1498.htm",
+    "location": "Long Clawson",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Pinwall",
+    "lat": 52.59265,
+    "lng": -1.5468,
+    "url": "http://www.windmillworld.com/millid/1606.htm",
+    "location": "Pinwall",
+    "type": "post mill",
+    "condition": "Site only - I can find no remains here at all.  Shown as disused on 1885 map."
+  },
+  {
+    "name": "Shepshed",
+    "lat": 52.75844,
+    "lng": -1.316,
+    "url": "http://www.windmillworld.com/millid/1479.htm",
+    "location": "Shepshed",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Syston",
+    "lat": 52.69159,
+    "lng": -1.0812,
+    "url": "http://www.windmillworld.com/millid/1491.htm",
+    "location": "Syston",
+    "type": "post mill",
+    "condition": "site only - probably no remains"
+  },
+  {
+    "name": "Swannington Hough",
+    "lat": 52.74992,
+    "lng": -1.3934,
+    "url": "http://www.windmillworld.com/millid/1300.htm",
+    "location": "Thringstone",
+    "type": "tower mill",
+    "condition": "recently restored"
+  },
+  {
+    "name": "Ullesthorpe",
+    "lat": 52.4855,
+    "lng": -1.2555,
+    "url": "http://www.windmillworld.com/millid/1639.htm",
+    "location": "Ullesthorpe",
+    "type": "tower mill",
+    "condition": "restoration started in 2005"
+  },
+  {
+    "name": "Waltham on the Wolds",
+    "lat": 52.81548,
+    "lng": -0.8097,
+    "url": "http://www.windmillworld.com/millid/1509.htm",
+    "location": "Waltham on the Wolds",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Woodhouse Eaves",
+    "lat": 52.72371,
+    "lng": -1.2223,
+    "url": "http://www.windmillworld.com/millid/1486.htm",
+    "location": "Woodhouse Eaves",
+    "type": "post mill",
+    "condition": "\n      roundhouse, now sporting an unusual roof extension showing the size of the buck,\n      and turning it into a viewing platform\n    "
+  },
+  {
+    "name": "Wymondham",
+    "lat": 52.76418,
+    "lng": -0.7409,
+    "url": "http://www.windmillworld.com/millid/1520.htm",
+    "location": "Wymondham",
+    "type": "tower mill",
+    "condition": null
+  }
+]

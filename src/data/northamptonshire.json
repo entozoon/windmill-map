@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Barby",
+    "lat": 52.3215,
+    "lng": -1.2073,
+    "url": "http://www.windmillworld.com/millid/1645.htm",
+    "location": "Barby",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Quinbury End Mill",
+    "lat": 52.1482,
+    "lng": -1.0911,
+    "url": "http://www.windmillworld.com/millid/1659.htm",
+    "location": "Blakesley",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Braunston",
+    "lat": 52.29092,
+    "lng": -1.2133,
+    "url": "http://www.windmillworld.com/millid/1643.htm",
+    "location": "Braunston",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Cottingham",
+    "lat": 52.50237,
+    "lng": -0.75,
+    "url": "http://www.windmillworld.com/millid/1698.htm",
+    "location": "Cottingham",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Old Dexter's Mill",
+    "lat": 52.62106,
+    "lng": -0.511,
+    "url": "http://www.windmillworld.com/millid/1948.htm",
+    "location": "Easton on the Hill",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Finedon",
+    "lat": 52.34228,
+    "lng": -0.6691,
+    "url": "http://www.windmillworld.com/millid/1707.htm",
+    "location": "Finedon",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Windmill Vineyard",
+    "lat": 52.21535,
+    "lng": -1.2406,
+    "url": "http://www.windmillworld.com/millid/1641.htm",
+    "location": "Hellidon",
+    "type": "tower mill",
+    "condition": "converted"
+  },
+  {
+    "name": "Kingsthorpe",
+    "lat": 52.26878,
+    "lng": -0.8927,
+    "url": "http://www.windmillworld.com/millid/1685.htm",
+    "location": "Kingsthorpe",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Newnham",
+    "lat": 52.24356,
+    "lng": -1.1587,
+    "url": "http://www.windmillworld.com/millid/1649.htm",
+    "location": "Newnham",
+    "type": "tower mill",
+    "condition": "converted to observation tower"
+  },
+  {
+    "name": "Rushden",
+    "lat": 52.27677,
+    "lng": -0.5989,
+    "url": "http://www.windmillworld.com/millid/1715.htm",
+    "location": "Rushden",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "Silverstone",
+    "lat": 52.09295,
+    "lng": -1.0171,
+    "url": "http://www.windmillworld.com/millid/1669.htm",
+    "location": "Silverstone",
+    "type": "tower mill",
+    "condition": "house converted, late 1990's"
+  },
+  {
+    "name": "Sulgrave",
+    "lat": 52.10904,
+    "lng": -1.1934,
+    "url": "http://www.windmillworld.com/millid/1647.htm",
+    "location": "Sulgrave",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Tansor",
+    "lat": 52.50668,
+    "lng": -0.4475,
+    "url": "http://www.windmillworld.com/millid/2265.htm",
+    "location": "Tansor",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Wootton",
+    "lat": 52.20251,
+    "lng": -0.8894,
+    "url": "http://www.windmillworld.com/millid/1686.htm",
+    "location": "Wootton",
+    "type": "tower mill",
+    "condition": "truncated and house converted"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Cann Windmill",
+    "lat": 50.98663,
+    "lng": -2.1841,
+    "url": "http://www.windmillworld.com/millid/233.htm",
+    "location": "Cann",
+    "type": "small Portuguese style tower mill, on top of a watermill",
+    "condition": "taken down in 2008, in order to expand the watermill"
+  },
+  {
+    "name": "Cottonfield's Mill",
+    "lat": 50.54152,
+    "lng": -2.4375,
+    "url": "http://www.windmillworld.com/millid/234.htm",
+    "location": "Easton, Isle of Portland",
+    "type": "tower",
+    "condition": "cylindrical stone tower"
+  },
+  {
+    "name": "Top Growland's Mill",
+    "lat": 50.54059,
+    "lng": -2.4362,
+    "url": "http://www.windmillworld.com/millid/235.htm",
+    "location": "Easton, Isle of Portland",
+    "type": "tower",
+    "condition": "cylindrical stone tower"
+  }
+]

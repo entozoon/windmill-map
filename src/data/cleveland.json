@@ -1,0 +1,56 @@
+[
+  {
+    "name": "New Mill",
+    "lat": 54.67683,
+    "lng": -1.3046,
+    "url": "http://www.windmillworld.com/millid/1426.htm",
+    "location": "Elwick",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Greatham",
+    "lat": 54.64418,
+    "lng": -1.236,
+    "url": "http://www.windmillworld.com/millid/1432.htm",
+    "location": "Greatham",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Hart",
+    "lat": 54.7033,
+    "lng": -1.2681,
+    "url": "http://www.windmillworld.com/millid/1431.htm",
+    "location": "Hart",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "High Leven Mill",
+    "lat": 54.5063,
+    "lng": -1.3083,
+    "url": "http://www.windmillworld.com/millid/1425.htm",
+    "location": "Ingleby",
+    "type": "tower mill",
+    "condition": "house converted 1968, enlarged into B+B 2004"
+  },
+  {
+    "name": "Black Mill",
+    "lat": 54.50975,
+    "lng": -1.3106,
+    "url": "http://www.windmillworld.com/millid/1423.htm",
+    "location": "Ingleby",
+    "type": "tower mill and horse engine",
+    "condition": null
+  },
+  {
+    "name": "Newton Bewley",
+    "lat": 54.63319,
+    "lng": -1.2784,
+    "url": "http://www.windmillworld.com/millid/1430.htm",
+    "location": "Newton Bewley",
+    "type": "tower mill",
+    "condition": null
+  }
+]

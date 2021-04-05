@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Armagh",
+    "lat": 54.34729,
+    "lng": -6.6626,
+    "url": "http://www.windmillworld.com/millid/ni26.htm",
+    "location": "Armagh",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Ballycopeland",
+    "lat": 54.60781,
+    "lng": -5.5561,
+    "url": "http://www.windmillworld.com/millid/ni1.htm",
+    "location": "Ballycopeland",
+    "type": "tower",
+    "condition": "restored and working"
+  },
+  {
+    "name": "Ballyholme",
+    "lat": 54.66174,
+    "lng": -5.6433,
+    "url": "http://www.windmillworld.com/millid/ni16.htm",
+    "location": "Ballyholme",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Ballynahinch",
+    "lat": 54.40227,
+    "lng": -5.8891,
+    "url": "http://www.windmillworld.com/millid/ni19.htm",
+    "location": "Ballynahinch",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Ballywalter",
+    "lat": 54.54581,
+    "lng": -5.4881,
+    "url": "http://www.windmillworld.com/millid/ni6.htm",
+    "location": "Ballywalter",
+    "type": "tower",
+    "condition": "stump remains"
+  },
+  {
+    "name": "Ballywalter (north)",
+    "lat": 54.56272,
+    "lng": -5.4828,
+    "url": "http://www.windmillworld.com/millid/ni25.htm",
+    "location": "Ballywalter (north)",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Boardmills",
+    "lat": 54.46999,
+    "lng": -5.9287,
+    "url": "http://www.windmillworld.com/millid/ni14.htm",
+    "location": "Boardmills",
+    "type": "tower",
+    "condition": "bare tower"
+  },
+  {
+    "name": "Cloughey",
+    "lat": 54.44004,
+    "lng": -5.4718,
+    "url": "http://www.windmillworld.com/millid/ni12.htm",
+    "location": "Cloughey",
+    "type": "tower",
+    "condition": "derelict, on Kirkistown Castle golf course"
+  },
+  {
+    "name": "Comber",
+    "lat": 54.53365,
+    "lng": -5.7224,
+    "url": "http://www.windmillworld.com/millid/ni20.htm",
+    "location": "Comber",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Crawfordsburn",
+    "lat": 54.66098,
+    "lng": -5.7258,
+    "url": "http://www.windmillworld.com/millid/ni5.htm",
+    "location": "Crawfordsburn",
+    "type": "tower",
+    "condition": "short verically sided tower stump"
+  },
+  {
+    "name": "Drumanphy",
+    "lat": 54.44704,
+    "lng": -6.5486,
+    "url": "http://www.windmillworld.com/millid/ni22.htm",
+    "location": "Drumanphy",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Greyabbey",
+    "lat": 54.52058,
+    "lng": -5.5501,
+    "url": "http://www.windmillworld.com/millid/ni15.htm",
+    "location": "Greyabbey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Holywood",
+    "lat": 54.64239,
+    "lng": -5.8278,
+    "url": "http://www.windmillworld.com/millid/ni10.htm",
+    "location": "Holywood",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Killinchy",
+    "lat": 54.46918,
+    "lng": -5.6753,
+    "url": "http://www.windmillworld.com/millid/ni11.htm",
+    "location": "Killinchy",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Killough",
+    "lat": 54.25039,
+    "lng": -5.6439,
+    "url": "http://www.windmillworld.com/millid/ni9.htm",
+    "location": "Killough",
+    "type": "tower",
+    "condition": "capless"
+  },
+  {
+    "name": "Knockcloghrim",
+    "lat": 54.81223,
+    "lng": -6.6084,
+    "url": "http://www.windmillworld.com/millid/ni2.htm",
+    "location": "Knockcloghrim",
+    "type": "tower",
+    "condition": "maintained tower, standing in the grounds of the Methodist church"
+  },
+  {
+    "name": "Knockinelder",
+    "lat": 54.38634,
+    "lng": -5.4743,
+    "url": "http://www.windmillworld.com/millid/ni8.htm",
+    "location": "Knockinelder",
+    "type": "tower",
+    "condition": "short tower"
+  },
+  {
+    "name": "The Tower, Springhill House",
+    "lat": 54.68275,
+    "lng": -6.6517,
+    "url": "http://www.windmillworld.com/millid/ni24.htm",
+    "location": "Moneymore",
+    "type": "tower",
+    "condition": "converted in to a folly in the C18th"
+  },
+  {
+    "name": "Newtownards",
+    "lat": 54.61442,
+    "lng": -5.6887,
+    "url": "http://www.windmillworld.com/millid/ni3.htm",
+    "location": "Newtownards",
+    "type": "tower",
+    "condition": "empty derelict tower, surrounded by the old lead mines"
+  },
+  {
+    "name": "Portaferry",
+    "lat": 54.37839,
+    "lng": -5.5388,
+    "url": "http://www.windmillworld.com/millid/ni4.htm",
+    "location": "Portaferry",
+    "type": "tower",
+    "condition": "vertically sided tower"
+  },
+  {
+    "name": "Poyntzpass",
+    "lat": 54.29195,
+    "lng": -6.3816,
+    "url": "http://www.windmillworld.com/millid/ni13.htm",
+    "location": "Poyntzpass",
+    "type": "tower",
+    "condition": "ruin"
+  },
+  {
+    "name": "Saintfield",
+    "lat": 54.46406,
+    "lng": -5.8251,
+    "url": "http://www.windmillworld.com/millid/ni7.htm",
+    "location": "Saintfield",
+    "type": "tower",
+    "condition": "empty tower"
+  },
+  {
+    "name": "Saul",
+    "lat": 54.35838,
+    "lng": -5.6722,
+    "url": "http://www.windmillworld.com/millid/ni23.htm",
+    "location": "Saul",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Tyrella",
+    "lat": 54.27091,
+    "lng": -5.7795,
+    "url": "http://www.windmillworld.com/millid/ni21.htm",
+    "location": "Tyrella",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Warrenpoint",
+    "lat": 54.10048,
+    "lng": -6.2537,
+    "url": "http://www.windmillworld.com/millid/ni17.htm",
+    "location": "Warrenpoint",
+    "type": "tower",
+    "condition": "truncated, derelict"
+  }
+]

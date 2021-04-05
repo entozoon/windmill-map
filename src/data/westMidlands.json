@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bramford Mill",
+    "lat": 52.53667,
+    "lng": -2.0907,
+    "url": "http://www.windmillworld.com/millid/1573.htm",
+    "location": "Coseley",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Eve Hill",
+    "lat": 52.51517,
+    "lng": -2.099,
+    "url": "http://www.windmillworld.com/millid/extra11.htm",
+    "location": "Dudley",
+    "type": "tower",
+    "condition": "just some remains of the tower and chimney foundations"
+  },
+  {
+    "name": "Kingswinford",
+    "lat": 52.50413,
+    "lng": -2.1863,
+    "url": "http://www.windmillworld.com/millid/1571.htm",
+    "location": "Kingswinford",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Fullard's Mill",
+    "lat": 52.36034,
+    "lng": -1.7521,
+    "url": "http://www.windmillworld.com/millid/1588.htm",
+    "location": "Packwood",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Ruiton Mill",
+    "lat": 52.52958,
+    "lng": -2.121,
+    "url": "http://www.windmillworld.com/millid/1572.htm",
+    "location": "Sedgley",
+    "type": "tower mill",
+    "condition": "Used as HQ for Dudley Caving Club"
+  },
+  {
+    "name": "Tettenhall",
+    "lat": 52.58966,
+    "lng": -2.1883,
+    "url": "http://www.windmillworld.com/millid/1570.htm",
+    "location": "Tettenhall",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Highgate Mill",
+    "lat": 52.57553,
+    "lng": -1.9763,
+    "url": "http://www.windmillworld.com/millid/1576.htm",
+    "location": "Walsall",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Wightwick Mill",
+    "lat": 52.58106,
+    "lng": -2.1909,
+    "url": "http://www.windmillworld.com/millid/1569.htm",
+    "location": "Wrottesley",
+    "type": "tower mill",
+    "condition": "house converted"
+  }
+]

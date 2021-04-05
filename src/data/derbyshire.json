@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Spancarr Mill",
+    "lat": 53.19077,
+    "lng": -1.4895,
+    "url": "http://www.windmillworld.com/millid/1291.htm",
+    "location": "\nAshover\n",
+    "type": "tower mill",
+    "condition": "house converted 1996"
+  },
+  {
+    "name": "\nBelper\n",
+    "lat": 53.02674,
+    "lng": -1.4743,
+    "url": "http://www.windmillworld.com/millid/1292.htm",
+    "location": "\nBelper\n",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nBolsover\n",
+    "lat": 53.23705,
+    "lng": -1.2922,
+    "url": "http://www.windmillworld.com/millid/1480.htm",
+    "location": "\nBolsover\n",
+    "type": "tower mill",
+    "condition": "full height tower"
+  },
+  {
+    "name": "Cat and Fiddle Mill",
+    "lat": 52.95358,
+    "lng": -1.3496,
+    "url": "http://www.windmillworld.com/millid/1469.htm",
+    "location": "\nDale Abbey\n",
+    "type": "post mill",
+    "condition": "conserved"
+  },
+  {
+    "name": "\nFindern\n",
+    "lat": 52.87313,
+    "lng": -1.5516,
+    "url": "http://www.windmillworld.com/millid/1289.htm",
+    "location": "\nFindern\n",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nFritchley\n",
+    "lat": 53.07546,
+    "lng": -1.4567,
+    "url": "http://www.windmillworld.com/millid/1293.htm",
+    "location": "\nFritchley\n",
+    "type": "post mill",
+    "condition": "ruin"
+  },
+  {
+    "name": "\nHeage\n",
+    "lat": 53.05302,
+    "lng": -1.454,
+    "url": "http://www.windmillworld.com/millid/1294.htm",
+    "location": "\nHeage\n",
+    "type": "tower mill",
+    "condition": "restored - six sailed"
+  },
+  {
+    "name": "Carsington Pasture Mill",
+    "lat": 53.08679,
+    "lng": -1.6254,
+    "url": "http://www.windmillworld.com/millid/1285.htm",
+    "location": "\nHopton\n",
+    "type": "tower mill",
+    "condition": "derelict"
+  },
+  {
+    "name": "\nMelbourne\n",
+    "lat": 52.81718,
+    "lng": -1.441,
+    "url": "http://www.windmillworld.com/millid/1295.htm",
+    "location": "\nMelbourne\n",
+    "type": "tower mill",
+    "condition": "converted into observation tower"
+  },
+  {
+    "name": "\nOckbrook\n",
+    "lat": 52.9173,
+    "lng": -1.3631,
+    "url": "http://www.windmillworld.com/millid/1303.htm",
+    "location": "\nOckbrook\n",
+    "type": "tower mill",
+    "condition": "truncated, derelict"
+  },
+  {
+    "name": "Fordbridge Lane Mill",
+    "lat": 53.10814,
+    "lng": -1.3417,
+    "url": "http://www.windmillworld.com/millid/1472.htm",
+    "location": "\nSouth Normanton\n",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Normanton Common Mill",
+    "lat": 53.10133,
+    "lng": -1.3404,
+    "url": "http://www.windmillworld.com/millid/1471.htm",
+    "location": "\nSouth Normanton\n",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "The Post Mill",
+    "lat": 53.09979,
+    "lng": -1.3399,
+    "url": "http://www.windmillworld.com/millid/1470.htm",
+    "location": "\nSouth Normanton\n",
+    "type": "post mill",
+    "condition": "\n       remains dismantled and put in storage, but kept so badly that most are believed to have\n       completely rotted away\n    "
+  }
+]

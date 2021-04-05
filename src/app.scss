@@ -9,19 +9,41 @@ $neutral-3: #f8f8f8; // gatsby SVG backgroundColor
 body {
   font-family: Play, sans-serif;
   font-size: 1rem;
-  line-height: 1.5;
+  line-height: 1.6;
+  background: #333;
+  color: hotpink;
+  margin: 0;
+  padding: 0;
   @include responsive-value(
-    $size-min: 14px,
-    $size-max: 18px,
+    $size-min: 18px,
+    $size-max: 20px,
     $width-min: 300px,
     $width-max: 1800px,
     $property: "font-size"
   );
 }
+header {
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  width: 100%;
+  display: flex;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 5em;
+}
+.logo {
+  display: block;
+  width: 10em;
+  margin: 1em 5em 0 auto;
+  svg {
+    fill: hotpink;
+  }
+}
 main {
-  max-width: 1024px;
   margin: 0 auto;
-  padding: 0 1em 1em;
 }
 a {
   color: $brand-2;
@@ -35,5 +57,31 @@ table {
   td,
   th {
     border: 1px solid;
+  }
+}
+#map {
+  width: 100%;
+  height: 100vh;
+}
+h2 {
+  padding: 0;
+  margin: 0;
+}
+textarea {
+  margin: 0.75em 0;
+}
+.gm-style .gm-style-iw-d::-webkit-scrollbar-track,
+.gm-style .gm-style-iw-d::-webkit-scrollbar-track-piece,
+.gm-style .gm-style-iw-c,
+.gm-style .gm-style-iw-t::after {
+  background: #222;
+}
+.gm-style {
+  line-height: 1.4;
+  a {
+    text-decoration: underline;
+  }
+  button img {
+    filter: invert(1);
   }
 }

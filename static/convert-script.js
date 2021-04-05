@@ -1,16 +1,19 @@
-const tidyText = (element) => {
-  if (!element) return;
-  if (element.querySelector("a")) {
-    element.innerHTML = element.querySelector("a").innerHTML;
-  }
-  element.innerHTML = element.innerHTML.replace(/(<([^>]+)>)/gi, "");
+const tidyText = (s) => {
+  return s.replace(/(<([^>]+)>)/gi, "");
 };
-document.querySelectorAll("div *").forEach((element) => {
-  if (!(element.closest(".wikitable") || element.querySelector(".wikitable"))) {
-    element.remove();
-  }
-});
-function tableToJson(table) {
+const stripHTML = (html) => {
+  var div = document.createElement("div");
+  div.innerHTML = html;
+  return div.innerText;
+};
+const extractTable = (html) => {
+  // const found = html.match(/<table(.*)+<\/table>/);
+  const found = html.match(/<table([\s\S]*?)<\/table>/g);
+  // console.log(found);
+  if (!found) return "";
+  return found[0];
+};
+const tableToJson = (table) => {
   var data = [];
   // first row needs to be headers
   var headers = [];
@@ -29,89 +32,48 @@ function tableToJson(table) {
     data.push(rowData);
   }
   return data;
-}
-const tables = document.querySelectorAll(".wikitable");
-tables.forEach((table) => {
-  console.log(tableToJson(table));
+};
+const textareaInput = document.querySelector('[name="input"]');
+const textareaOutput = document.querySelector('[name="output"]');
+const process = document.querySelector('[id="process"]');
+textareaInput.addEventListener("keyup", (e) => {
+  const input = e.target.value;
+  const table = extractTable(input);
+  process.innerHTML = table;
+  const hiddenCrap = process.querySelectorAll('[style="display:none"]');
+  hiddenCrap.forEach((crap) => {
+    crap.remove();
+  });
+  // console.log(process.querySelector("table"));
+  let tablesArray = tableToJson(process.querySelector("table")).map(
+    ({ condition, id, location, maps, name, type }, i) => {
+      // if (i == 3) {
+      console.log({ condition, id, location, maps, name, type });
+      // }
+      const latMatch = maps.match(/class="latitude">([^<]+)</);
+      const lngMatch = maps.match(/class="longitude">([^<]+)</);
+      return {
+        //   #<b><a href="../millid/2055.htm" title="Full details for Alford">2055</a></b>"
+        name:
+          name && name != "."
+            ? stripHTML(name.replace(/\n/g, ""))
+            : stripHTML(location.replace(/\n/g, "")),
+        lat: latMatch ? parseFloat(latMatch[1]) : null,
+        lng: lngMatch ? parseFloat(lngMatch[1]) : null,
+        url:
+          id && id.trim() != "."
+            ? id
+                .match(/href="([^"]+)/)[1]
+                .replace("../", "http://www.windmillworld.com/")
+            : null,
+        // "<span style="display:none" class="fn">Alkborough</span><span style="display:none" class="region">Lincolnshire</span><span style="display:none" class="country-name">UK</span><a href="../millid/1534.htm" class="locality">Alkborough</a>"
+        location: stripHTML(location.replace(/\n/g, "")),
+        type: type.replace("\n", "").trim(),
+        condition: condition && condition != "." ? condition : null,
+        // other: JSON.stringify({ type, condition }),
+      };
+    }
+  );
+  console.log(tablesArray[3]);
+  textareaOutput.value = JSON.stringify(tablesArray);
 });
-// setTimeout(() => {
-//   const tables = document.querySelectorAll(".wikitable");
-//   let windmills;
-//   tables.forEach((table) => {
-// // console.log(table.innerHTML);
-// // const geohacksUrls = table.querySelectorAll(
-// //   '[href^="https://geohack.toolforge"]'
-// // );
-// table
-//   .querySelector("th:last-child")
-//   .insertAdjacentHTML("afterend", "<th>latlng</th><th>name</th>");
-// table.querySelectorAll(".wmamapbutton,.reference").forEach((element) => {
-//   element.remove();
-// });
-// table.querySelectorAll("tr").forEach((tr) => {
-//   const urls = tr.querySelectorAll("a");
-//   console.log("urls", urls);
-//   // var span = document.createElement("span");
-//   urls.forEach((url) => {
-//     if (
-//       url.href.substr(0, "https://geohack.toolforge".length) ==
-//       "https://geohack.toolforge"
-//     ) {
-//       console.log("stuff");
-//       // https://geohack.toolforge.org/geohack.php?pagename=List_of_windmills_in_Lincolnshire&params=53.18196411445_N_0.32103753531058_E_region:GB
-//       const latlng = url.href.match(/params=(.*)_N_([0-9\.]*)_/);
-//       if (latlng) {
-//         // console.log(url, latlng);
-//         if (url.closest("td")) {
-//           // url.closest(
-//           //   "td"
-//           // ).innerHTML += `</td><td>latlng:${latlng[1]},${latlng[2]}</td>`;
-//           //   var td = document.createElement("td");
-//           //   td.innerHTML = "hello";
-//           //   url
-//           //     .closest("td")
-//           //     .insertAdjacentHTML("afterEnd", `<td>dwa</td>`);
-//           //   // url
-//           //   //   .closest("td")
-//           //   //   .parentNode.insertBefore(td, url.closest("td").nextSibling);
-//         }
-//         console.log("stuffssss");
-//         url.remove();
-//       } else {
-//         // url.closest("td").innerHTML = "???";
-//       }
-//       tr.querySelector("td:last-child") &&
-//         tr
-//           .querySelector("td:last-child")
-//           .insertAdjacentHTML(
-//             "afterend",
-//             `<td>${latlng ? `${latlng[1]},${latlng[2]}` : ``}</td>`
-//           );
-//     } else {
-//       // url.closest("td").innerHTML = url.innerHTML;
-//     }
-//     const td1 = tr.querySelector("td:nth-child(1)");
-//     const td2 = tr.querySelector("td:nth-child(2)");
-//     tidyText(tr.querySelector("td:nth-child(1)"));
-//     tidyText(tr.querySelector("td:nth-child(2)"));
-//     const name =
-//       td2 && td2.innerHTML
-//         ? td2.innerHTML
-//         : td1 && td1.innerHTML
-//         ? td1.innerHTML
-//         : "unknown";
-//     if (td1) {
-//       console.log(td1.innerHTML);
-//     }
-//     tr.querySelector("td:last-child") &&
-//       tr
-//         .querySelector("td:last-child")
-//         // .insertAdjacentHTML("afterend", `<td>${name}</td>`);
-//         .insertAdjacentHTML("afterend", `<td>name???</td>`);
-//     //
-//     // url.replaceWith(span);
-//   });
-// });
-// // https://geohack.toolforge.org/geohack.php?pagename=List_of_windmills_in_Lincolnshire&params=54.387109797044_N_0.8296617821235_W_region:GB
-//   });
-// }, 2000);

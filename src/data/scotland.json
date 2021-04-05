@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Auchinbaird",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot45.htm",
+    "location": "Auchinbaird",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Balantrae",
+    "lat": 55.10643,
+    "lng": -4.9951,
+    "url": "http://www.windmillworld.com/millid/scot8.htm",
+    "location": "Balantrae",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Bankhead",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot30.htm",
+    "location": "Bankhead",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Bridgeness Tower",
+    "lat": 56.01596,
+    "lng": -3.5845,
+    "url": "http://www.windmillworld.com/millid/scot22.htm",
+    "location": "Barrowstounness",
+    "type": "tower",
+    "condition": "converted from pumping to an observatory"
+  },
+  {
+    "name": "Barwhanny",
+    "lat": 54.81417,
+    "lng": -4.4753,
+    "url": "http://www.windmillworld.com/millid/scot38.htm",
+    "location": "Barwhanny",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Carluke",
+    "lat": 55.7367,
+    "lng": -3.8341,
+    "url": "http://www.windmillworld.com/millid/scot10.htm",
+    "location": "Carluke",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Castlehill",
+    "lat": 58.59791,
+    "lng": -3.3864,
+    "url": "http://www.windmillworld.com/millid/scot50.htm",
+    "location": "Castletown, Caithness",
+    "type": "tower windpump",
+    "condition": "conserved empty tower"
+  },
+  {
+    "name": "Cavertol Mill",
+    "lat": 55.5252,
+    "lng": -2.3979,
+    "url": "http://www.windmillworld.com/millid/scot37.htm",
+    "location": "Cavertol Mill",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Collessie",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot28.htm",
+    "location": "Collessie",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Dumfries",
+    "lat": 55.06487,
+    "lng": -3.6169,
+    "url": "http://www.windmillworld.com/millid/scot3.htm",
+    "location": "Dumfries",
+    "type": "tower",
+    "condition": "converted to a camera obscura"
+  },
+  {
+    "name": "Dunbarney",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot29.htm",
+    "location": "Dunbarney",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Duncow",
+    "lat": 55.13759,
+    "lng": -3.6108,
+    "url": "http://www.windmillworld.com/millid/scot4.htm",
+    "location": "Duncow",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Hill House",
+    "lat": 56.05728,
+    "lng": -3.4599,
+    "url": "http://www.windmillworld.com/millid/scot25.htm",
+    "location": "Dunfirmline",
+    "type": "tower",
+    "condition": "ruin"
+  },
+  {
+    "name": "Dunmore",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot24.htm",
+    "location": "Dunmore",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Dysart",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot26.htm",
+    "location": "Dysart",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Edgehead",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot18.htm",
+    "location": "Edgehead",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Belford Road",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot21.htm",
+    "location": "Edinburgh",
+    "type": "",
+    "condition": "in the grounds of the Scottish National Gallery of Modern Art"
+  },
+  {
+    "name": "Cammo Park",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot51.htm",
+    "location": "Edinburgh",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Eyemouth",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot13.htm",
+    "location": "Eyemouth",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Cup and Saucer",
+    "lat": 57.67907,
+    "lng": -2.7392,
+    "url": "http://www.windmillworld.com/millid/scot34.htm",
+    "location": "Glasshaugh",
+    "type": "tower",
+    "condition": "ruin"
+  },
+  {
+    "name": "Gordonstoun",
+    "lat": 57.70717,
+    "lng": -3.3641,
+    "url": "http://www.windmillworld.com/millid/scot35.htm",
+    "location": "Gordonstoun",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Hilton",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot32.htm",
+    "location": "Hilton",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Knockenhair",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot15.htm",
+    "location": "Knockenhair",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Mylne's Mill",
+    "lat": 55.97757,
+    "lng": -3.1689,
+    "url": "http://www.windmillworld.com/millid/scot20.htm",
+    "location": "Leith",
+    "type": "tower",
+    "condition": "converted to signal tower long ago - now a restaurant"
+  },
+  {
+    "name": "Leswalt",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot39.htm",
+    "location": "Leswalt",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Logan",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot7.htm",
+    "location": "Logan",
+    "type": "tower",
+    "condition": "shell"
+  },
+  {
+    "name": "Mitchelston",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot11.htm",
+    "location": "Mitchelston",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Monkton",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot9.htm",
+    "location": "Monkton",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Mountbletton",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot44.htm",
+    "location": "Mountbletton",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Myrehead",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot23.htm",
+    "location": "Myrehead",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "North Callange",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot40.htm",
+    "location": "North Callange",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Northfield, Gamrie",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot42.htm",
+    "location": "Northfield, Gamrie",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Oxwellmains",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot14.htm",
+    "location": "Oxwellmains",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Prestwick",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot53.htm",
+    "location": "Prestwick",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Rumbletonlaw",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot36.htm",
+    "location": "Rumbletonlaw",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Scar, Westove, Burness",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot43.htm",
+    "location": "Scar, Westove, Burness",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Shortrigg",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot2.htm",
+    "location": "Shortrigg",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Sorn",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot41.htm",
+    "location": "Sorn",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Stoneykirk",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot6.htm",
+    "location": "Stoneykirk",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Strathbeg",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot33.htm",
+    "location": "Strathbeg",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Swinton",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot12.htm",
+    "location": "Swinton",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Swintonmill",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot19.htm",
+    "location": "Swintonmill",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Wester Hatton",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot31.htm",
+    "location": "Wester Hatton",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Whithorn",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot5.htm",
+    "location": "Whithorn",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Glenugie Distillery",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot52.htm",
+    "location": "Invernettie",
+    "type": "",
+    "condition": "stump"
+  },
+  {
+    "name": "Mouswald",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot1.htm",
+    "location": "Mouswald",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Balgone Barns",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot17.htm",
+    "location": "Balgone Barns",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Bielside House",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot16.htm",
+    "location": "Dunbar",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Melville House Dovecot",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot46.htm",
+    "location": "Gartyne",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "St Monans",
+    "lat": 56.20108,
+    "lng": -2.7764,
+    "url": "http://www.windmillworld.com/millid/scot27.htm",
+    "location": "St Monans",
+    "type": "tower",
+    "condition": "restored"
+  },
+  {
+    "name": "Crimond",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot47.htm",
+    "location": "Crimond",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Peckhole Windmill",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot57.htm",
+    "location": "North Ronaldsay",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Papa Westray",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot55.htm",
+    "location": "Papa Westray",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Sanday",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot56.htm",
+    "location": "Sanday",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "South Ronaldsay",
+    "lat": null,
+    "lng": null,
+    "url": "http://www.windmillworld.com/millid/scot54.htm",
+    "location": "South Ronaldsay",
+    "type": "",
+    "condition": null
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Rowton Mill",
+    "lat": 52.7102,
+    "lng": -2.9409,
+    "url": "http://www.windmillworld.com/millid/1239.htm",
+    "location": "Alberbury",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Albrighton",
+    "lat": 52.63384,
+    "lng": -2.2929,
+    "url": "http://www.windmillworld.com/millid/1265.htm",
+    "location": "Albrighton",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Bayston Hill",
+    "lat": 52.65609,
+    "lng": -2.7853,
+    "url": "http://www.windmillworld.com/millid/1245.htm",
+    "location": "Bayston Hill",
+    "type": "tower",
+    "condition": "processed hemp/flax fibres, and drove a rope walk"
+  },
+  {
+    "name": "Syners Hill Lesser Mill",
+    "lat": 52.61303,
+    "lng": -2.4865,
+    "url": "http://www.windmillworld.com/millid/extra26.htm",
+    "location": "Broseley",
+    "type": "tower",
+    "condition": "truncated stump"
+  },
+  {
+    "name": "Howle Mill",
+    "lat": 52.80788,
+    "lng": -2.4531,
+    "url": "http://www.windmillworld.com/millid/1260.htm",
+    "location": "Chetwynd",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Coton Mill",
+    "lat": 52.91125,
+    "lng": -2.683,
+    "url": "http://www.windmillworld.com/millid/1250.htm",
+    "location": "Cotonwood",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Hillside Mill",
+    "lat": 52.48616,
+    "lng": -2.6008,
+    "url": "http://www.windmillworld.com/millid/1564.htm",
+    "location": "Ditton Priors",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Waterloo Mill",
+    "lat": 52.78496,
+    "lng": -2.7082,
+    "url": "http://www.windmillworld.com/millid/1249.htm",
+    "location": "Hadnall",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Shotton Farm Mill",
+    "lat": 52.78952,
+    "lng": -2.7487,
+    "url": "http://www.windmillworld.com/millid/1247.htm",
+    "location": "Harmer Hill",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Longford",
+    "lat": 52.75936,
+    "lng": -2.4191,
+    "url": "http://www.windmillworld.com/millid/1261.htm",
+    "location": "Longford",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Much Wenlock",
+    "lat": 52.60379,
+    "lng": -2.5551,
+    "url": "http://www.windmillworld.com/millid/1255.htm",
+    "location": "Much Wenlock",
+    "type": "tower",
+    "condition": "derelict, with plans for conservation"
+  },
+  {
+    "name": "Asterley",
+    "lat": 52.66156,
+    "lng": -2.9285,
+    "url": "http://www.windmillworld.com/millid/1240.htm",
+    "location": "Pontesbury",
+    "type": "tower",
+    "condition": "visually complete"
+  },
+  {
+    "name": "Rodington",
+    "lat": 52.72629,
+    "lng": -2.6085,
+    "url": "http://www.windmillworld.com/millid/1252.htm",
+    "location": "Rodington",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Upton Mill",
+    "lat": 52.65713,
+    "lng": -2.362,
+    "url": "http://www.windmillworld.com/millid/1262.htm",
+    "location": "Shifnal",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Hadley Park",
+    "lat": 52.71764,
+    "lng": -2.4793,
+    "url": "http://www.windmillworld.com/millid/1257.htm",
+    "location": "Telford",
+    "type": "tower",
+    "condition": "was worked by wind and water"
+  },
+  {
+    "name": "Madeley Court",
+    "lat": 52.64423,
+    "lng": -2.4489,
+    "url": "http://www.windmillworld.com/millid/1259.htm",
+    "location": "Telford",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Vennington Mill",
+    "lat": 52.68018,
+    "lng": -2.9816,
+    "url": "http://www.windmillworld.com/millid/1234.htm",
+    "location": "Westbury",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Hawkstone Mill",
+    "lat": 52.86322,
+    "lng": -2.6452,
+    "url": "http://www.windmillworld.com/millid/1251.htm",
+    "location": "Weston under Redcastle",
+    "type": "tower",
+    "condition": "used for linseed oil processing"
+  },
+  {
+    "name": "Cluddley Mill",
+    "lat": 52.68957,
+    "lng": -2.5463,
+    "url": "http://www.windmillworld.com/millid/1256.htm",
+    "location": "Wrockwardine",
+    "type": "tower",
+    "condition": null
+  }
+]

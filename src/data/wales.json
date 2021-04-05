@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Abergele",
+    "lat": 53.28294,
+    "lng": -3.5818,
+    "url": "http://www.windmillworld.com/millid/wales53.htm",
+    "location": "Abergele",
+    "type": "tower",
+    "condition": "\n      partial outline of tower visible in different colour brick in warehouse to which it was once attached.\n    "
+  },
+  {
+    "name": "Amlwch Port, Anglesey",
+    "lat": 53.41504,
+    "lng": -4.3358,
+    "url": "http://www.windmillworld.com/millid/wales26.htm",
+    "location": "Amlwch Port, Anglesey",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Amlwch, Anglesey",
+    "lat": 53.40298,
+    "lng": -4.3482,
+    "url": "http://www.windmillworld.com/millid/wales33.htm",
+    "location": "Amlwch, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Angle",
+    "lat": 51.67562,
+    "lng": -5.0867,
+    "url": "http://www.windmillworld.com/millid/wales45.htm",
+    "location": "Angle",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Bettisfield",
+    "lat": 52.90889,
+    "lng": -2.7864,
+    "url": "http://www.windmillworld.com/millid/wales27.htm",
+    "location": "Bettisfield",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Bodffordd, Anglesey",
+    "lat": 53.26879,
+    "lng": -4.3604,
+    "url": "http://www.windmillworld.com/millid/wales8.htm",
+    "location": "Bodffordd, Anglesey",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Melin y Bont",
+    "lat": 53.22417,
+    "lng": -4.4795,
+    "url": "http://www.windmillworld.com/millid/wales7.htm",
+    "location": "Bryn Du, Anglesey",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Maelgwyn Mill",
+    "lat": 53.22612,
+    "lng": -4.485,
+    "url": "http://www.windmillworld.com/millid/wales6.htm",
+    "location": "Bryn Du, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Brynteg, Anglesey",
+    "lat": 53.32131,
+    "lng": -4.2581,
+    "url": "http://www.windmillworld.com/millid/wales13.htm",
+    "location": "Brynteg, Anglesey",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Bull Bay, Anglesey",
+    "lat": 53.42136,
+    "lng": -4.3844,
+    "url": "http://www.windmillworld.com/millid/wales41.htm",
+    "location": "Bull Bay, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Caerdegog Uchaf, Anglesey",
+    "lat": 53.39353,
+    "lng": -4.4943,
+    "url": "http://www.windmillworld.com/millid/wales37.htm",
+    "location": "Caerdegog Uchaf, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Capel Coch, Anglesea",
+    "lat": 53.31242,
+    "lng": -4.3164,
+    "url": "http://www.windmillworld.com/millid/wales19.htm",
+    "location": "Capel Coch, Anglesea",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Cemaes, Anglesey",
+    "lat": 53.40518,
+    "lng": -4.459,
+    "url": "http://www.windmillworld.com/millid/wales11.htm",
+    "location": "Cemaes, Anglesey",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Dale",
+    "lat": 51.71258,
+    "lng": -5.1725,
+    "url": "http://www.windmillworld.com/millid/wales50.htm",
+    "location": "Dale",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Foel Fawr, Mynytho",
+    "lat": 52.85954,
+    "lng": -4.5175,
+    "url": "http://www.windmillworld.com/millid/wales22.htm",
+    "location": "Foel Fawr, Mynytho",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Melin Berw",
+    "lat": 53.22567,
+    "lng": -4.2875,
+    "url": "http://www.windmillworld.com/millid/wales52.htm",
+    "location": "Gaerwen",
+    "type": "tower",
+    "condition": "incorporated into a house"
+  },
+  {
+    "name": "Gaerwen, Anglesey",
+    "lat": 53.22416,
+    "lng": -4.2809,
+    "url": "http://www.windmillworld.com/millid/wales15.htm",
+    "location": "Gaerwen, Anglesey",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Gaerwen, Anglesey",
+    "lat": 53.22322,
+    "lng": -4.2697,
+    "url": "http://www.windmillworld.com/millid/wales16.htm",
+    "location": "Gaerwen, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Glan-Yr-Afon, Felin Wynt; Marian Dyrys Windmill",
+    "lat": 53.30904,
+    "lng": -4.0903,
+    "url": "http://www.windmillworld.com/millid/wales12.htm",
+    "location": "Glan-Yr-Afon, Felin Wynt; Marian Dyrys Windmill",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Glanwydden",
+    "lat": 53.30785,
+    "lng": -3.777,
+    "url": "http://www.windmillworld.com/millid/wales51.htm",
+    "location": "Glanwydden",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Grugmor, Anglesey",
+    "lat": 53.3681,
+    "lng": -4.5485,
+    "url": "http://www.windmillworld.com/millid/wales36.htm",
+    "location": "Grugmor, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Gwalchmai, Anglesey",
+    "lat": 53.25527,
+    "lng": -4.4226,
+    "url": "http://www.windmillworld.com/millid/wales39.htm",
+    "location": "Gwalchmai, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Hen Dwr, Nant-Y-Gamar Road, Llandudno; Old Tower",
+    "lat": 53.3138,
+    "lng": -3.7964,
+    "url": "http://www.windmillworld.com/millid/wales46.htm",
+    "location": "Hen Dwr, Nant-Y-Gamar Road, Llandudno; Old Tower",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Hermon, Anglesea",
+    "lat": 53.19357,
+    "lng": -4.4113,
+    "url": "http://www.windmillworld.com/millid/wales17.htm",
+    "location": "Hermon, Anglesea",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "George's Mill",
+    "lat": 53.29748,
+    "lng": -4.6296,
+    "url": "http://www.windmillworld.com/millid/wales34.htm",
+    "location": "Holyhead, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Holywell",
+    "lat": 53.27316,
+    "lng": -3.2152,
+    "url": "http://www.windmillworld.com/millid/wales23.htm",
+    "location": "Holywell",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Llandrygan, Anglesey",
+    "lat": 53.29492,
+    "lng": -4.4169,
+    "url": "http://www.windmillworld.com/millid/wales38.htm",
+    "location": "Llandrygan, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Llanengan, Gwynedd",
+    "lat": 52.8187,
+    "lng": -4.5281,
+    "url": "http://www.windmillworld.com/millid/wales24.htm",
+    "location": "Llanengan, Gwynedd",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Llanerchymedd, Anglesey",
+    "lat": 53.3284,
+    "lng": -4.3674,
+    "url": "http://www.windmillworld.com/millid/wales9.htm",
+    "location": "Llanerchymedd, Anglesey",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Llangefni, Anglesey",
+    "lat": 53.25657,
+    "lng": -4.3028,
+    "url": "http://www.windmillworld.com/millid/wales14.htm",
+    "location": "Llangefni, Anglesey",
+    "type": "tower",
+    "condition": "used as telecoms tower"
+  },
+  {
+    "name": "Y Billy Wynt",
+    "lat": 51.5422,
+    "lng": -3.3814,
+    "url": "http://www.windmillworld.com/millid/wales47.htm",
+    "location": "Llantrisant",
+    "type": "tower",
+    "condition": "truncated"
+  },
+  {
+    "name": "Frampton Windmill",
+    "lat": 51.41372,
+    "lng": -3.48,
+    "url": "http://www.windmillworld.com/millid/wales21.htm",
+    "location": "Llantwit Major",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Llantwit Major",
+    "lat": 51.40653,
+    "lng": -3.4944,
+    "url": "http://www.windmillworld.com/millid/wales32.htm",
+    "location": "Llantwit Major",
+    "type": "tower",
+    "condition": "ruin"
+  },
+  {
+    "name": "Llechcynfarwy, Anglesea",
+    "lat": 53.30909,
+    "lng": -4.4291,
+    "url": "http://www.windmillworld.com/millid/wales20.htm",
+    "location": "Llechcynfarwy, Anglesea",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Lower Llancayo; Llancayo Farm Outbuildings, Usk",
+    "lat": 51.72232,
+    "lng": -2.9199,
+    "url": "http://www.windmillworld.com/millid/wales4.htm",
+    "location": "Lower Llancayo; Llancayo Farm Outbuildings, Usk",
+    "type": "tower",
+    "condition": "House converted 2008"
+  },
+  {
+    "name": "Melin Llynnon, Anglesey",
+    "lat": 53.33783,
+    "lng": -4.4939,
+    "url": "http://www.windmillworld.com/millid/wales1.htm",
+    "location": "Melin Llynnon, Anglesey",
+    "type": "tower",
+    "condition": "\n      Restored to working order\n    "
+  },
+  {
+    "name": "Melin Manaw, Anglesey",
+    "lat": 53.28753,
+    "lng": -4.4632,
+    "url": "http://www.windmillworld.com/millid/wales43.htm",
+    "location": "Melin Manaw, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Monknash Windmill",
+    "lat": 51.42413,
+    "lng": -3.5566,
+    "url": "http://www.windmillworld.com/millid/wales31.htm",
+    "location": "Monknash Windmill",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Mynydd Mechell, Anglesey",
+    "lat": 53.38251,
+    "lng": -4.4641,
+    "url": "http://www.windmillworld.com/millid/wales10.htm",
+    "location": "Mynydd Mechell, Anglesey",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Pant Y Gwydd, Anglesey",
+    "lat": 53.37034,
+    "lng": -4.4582,
+    "url": "http://www.windmillworld.com/millid/wales42.htm",
+    "location": "Pant Y Gwydd, Anglesey",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "Parys mountain, Amlwch, Anglesey",
+    "lat": 53.3884,
+    "lng": -4.3424,
+    "url": "http://www.windmillworld.com/millid/wales2.htm",
+    "location": "Parys mountain, Amlwch, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Pen y fan Bellaf, Anglesey",
+    "lat": 53.28266,
+    "lng": -4.2757,
+    "url": "http://www.windmillworld.com/millid/wales40.htm",
+    "location": "Pen y fan Bellaf, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Rhoscefnhir, Anglesey",
+    "lat": 53.26299,
+    "lng": -4.2156,
+    "url": "http://www.windmillworld.com/millid/wales25.htm",
+    "location": "Rhoscefnhir, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Rhostrehwfa, Anglesey",
+    "lat": 53.24654,
+    "lng": -4.3405,
+    "url": "http://www.windmillworld.com/millid/wales44.htm",
+    "location": "Rhostrehwfa, Anglesey",
+    "type": "tower",
+    "condition": "circular foundations only visible"
+  },
+  {
+    "name": "Rogiet",
+    "lat": 51.59048,
+    "lng": -2.7877,
+    "url": "http://www.windmillworld.com/millid/wales3.htm",
+    "location": "Rogiet",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Twr y Felin",
+    "lat": 51.879,
+    "lng": -5.259,
+    "url": "http://www.windmillworld.com/millid/wales29.htm",
+    "location": "St Davids, Pembrokeshire",
+    "type": "tower",
+    "condition": "converted into a hotel"
+  },
+  {
+    "name": "St y Nyll",
+    "lat": 51.49614,
+    "lng": -3.2992,
+    "url": "http://www.windmillworld.com/millid/wales48.htm",
+    "location": "St y Nyll",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "St. Justinians",
+    "lat": 51.87958,
+    "lng": -5.3099,
+    "url": "http://www.windmillworld.com/millid/wales49.htm",
+    "location": "St. Justinians",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Hayes Farm",
+    "lat": 51.40352,
+    "lng": -3.2362,
+    "url": "http://www.windmillworld.com/millid/wales5.htm",
+    "location": "Sully Windmill",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Kilvey Hill",
+    "lat": 51.62867,
+    "lng": -3.9183,
+    "url": "http://www.windmillworld.com/millid/wales54.htm",
+    "location": "Swansea",
+    "type": "tower",
+    "condition": "just a few stones of the ruined mill wall remaining"
+  },
+  {
+    "name": "Stanley Windmill",
+    "lat": 53.27833,
+    "lng": -4.602,
+    "url": "http://www.windmillworld.com/millid/wales35.htm",
+    "location": "Trearddur Bay, Anglesey",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Twr-Y-Felin, Llandegfan",
+    "lat": 53.2437,
+    "lng": -4.1503,
+    "url": "http://www.windmillworld.com/millid/wales18.htm",
+    "location": "Twr-Y-Felin, Llandegfan",
+    "type": "tower",
+    "condition": "truncated"
+  },
+  {
+    "name": "Wick",
+    "lat": 51.43719,
+    "lng": -3.5497,
+    "url": "http://www.windmillworld.com/millid/wales28.htm",
+    "location": "Wick",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "Wick",
+    "lat": 51.43663,
+    "lng": -3.5469,
+    "url": "http://www.windmillworld.com/millid/wales30.htm",
+    "location": "Wick",
+    "type": "tower",
+    "condition": null
+  }
+]

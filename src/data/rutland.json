@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Croxton Kerrial",
+    "lat": 52.85255,
+    "lng": -0.7582,
+    "url": "http://www.windmillworld.com/millid/1519.htm",
+    "location": "Croxton Kerrial",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "Greetham",
+    "lat": 52.70659,
+    "lng": -0.5925,
+    "url": "http://www.windmillworld.com/millid/1547.htm",
+    "location": "Greetham",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "Ketton",
+    "lat": 52.63081,
+    "lng": -0.5653,
+    "url": "http://www.windmillworld.com/millid/1550.htm",
+    "location": "Ketton",
+    "type": "tower mill",
+    "condition": "Within land owned by Castle Cement, but field is explicitly excluded from being quarried for limestone"
+  },
+  {
+    "name": "Morcott",
+    "lat": 52.59097,
+    "lng": -0.6277,
+    "url": "http://www.windmillworld.com/millid/1540.htm",
+    "location": "Morcott",
+    "type": "tower mill",
+    "condition": "rebuilt from a truncated tower into a dummy mill for residential purposes"
+  },
+  {
+    "name": "Seaton",
+    "lat": 52.56799,
+    "lng": -0.6619,
+    "url": "http://www.windmillworld.com/millid/1708.htm",
+    "location": "Seaton",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "South Luffenham",
+    "lat": 52.61231,
+    "lng": -0.6028,
+    "url": "http://www.windmillworld.com/millid/1545.htm",
+    "location": "South Luffenham",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Whissendine",
+    "lat": 52.71954,
+    "lng": -0.7821,
+    "url": "http://www.windmillworld.com/millid/1515.htm",
+    "location": "Whissendine",
+    "type": "tower mill",
+    "condition": "working"
+  }
+]

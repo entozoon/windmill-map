@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Balsall Heath Mill",
+    "lat": 52.38075,
+    "lng": -1.6353,
+    "url": "http://www.windmillworld.com/millid/1600.htm",
+    "location": "Berkswell",
+    "type": "tower mill",
+    "condition": "previously restored, but had deteriorated and now undergoing a further restoration"
+  },
+  {
+    "name": "The Beacon",
+    "lat": 52.16559,
+    "lng": -1.4246,
+    "url": "http://www.windmillworld.com/millid/1623.htm",
+    "location": "Burton Dassett",
+    "type": "tower mill",
+    "condition": "possible remains, recorded as derelict in 1321!"
+  },
+  {
+    "name": "Chesterton",
+    "lat": 52.23125,
+    "lng": -1.4909,
+    "url": "http://www.windmillworld.com/millid/1612.htm",
+    "location": "Chesterton",
+    "type": "tower mill",
+    "condition": "unique design, with arched base - Grade I listed"
+  },
+  {
+    "name": "Corley Moor Mill",
+    "lat": 52.46192,
+    "lng": -1.594,
+    "url": "http://www.windmillworld.com/millid/1601.htm",
+    "location": "Fillongley",
+    "type": "tower mill",
+    "condition": "House converted c1977"
+  },
+  {
+    "name": "Harbury",
+    "lat": 52.23695,
+    "lng": -1.4561,
+    "url": "http://www.windmillworld.com/millid/1616.htm",
+    "location": "Harbury",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Tainter's Hill Mill",
+    "lat": 52.35235,
+    "lng": -1.5761,
+    "url": "http://www.windmillworld.com/millid/1605.htm",
+    "location": "Kenilworth",
+    "type": "tower mill",
+    "condition": "House converted, but also spent some time as a water tower"
+  },
+  {
+    "name": "Pittern Hill Mill",
+    "lat": 52.1626,
+    "lng": -1.5254,
+    "url": "http://www.windmillworld.com/millid/1608.htm",
+    "location": "Kineton",
+    "type": "tower mill",
+    "condition": "much patched, slightly barrel-shaped tower, with domed roof"
+  },
+  {
+    "name": "Napton on the Hill",
+    "lat": 52.24775,
+    "lng": -1.3305,
+    "url": "http://www.windmillworld.com/millid/1636.htm",
+    "location": "Napton on the Hill",
+    "type": "tower mill",
+    "condition": "house converted, retaining sails"
+  },
+  {
+    "name": "Norton Lindsey",
+    "lat": 52.26708,
+    "lng": -1.6735,
+    "url": "http://www.windmillworld.com/millid/1598.htm",
+    "location": "Norton Lindsey",
+    "type": "tower mill",
+    "condition": "under restoration"
+  },
+  {
+    "name": "Tuttle Hill Mill",
+    "lat": 52.53639,
+    "lng": -1.499,
+    "url": "http://www.windmillworld.com/millid/1611.htm",
+    "location": "Nuneaton",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Bouncing Bess Mill",
+    "lat": 52.32981,
+    "lng": -1.6999,
+    "url": "http://www.windmillworld.com/millid/1593.htm",
+    "location": "Rowington Green",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Old Mill",
+    "lat": 52.25564,
+    "lng": -1.395,
+    "url": "http://www.windmillworld.com/millid/1627.htm",
+    "location": "Southam",
+    "type": "tower",
+    "condition": "low circular wall is all that remains"
+  },
+  {
+    "name": "Thurlaston",
+    "lat": 52.335,
+    "lng": -1.3133,
+    "url": "http://www.windmillworld.com/millid/1637.htm",
+    "location": "Thurlaston",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Upper Tysoe",
+    "lat": 52.08168,
+    "lng": -1.5175,
+    "url": "http://www.windmillworld.com/millid/1609.htm",
+    "location": "Upper Tysoe",
+    "type": "tower mill",
+    "condition": "restored with metal roofed cap.  Sails consist of stocks only (March 2004)."
+  }
+]

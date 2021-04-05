@@ -1,0 +1,569 @@
+[
+  {
+    "name": "\nArrington\n",
+    "lat": 52.14309,
+    "lng": -0.0684,
+    "url": "http://www.windmillworld.com/millid/2315.htm",
+    "location": "\nArrington\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nBalsham\n",
+    "lat": 52.1286,
+    "lng": 0.30508,
+    "url": "http://www.windmillworld.com/millid/2386.htm",
+    "location": "\nBalsham\n",
+    "type": "smock mill",
+    "condition": "Just foundations remain"
+  },
+  {
+    "name": "\nBarnack\n",
+    "lat": 52.63107,
+    "lng": -0.4214,
+    "url": "http://www.windmillworld.com/millid/1958.htm",
+    "location": "\nBarnack\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Orwell",
+    "lat": 52.12405,
+    "lng": 0.02255,
+    "url": "http://www.windmillworld.com/millid/2324.htm",
+    "location": "\nBarrington\n",
+    "type": "tower mill",
+    "condition": "house converted, with crenellations"
+  },
+  {
+    "name": "\nBourn\n",
+    "lat": 52.20466,
+    "lng": -0.0816,
+    "url": "http://www.windmillworld.com/millid/2312.htm",
+    "location": "\nBourn\n",
+    "type": "open trestle post mill",
+    "condition": "conserved"
+  },
+  {
+    "name": "\nBuckden\n",
+    "lat": 52.28981,
+    "lng": -0.2595,
+    "url": "http://www.windmillworld.com/millid/2286.htm",
+    "location": "\nBuckden\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Stevens' Mill",
+    "lat": 52.27288,
+    "lng": 0.3293,
+    "url": "http://www.windmillworld.com/millid/2395.htm",
+    "location": "\nBurwell\n",
+    "type": "tower",
+    "condition": "newly tarred in 2004, restored 2014"
+  },
+  {
+    "name": "Big Mill",
+    "lat": 52.27454,
+    "lng": 0.33073,
+    "url": "http://www.windmillworld.com/millid/2396.htm",
+    "location": "\nBurwell\n",
+    "type": "tower",
+    "condition": "thatched truncated tower"
+  },
+  {
+    "name": "French's Mill",
+    "lat": 52.2188,
+    "lng": 0.11464,
+    "url": "http://www.windmillworld.com/millid/2344.htm",
+    "location": "\nCambridge\n",
+    "type": "smock",
+    "condition": "converted to offices"
+  },
+  {
+    "name": "\nCastor\n",
+    "lat": 52.55703,
+    "lng": -0.3359,
+    "url": "http://www.windmillworld.com/millid/2275.htm",
+    "location": "\nCastor\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "\nChippenham\n",
+    "lat": 52.30842,
+    "lng": 0.43082,
+    "url": "http://www.windmillworld.com/millid/2418.htm",
+    "location": "\nChippenham\n",
+    "type": "smock mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nCoates\n",
+    "lat": 52.55945,
+    "lng": -0.079,
+    "url": "http://www.windmillworld.com/millid/2309.htm",
+    "location": "\nCoates\n",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "\nCottenham\n",
+    "lat": 52.28561,
+    "lng": 0.11572,
+    "url": "http://www.windmillworld.com/millid/2342.htm",
+    "location": "\nCottenham\n",
+    "type": "tower",
+    "condition": "now used as water tower"
+  },
+  {
+    "name": "\nDoddington\n",
+    "lat": 52.49833,
+    "lng": 0.06141,
+    "url": "http://www.windmillworld.com/millid/2329.htm",
+    "location": "\nDoddington\n",
+    "type": "tower mill",
+    "condition": "truncated tower, new roof c2012"
+  },
+  {
+    "name": "Duloe Mill",
+    "lat": 52.22834,
+    "lng": -0.2865,
+    "url": "http://www.windmillworld.com/millid/2281.htm",
+    "location": "\nEaton Socon\n",
+    "type": "tower mill",
+    "condition": "house converted"
+  },
+  {
+    "name": "Papworth's Mill",
+    "lat": 52.25934,
+    "lng": -0.0584,
+    "url": "http://www.windmillworld.com/millid/2316.htm",
+    "location": "\nElsworth\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Cobbin's Mill",
+    "lat": 52.41202,
+    "lng": 0.25371,
+    "url": "http://www.windmillworld.com/millid/2366.htm",
+    "location": "\nEly\n",
+    "type": "smock mill",
+    "condition": null
+  },
+  {
+    "name": "\nFoxton\n",
+    "lat": 52.11515,
+    "lng": 0.05364,
+    "url": "http://www.windmillworld.com/millid/2332.htm",
+    "location": "\nFoxton\n",
+    "type": "smock mill",
+    "condition": "under restoration"
+  },
+  {
+    "name": "\nFulbourn\n",
+    "lat": 52.18096,
+    "lng": 0.20749,
+    "url": "http://www.windmillworld.com/millid/2360.htm",
+    "location": "\nFulbourn\n",
+    "type": "smock",
+    "condition": "restored"
+  },
+  {
+    "name": "\nGreat Chishill\n",
+    "lat": 52.02999,
+    "lng": 0.05858,
+    "url": "http://www.windmillworld.com/millid/2336.htm",
+    "location": "\nGreat Chishill\n",
+    "type": "open trestle post mill",
+    "condition": "restored 2019"
+  },
+  {
+    "name": "\nGreat Gidding\n",
+    "lat": 52.43461,
+    "lng": -0.3496,
+    "url": "http://www.windmillworld.com/millid/2273.htm",
+    "location": "\nGreat Gidding\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nGreat Gransden\n",
+    "lat": 52.18315,
+    "lng": -0.1333,
+    "url": "http://www.windmillworld.com/millid/2303.htm",
+    "location": "\nGreat Gransden\n",
+    "type": "open trestle post mill",
+    "condition": "renovated 2018"
+  },
+  {
+    "name": "Hooks Mill",
+    "lat": 52.09073,
+    "lng": -0.1461,
+    "url": "http://www.windmillworld.com/millid/2302.htm",
+    "location": "\nGuilden Morden\n",
+    "type": "tower",
+    "condition": "roofed tower"
+  },
+  {
+    "name": "Great Mill",
+    "lat": 52.34923,
+    "lng": 0.13828,
+    "url": "http://www.windmillworld.com/millid/2348.htm",
+    "location": "\nHaddenham\n",
+    "type": "tower",
+    "condition": "restored"
+  },
+  {
+    "name": "\nHarston\n",
+    "lat": 52.1311,
+    "lng": 0.09088,
+    "url": "http://www.windmillworld.com/millid/2339.htm",
+    "location": "\nHarston\n",
+    "type": "tower",
+    "condition": "truncated"
+  },
+  {
+    "name": "\nHemingford Grey\n",
+    "lat": 52.31971,
+    "lng": -0.0942,
+    "url": "http://www.windmillworld.com/millid/2308.htm",
+    "location": "\nHemingford Grey\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nHildersham\n",
+    "lat": 52.10852,
+    "lng": 0.25518,
+    "url": "http://www.windmillworld.com/millid/2372.htm",
+    "location": "\nHildersham\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nIckleton\n",
+    "lat": 52.07586,
+    "lng": 0.16729,
+    "url": "http://www.windmillworld.com/millid/2354.htm",
+    "location": "\nIckleton\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nImpington\n",
+    "lat": 52.24027,
+    "lng": 0.10975,
+    "url": "http://www.windmillworld.com/millid/2341.htm",
+    "location": "\nImpington\n",
+    "type": "smock",
+    "condition": "undergoing restoration"
+  },
+  {
+    "name": "\nLinton\n",
+    "lat": 52.09114,
+    "lng": 0.28721,
+    "url": "http://www.windmillworld.com/millid/2382.htm",
+    "location": "\nLinton\n",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Little Downham Mill",
+    "lat": 52.43098,
+    "lng": 0.25047,
+    "url": "http://www.windmillworld.com/millid/2365.htm",
+    "location": "\nLittle Downham\n",
+    "type": "tower mill",
+    "condition": "house converted 2017"
+  },
+  {
+    "name": "\nLittle Wilbraham\n",
+    "lat": 52.20163,
+    "lng": 0.24524,
+    "url": "http://www.windmillworld.com/millid/2368.htm",
+    "location": "\nLittle Wilbraham\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nMadingley\n",
+    "lat": 52.21584,
+    "lng": 0.05947,
+    "url": "http://www.windmillworld.com/millid/2333.htm",
+    "location": "\nMadingley\n",
+    "type": "post",
+    "condition": "restored"
+  },
+  {
+    "name": "\nOver\n",
+    "lat": 52.30066,
+    "lng": 0.0236,
+    "url": "http://www.windmillworld.com/millid/2322.htm",
+    "location": "\nOver\n",
+    "type": "tower",
+    "condition": "restored"
+  },
+  {
+    "name": "\nPymore\n",
+    "lat": 52.45519,
+    "lng": 0.20736,
+    "url": "http://www.windmillworld.com/millid/2356.htm",
+    "location": "\nPymore\n",
+    "type": "tower",
+    "condition": "residential conversion"
+  },
+  {
+    "name": "\nRamsey\n",
+    "lat": 52.45339,
+    "lng": -0.1049,
+    "url": "http://www.windmillworld.com/millid/2307.htm",
+    "location": "\nRamsey\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "St Mary's Mill",
+    "lat": 52.4713,
+    "lng": -0.1631,
+    "url": "http://www.windmillworld.com/millid/2297.htm",
+    "location": "\nRamsey St Mary's\n",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "Bannister's Mill",
+    "lat": 52.43754,
+    "lng": -0.2897,
+    "url": "http://www.windmillworld.com/millid/2279.htm",
+    "location": "\nSawtry\n",
+    "type": "smock",
+    "condition": "house converted"
+  },
+  {
+    "name": "Bungalow Hill",
+    "lat": 52.19901,
+    "lng": 0.32247,
+    "url": "http://www.windmillworld.com/millid/2391.htm",
+    "location": "\nSix Mile Bottom\n",
+    "type": "post",
+    "condition": "conserved - surroundings have been drastically changed in 2005 with the building of a new house alongside"
+  },
+  {
+    "name": "Downfield Mill",
+    "lat": 52.32029,
+    "lng": 0.35797,
+    "url": "http://www.windmillworld.com/millid/2403.htm",
+    "location": "\nSoham\n",
+    "type": "tower",
+    "condition": "restored 2014/15, now has 4 sails, though it worked on just 2 sails for many years"
+  },
+  {
+    "name": "Northfield Mill (aka Shade Mill)",
+    "lat": 52.35092,
+    "lng": 0.3289,
+    "url": "http://www.windmillworld.com/millid/2390.htm",
+    "location": "\nSoham\n",
+    "type": "smock",
+    "condition": "complete - part restored"
+  },
+  {
+    "name": "Belton's Mill",
+    "lat": 52.35019,
+    "lng": -0.3442,
+    "url": "http://www.windmillworld.com/millid/2274.htm",
+    "location": "\nSpaldwick\n",
+    "type": "tower",
+    "condition": "very ruinous"
+  },
+  {
+    "name": "\nStanground\n",
+    "lat": 52.54558,
+    "lng": -0.2297,
+    "url": "http://www.windmillworld.com/millid/2289.htm",
+    "location": "\nStanground\n",
+    "type": "tower mill",
+    "condition": "House converted prior to 2003"
+  },
+  {
+    "name": "Saunderson's Mill",
+    "lat": 52.06131,
+    "lng": -0.1278,
+    "url": "http://www.windmillworld.com/millid/2306.htm",
+    "location": "\nSteeple Morden\n",
+    "type": "smock",
+    "condition": null
+  },
+  {
+    "name": "\nStretham\n",
+    "lat": 52.35177,
+    "lng": 0.2187,
+    "url": "http://www.windmillworld.com/millid/2361.htm",
+    "location": "\nStretham\n",
+    "type": "tower",
+    "condition": "house converted, with recent addition of dummy sails"
+  },
+  {
+    "name": "Foster's Mill",
+    "lat": 52.25379,
+    "lng": 0.30204,
+    "url": "http://www.windmillworld.com/millid/2384.htm",
+    "location": "\nSwaffham Prior\n",
+    "type": "tower",
+    "condition": "working"
+  },
+  {
+    "name": "\nSwaffham Prior\n",
+    "lat": 52.25326,
+    "lng": 0.30384,
+    "url": "http://www.windmillworld.com/millid/2385.htm",
+    "location": "\nSwaffham Prior\n",
+    "type": "smock",
+    "condition": "rebuilt residential dummy"
+  },
+  {
+    "name": "Hale Mill",
+    "lat": 52.30019,
+    "lng": -0.0165,
+    "url": "http://www.windmillworld.com/millid/2320.htm",
+    "location": "\nSwavesey\n",
+    "type": "tower",
+    "condition": "house converted"
+  },
+  {
+    "name": "\nThorney\n",
+    "lat": 52.6218,
+    "lng": -0.1128,
+    "url": "http://www.windmillworld.com/millid/2304.htm",
+    "location": "\nThorney\n",
+    "type": "tower",
+    "condition": "converted"
+  },
+  {
+    "name": "Shepherds Mill",
+    "lat": 52.60656,
+    "lng": 0.22767,
+    "url": "http://www.windmillworld.com/millid/2358.htm",
+    "location": "\nUpwell\n",
+    "type": "tower",
+    "condition": "Converted - spent time as a hotel and restaurant"
+  },
+  {
+    "name": "Setchell's Mill",
+    "lat": 52.42233,
+    "lng": -0.1499,
+    "url": "http://www.windmillworld.com/millid/2300.htm",
+    "location": "\nUpwood\n",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "\nWerrington\n",
+    "lat": 52.61595,
+    "lng": -0.281,
+    "url": "http://www.windmillworld.com/millid/2280.htm",
+    "location": "\nWerrington\n",
+    "type": "tower",
+    "condition": "mock cap fitted c1993, with mock fantail"
+  },
+  {
+    "name": "Streetly End Mill",
+    "lat": 52.10833,
+    "lng": 0.35506,
+    "url": "http://www.windmillworld.com/millid/2406.htm",
+    "location": "\nWest Wickham\n",
+    "type": "tower",
+    "condition": null
+  },
+  {
+    "name": "\nWest Wratting\n",
+    "lat": 52.13405,
+    "lng": 0.34433,
+    "url": "http://www.windmillworld.com/millid/2401.htm",
+    "location": "\nWest Wratting\n",
+    "type": "smock",
+    "condition": null
+  },
+  {
+    "name": "\nWeston Colville\n",
+    "lat": 52.15127,
+    "lng": 0.36584,
+    "url": "http://www.windmillworld.com/millid/2409.htm",
+    "location": "\nWeston Colville\n",
+    "type": "smock",
+    "condition": "converted"
+  },
+  {
+    "name": "Elderkin's Mill",
+    "lat": 52.56089,
+    "lng": -0.1373,
+    "url": "http://www.windmillworld.com/millid/2301.htm",
+    "location": "\nWhittlesey\n",
+    "type": "tower",
+    "condition": "derelict"
+  },
+  {
+    "name": "\nWicken\n",
+    "lat": 52.31085,
+    "lng": 0.3023,
+    "url": "http://www.windmillworld.com/millid/2383.htm",
+    "location": "\nWicken\n",
+    "type": "smock",
+    "condition": "restored - now in working order"
+  },
+  {
+    "name": "\nWicken Fen\n",
+    "lat": 52.31111,
+    "lng": 0.28995,
+    "url": "http://www.windmillworld.com/millid/2377.htm",
+    "location": "\nWicken Fen\n",
+    "type": "4 sided smock windpump",
+    "condition": "worked occasionally"
+  },
+  {
+    "name": "Cattell's mill",
+    "lat": 52.30791,
+    "lng": 0.05836,
+    "url": "http://www.windmillworld.com/millid/2331.htm",
+    "location": "\nWillingham\n",
+    "type": "smock",
+    "condition": "being restored"
+  },
+  {
+    "name": "Ingle's Mill",
+    "lat": 52.30776,
+    "lng": 0.06333,
+    "url": "http://www.windmillworld.com/millid/2334.htm",
+    "location": "\nWillingham\n",
+    "type": "smock",
+    "condition": "base"
+  },
+  {
+    "name": "Leach's Mill",
+    "lat": 52.66849,
+    "lng": 0.16316,
+    "url": "http://www.windmillworld.com/millid/2056.htm",
+    "location": "\nWisbech\n",
+    "type": "tower",
+    "condition": "was 8 sailed"
+  },
+  {
+    "name": "Higney Mill",
+    "lat": 52.4609,
+    "lng": -0.2134,
+    "url": "http://www.windmillworld.com/millid/2293.htm",
+    "location": "\nWood Walton Fen\n",
+    "type": "tower mill",
+    "condition": "truncated tower"
+  },
+  {
+    "name": "\nWoodditton\n",
+    "lat": 52.20622,
+    "lng": 0.43416,
+    "url": "http://www.windmillworld.com/millid/2421.htm",
+    "location": "\nWoodditton\n",
+    "type": "smock",
+    "condition": "base"
+  }
+]

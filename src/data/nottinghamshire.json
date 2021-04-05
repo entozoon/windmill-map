@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Besthorpe",
+    "lat": 53.17639,
+    "lng": -0.7547,
+    "url": "http://www.windmillworld.com/millid/205.htm",
+    "location": "Besthorpe",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Blidworth",
+    "lat": 53.09561,
+    "lng": -1.1266,
+    "url": "http://www.windmillworld.com/millid/161.htm",
+    "location": "Blidworth",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Carlton-on-Trent",
+    "lat": 53.17037,
+    "lng": -0.8004,
+    "url": "http://www.windmillworld.com/millid/165.htm",
+    "location": "Carlton-on-Trent",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Caunton",
+    "lat": 53.13552,
+    "lng": -0.8914,
+    "url": "http://www.windmillworld.com/millid/166.htm",
+    "location": "Caunton",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Coddington",
+    "lat": 53.0728,
+    "lng": -0.7594,
+    "url": "http://www.windmillworld.com/millid/167.htm",
+    "location": "Coddington",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Eakring",
+    "lat": 53.15494,
+    "lng": -0.9958,
+    "url": "http://www.windmillworld.com/millid/168.htm",
+    "location": "Eakring",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Kneeton Hills Mill",
+    "lat": 52.99222,
+    "lng": -0.9534,
+    "url": "http://www.windmillworld.com/millid/162.htm",
+    "location": "East Bridgford",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Stokes' Mill",
+    "lat": 52.97982,
+    "lng": -0.9716,
+    "url": "http://www.windmillworld.com/millid/163.htm",
+    "location": "East Bridgford",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Cleveland Mill",
+    "lat": 53.24462,
+    "lng": -0.9078,
+    "url": "http://www.windmillworld.com/millid/184.htm",
+    "location": "East Markham",
+    "type": "",
+    "condition": null
+  },
+  {
+    "name": "Elston",
+    "lat": 53.02108,
+    "lng": -0.8674,
+    "url": "http://www.windmillworld.com/millid/170.htm",
+    "location": "Elston",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Longbottom's Mill",
+    "lat": 53.40614,
+    "lng": -0.9605,
+    "url": "http://www.windmillworld.com/millid/171.htm",
+    "location": "Everton",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Fiskerton Windmill",
+    "lat": 53.05078,
+    "lng": -0.911,
+    "url": "http://www.windmillworld.com/millid/227.htm",
+    "location": "Fiskerton",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Gringley-on-the-Hill",
+    "lat": 53.40724,
+    "lng": -0.9029,
+    "url": "http://www.windmillworld.com/millid/175.htm",
+    "location": "Gringley-on-the-Hill",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Harby",
+    "lat": 53.22667,
+    "lng": -0.6873,
+    "url": "http://www.windmillworld.com/millid/176.htm",
+    "location": "Harby",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "West Mill",
+    "lat": 53.00268,
+    "lng": -1.2706,
+    "url": "http://www.windmillworld.com/millid/213.htm",
+    "location": "Kimberley",
+    "type": "post mill",
+    "condition": "ruin"
+  },
+  {
+    "name": "Misterton",
+    "lat": 53.44022,
+    "lng": -0.8197,
+    "url": "http://www.windmillworld.com/millid/187.htm",
+    "location": "Misterton",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Farndon Mill",
+    "lat": 53.06638,
+    "lng": -0.8377,
+    "url": "http://www.windmillworld.com/millid/172.htm",
+    "location": "Newark",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Shelford Mill",
+    "lat": 52.97256,
+    "lng": -0.9885,
+    "url": "http://www.windmillworld.com/millid/218.htm",
+    "location": "Newton",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Subscription Mill",
+    "lat": 53.32938,
+    "lng": -0.8376,
+    "url": "http://www.windmillworld.com/millid/181.htm",
+    "location": "North Leverton",
+    "type": "tower mill",
+    "condition": "working"
+  },
+  {
+    "name": "Norwell",
+    "lat": 53.14713,
+    "lng": -0.8444,
+    "url": "http://www.windmillworld.com/millid/189.htm",
+    "location": "Norwell",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Radford Mill",
+    "lat": 52.96214,
+    "lng": -1.1856,
+    "url": "http://www.windmillworld.com/millid/226.htm",
+    "location": "Nottingham",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Green's Mill",
+    "lat": 52.9521,
+    "lng": -1.1294,
+    "url": "http://www.windmillworld.com/millid/194.htm",
+    "location": "Sneinton",
+    "type": "tower mill",
+    "condition": "restored"
+  },
+  {
+    "name": "Sutton In Ashfield",
+    "lat": 53.12535,
+    "lng": -1.2528,
+    "url": "http://www.windmillworld.com/millid/228.htm",
+    "location": "Sutton In Ashfield",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Sutton-on-Trent",
+    "lat": 53.18007,
+    "lng": -0.8057,
+    "url": "http://www.windmillworld.com/millid/197.htm",
+    "location": "Sutton-on-Trent",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Mill Mount",
+    "lat": 53.23808,
+    "lng": -0.9027,
+    "url": "http://www.windmillworld.com/millid/222.htm",
+    "location": "Tuxford",
+    "type": "tower mill",
+    "condition": "working full time"
+  },
+  {
+    "name": "Stone End Road Mill",
+    "lat": 53.21585,
+    "lng": -0.8619,
+    "url": "http://www.windmillworld.com/millid/224.htm",
+    "location": "Tuxford",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Upton",
+    "lat": 53.08486,
+    "lng": -0.9011,
+    "url": "http://www.windmillworld.com/millid/229.htm",
+    "location": "Upton",
+    "type": "post mill",
+    "condition": null
+  },
+  {
+    "name": "Forest Mill",
+    "lat": 53.19051,
+    "lng": -1.1299,
+    "url": "http://www.windmillworld.com/millid/201.htm",
+    "location": "Warsop",
+    "type": "tower mill",
+    "condition": null
+  },
+  {
+    "name": "Whatton",
+    "lat": 52.9447,
+    "lng": -0.8953,
+    "url": "http://www.windmillworld.com/millid/203.htm",
+    "location": "Whatton",
+    "type": "tower mill",
+    "condition": null
+  }
+]
