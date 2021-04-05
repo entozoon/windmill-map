@@ -51,7 +51,7 @@ export default class extends Component {
       const { google } = window;
       const home = { lat: 53.3049009, lng: -1.3758539 };
       const map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 9,
+        zoom: 7,
         center: home,
       });
       new google.maps.Marker({
@@ -70,49 +70,49 @@ export default class extends Component {
       // console.log(southYorkshire);
       console.log();
       [
-        // ...bedfordshire,
-        // ...buckinghamshire,
-        // ...cambridgeshire,
-        ...cheshire,
-        // ...cleveland,
-        // ...cornwall,
-        // ...cumbria,
-        ...derbyshire,
-        // ...devon,
-        // ...dorset,
-        // ...durham,
-        // ...essex,
-        // ...gloucestershire,
-        // ...hampshire,
-        // ...hertfordshire,
-        // ...ireland,
-        // ...isleOfMan,
-        // ...kent,
-        ...lancashire,
-        ...leicestershire,
-        ...lincolnshire,
-        // ...london,
-        // ...merseyside,
-        // ...norfolk,
-        // ...northamptonshire,
-        // ...northumberland,
-        ...nottinghamshire,
-        // ...oxfordshire,
-        // ...rutland,
-        // ...scotland,
-        // ...shropshire,
-        // ...somerset,
-        // ...staffordshire,
-        // ...suffolk,
-        // ...surrey,
-        // ...sussex,
-        // ...tyneAndWear,
-        // ...wales,
-        // ...warwickshire,
-        // ...westMidlands,
-        // ...wiltshire,
-        // ...worcestershire,
-        ...yorkshire,
+        ...bedfordshire,
+        ...buckinghamshire,
+        ...cambridgeshire,
+        ...cheshire, // *
+        ...cleveland,
+        ...cornwall,
+        ...cumbria,
+        ...derbyshire, // *
+        ...devon,
+        ...dorset,
+        ...durham,
+        ...essex,
+        ...gloucestershire,
+        ...hampshire,
+        ...hertfordshire,
+        ...ireland,
+        ...isleOfMan,
+        ...kent,
+        ...lancashire, // *
+        ...leicestershire, // *
+        ...lincolnshire, // *
+        ...london,
+        ...merseyside,
+        ...norfolk,
+        ...northamptonshire,
+        ...northumberland,
+        ...nottinghamshire, // *
+        ...oxfordshire,
+        ...rutland,
+        ...scotland,
+        ...shropshire,
+        ...somerset,
+        ...staffordshire,
+        ...suffolk,
+        ...surrey,
+        ...sussex,
+        ...tyneAndWear,
+        ...wales,
+        ...warwickshire,
+        ...westMidlands,
+        ...wiltshire,
+        ...worcestershire,
+        ...yorkshire, // *
       ].forEach(({ condition, lat, lng, location, name, type, url }) => {
         if (!lat || !lng) return;
         const marker = new google.maps.Marker({
