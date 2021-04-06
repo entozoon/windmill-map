@@ -49,15 +49,10 @@ export default class extends Component {
   componentDidMount() {
     window.initMap = () => {
       const { google } = window;
-      const home = { lat: 53.3049009, lng: -1.3758539 };
+      const center = { lat: 53.3049009, lng: -1.3758539 };
       const map = new google.maps.Map(document.getElementById("map"), {
         zoom: 7,
-        center: home,
-      });
-      new google.maps.Marker({
-        position: home,
-        map,
-        label: "Home",
+        center,
       });
       let markers = [];
       const iconWindmill = {
@@ -118,7 +113,7 @@ export default class extends Component {
         const marker = new google.maps.Marker({
           position: { lat, lng },
           map,
-          label: name,
+          // label: name, // too much..
           icon: iconWindmill,
           url,
         });
@@ -139,7 +134,7 @@ export default class extends Component {
           ${condition ? `Condition: ${condition}<br />` : ``}
           ${
             url
-              ? `<a href="${url}" target="_blank">Visit windmillworld.com</a><br />`
+              ? `<a href="${url}" target="_blank">Visit on Windmill World</a><br />`
               : ``
           }
           ${lat && lng ? `<textarea>${lat},${lng}</textarea><br />` : ``}
