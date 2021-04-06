@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Logo from "../logo.inline.svg";
 import { Helmet } from "react-helmet";
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 import bedfordshire from "../data/bedfordshire";
 import buckinghamshire from "../data/buckinghamshire";
 import cambridgeshire from "../data/cambridgeshire";
@@ -45,6 +45,7 @@ import westMidlands from "../data/westMidlands";
 import wiltshire from "../data/wiltshire";
 import worcestershire from "../data/worcestershire";
 import yorkshire from "../data/yorkshire";
+import { styles } from "../styles";
 export default class extends Component {
   componentDidMount() {
     window.initMap = () => {
@@ -53,6 +54,7 @@ export default class extends Component {
       const map = new google.maps.Map(document.getElementById("map"), {
         zoom: 7,
         center,
+        styles,
       });
       let markers = [];
       const iconWindmill = {
@@ -160,10 +162,15 @@ export default class extends Component {
           />
         </Helmet>
         <header className="header">
-          <Link to="/" alt="MichaelCook.tech" className="logo">
+          <a
+            target="_blank"
+            href="http://michaelcook.tech"
+            alt="MichaelCook.tech"
+            className="logo"
+          >
             {/* <img src={Logo} title="MichaelCook.tech" className="logo" /> */}
             <Logo />
-          </Link>
+          </a>
         </header>
         <main>
           <div id="map" />

@@ -40,14 +40,14 @@ footer {
   width: 10em;
   margin: 1em 5em 0 auto;
   svg {
-    fill: hotpink;
+    fill: white;
   }
 }
 main {
   margin: 0 auto;
 }
 a {
-  color: $brand-2;
+  color: white;
   text-decoration: none;
   &:hover,
   &:focus {
