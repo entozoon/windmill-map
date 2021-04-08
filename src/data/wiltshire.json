@@ -9,15 +9,6 @@
     "condition": "converted - now a bed and breakfast"
   },
   {
-    "name": "Saxon Mill",
-    "lat": 51.51839,
-    "lng": -1.7284,
-    "url": "http://www.windmillworld.com/millid/1767.htm",
-    "location": "Chiseldon",
-    "type": "tower mill",
-    "condition": "\n      dismantled and moved to Swindon\n    "
-  },
-  {
     "name": "Devizes",
     "lat": 51.35091,
     "lng": -1.9984,

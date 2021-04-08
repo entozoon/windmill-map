@@ -15,7 +15,7 @@ body {
   margin: 0;
   padding: 0;
   @include responsive-value(
-    $size-min: 18px,
+    $size-min: 16px,
     $size-max: 20px,
     $width-min: 300px,
     $width-max: 1800px,
@@ -83,10 +83,20 @@ textarea {
 }
 .gm-style {
   line-height: 1.4;
+  &,
+  [class^="gm"] {
+    font: inherit;
+    font-size: inherit !important;
+  }
   a {
     text-decoration: underline;
   }
   button img {
     filter: invert(1);
+  }
+}
+.infowindow {
+  span {
+    text-transform: capitalize;
   }
 }

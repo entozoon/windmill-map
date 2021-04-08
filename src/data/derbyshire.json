@@ -106,14 +106,5 @@
     "location": "\nSouth Normanton\n",
     "type": "tower mill",
     "condition": "house converted"
-  },
-  {
-    "name": "The Post Mill",
-    "lat": 53.09979,
-    "lng": -1.3399,
-    "url": "http://www.windmillworld.com/millid/1470.htm",
-    "location": "\nSouth Normanton\n",
-    "type": "post mill",
-    "condition": "\n       remains dismantled and put in storage, but kept so badly that most are believed to have\n       completely rotted away\n    "
   }
 ]

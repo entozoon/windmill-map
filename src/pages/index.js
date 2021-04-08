@@ -46,6 +46,10 @@ import wiltshire from "../data/wiltshire";
 import worcestershire from "../data/worcestershire";
 import yorkshire from "../data/yorkshire";
 import { styles } from "../styles";
+const capitalise = (s) => {
+  if (typeof s !== "string") return "";
+  return s.charAt(0).toUpperCase() + s.slice(1);
+};
 export default class extends Component {
   componentDidMount() {
     window.initMap = () => {
@@ -131,16 +135,22 @@ export default class extends Component {
           //   url,
           // }),
           content: `
+          <div class="infowindow">
           ${name ? `<h2>${name}</h2><br />` : ``}
-          ${type ? `Type: ${type}<br />` : ``}
-          ${condition ? `Condition: ${condition}<br />` : ``}
+          ${type ? `Type: ${capitalise(type)}<br />` : ``}
+          ${lat && lng ? `GPS: ${lat},${lng}<br />` : ``}
+          ${condition ? `Condition: ${capitalise(condition)}<br />` : ``}
+          <br />
           ${
             url
-              ? `<a href="${url}" target="_blank">Visit on Windmill World</a><br />`
+              ? `<a href="${url}" target="_blank">» Windmill World</a><br />`
+              : ``
+          }${
+            lat && lng
+              ? `<a href="https://www.google.com/maps/search/${lat},${lng}" target="_blank">» Google Maps</a><br />`
               : ``
           }
-          ${lat && lng ? `<textarea>${lat},${lng}</textarea><br />` : ``}
-          `,
+          </div>`,
         });
         // google.maps.event.addListener(marker, "click", (e) => {
         //   window.location.href = marker.url;
