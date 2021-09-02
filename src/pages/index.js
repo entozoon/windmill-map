@@ -51,157 +51,186 @@ const capitalise = (s) => {
   return s.charAt(0).toUpperCase() + s.slice(1);
 };
 export default class extends Component {
-  componentDidMount() {
-    window.initMap = () => {
-      const { google } = window;
-      const center = { lat: 53.3049009, lng: -1.3758539 };
-      const map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 7,
-        center,
-        styles,
+  initMarkers = () => {
+    const { google } = window;
+    const center = { lat: 53.3049009, lng: -1.3758539 };
+    this.map = new google.maps.Map(document.getElementById("map"), {
+      zoom: 7,
+      center,
+      styles,
+    });
+    this.markers = [];
+    const iconWindmill = {
+      url: "./icon-windmill.png",
+      size: new google.maps.Size(26, 30),
+      scaledSize: new google.maps.Size(26, 30),
+      anchor: new google.maps.Point(26 / 2, 30 / 2),
+      labelOrigin: new google.maps.Point(26 / 2, 34),
+    };
+    // console.log(southYorkshire);
+    [
+      ...bedfordshire,
+      ...buckinghamshire,
+      ...cambridgeshire,
+      ...cheshire, // *
+      ...cleveland,
+      ...cornwall,
+      ...cumbria,
+      ...derbyshire, // *
+      ...devon,
+      ...dorset,
+      ...durham,
+      ...essex,
+      ...gloucestershire,
+      ...hampshire,
+      ...hertfordshire,
+      ...ireland,
+      ...isleOfMan,
+      ...kent,
+      ...lancashire, // *
+      ...leicestershire, // *
+      ...lincolnshire, // *
+      ...london,
+      ...merseyside,
+      ...norfolk,
+      ...northamptonshire,
+      ...northumberland,
+      ...nottinghamshire, // *
+      ...oxfordshire,
+      ...rutland,
+      ...scotland,
+      ...shropshire,
+      ...somerset,
+      ...staffordshire,
+      ...suffolk,
+      ...surrey,
+      ...sussex,
+      ...tyneAndWear,
+      ...wales,
+      ...warwickshire,
+      ...westMidlands,
+      ...wiltshire,
+      ...worcestershire,
+      ...yorkshire, // *
+    ].forEach(({ condition, lat, lng, location, name, type, url }) => {
+      if (!lat || !lng) return;
+      const marker = new google.maps.Marker({
+        position: { lat, lng },
+        map: this.map,
+        // label: name, // too much..
+        icon: iconWindmill,
+        url,
       });
-      let markers = [];
-      const iconWindmill = {
-        url: "./icon-windmill.png",
-        size: new google.maps.Size(26, 30),
-        scaledSize: new google.maps.Size(26, 30),
-        anchor: new google.maps.Point(26 / 2, 30 / 2),
-        labelOrigin: new google.maps.Point(26 / 2, 34),
-      };
-      // console.log(southYorkshire);
-      [
-        ...bedfordshire,
-        ...buckinghamshire,
-        ...cambridgeshire,
-        ...cheshire, // *
-        ...cleveland,
-        ...cornwall,
-        ...cumbria,
-        ...derbyshire, // *
-        ...devon,
-        ...dorset,
-        ...durham,
-        ...essex,
-        ...gloucestershire,
-        ...hampshire,
-        ...hertfordshire,
-        ...ireland,
-        ...isleOfMan,
-        ...kent,
-        ...lancashire, // *
-        ...leicestershire, // *
-        ...lincolnshire, // *
-        ...london,
-        ...merseyside,
-        ...norfolk,
-        ...northamptonshire,
-        ...northumberland,
-        ...nottinghamshire, // *
-        ...oxfordshire,
-        ...rutland,
-        ...scotland,
-        ...shropshire,
-        ...somerset,
-        ...staffordshire,
-        ...suffolk,
-        ...surrey,
-        ...sussex,
-        ...tyneAndWear,
-        ...wales,
-        ...warwickshire,
-        ...westMidlands,
-        ...wiltshire,
-        ...worcestershire,
-        ...yorkshire, // *
-      ].forEach(({ condition, lat, lng, location, name, type, url }) => {
-        if (!lat || !lng) return;
-        const marker = new google.maps.Marker({
-          position: { lat, lng },
-          map,
-          // label: name, // too much..
-          icon: iconWindmill,
-          url,
-        });
-        markers.push(marker);
-        const infowindow = new google.maps.InfoWindow({
-          // content: JSON.stringify({
-          //   condition,
-          //   lat,
-          //   lng,
-          //   location,
-          //   name,
-          //   type,
-          //   url,
-          // }),
-          content: `
-          <div class="infowindow">
-          ${name ? `<h2>${name}</h2><br />` : ``}
-          ${type ? `Type: ${capitalise(type)}<br />` : ``}
-          ${lat && lng ? `GPS: ${lat},${lng}<br />` : ``}
-          ${condition ? `Condition: ${capitalise(condition)}<br />` : ``}
-          <br />
-          ${
-            url
-              ? `<a href="${url}" target="_blank">» Windmill World</a><br />`
-              : ``
-          }${
-            lat && lng
-              ? `<a href="https://www.google.com/maps/search/${lat},${lng}" target="_blank">» Google Maps</a><br />`
-              : ``
-          }
-          </div>`,
-        });
-        // google.maps.event.addListener(marker, "click", (e) => {
-        //   window.location.href = marker.url;
-        // });
-        marker.addListener("click", () => {
-          infowindow.open(map, marker);
-        });
+      this.markers.push(marker);
+      const infowindow = new google.maps.InfoWindow({
+        // content: JSON.stringify({
+        //   condition,
+        //   lat,
+        //   lng,
+        //   location,
+        //   name,
+        //   type,
+        //   url,
+        // }),
+        content: `
+        <div class="infowindow">
+        ${name ? `<h2>${name}</h2><br />` : ``}
+        ${type ? `Type: ${capitalise(type)}<br />` : ``}
+        ${lat && lng ? `GPS: ${lat},${lng}<br />` : ``}
+        ${condition ? `Condition: ${capitalise(condition)}<br />` : ``}
+        <br />
+        ${
+          url
+            ? `<a href="${url}" target="_blank">» Windmill World</a><br />`
+            : ``
+        }${
+          lat && lng
+            ? `<a href="https://www.google.com/maps/search/${lat},${lng}" target="_blank">» Google Maps</a><br />`
+            : ``
+        }
+        </div>`,
       });
-      //
-      const input = document.getElementById("pac-input"); // not .. how you do it but
-      const searchBox = new google.maps.places.SearchBox(input);
-      map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
-      // Bias the SearchBox results towards current map's viewport.
-      map.addListener("bounds_changed", () => {
-        searchBox.setBounds(map.getBounds());
+      // google.maps.event.addListener(marker, "click", (e) => {
+      //   window.location.href = marker.url;
+      // });
+      marker.addListener("click", () => {
+        infowindow.open(this.map, marker);
       });
-      searchBox.addListener("places_changed", () => {
-        // It'll find a bunch of places in a little area, so just let it zoom the map with those various places as the bounds but don't bother with icons
-        const places = searchBox.getPlaces();
-        if (places.length == 0) {
+    });
+  };
+  initSearch = () => {
+    const { google } = window;
+    const input = document.getElementById("pac-input"); // not .. how you do it but
+    const searchBox = new google.maps.places.SearchBox(input);
+    // this.map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
+    // Bias the SearchBox results towards current map's viewport.
+    this.map.addListener("bounds_changed", () => {
+      searchBox.setBounds(this.map.getBounds());
+    });
+    searchBox.addListener("places_changed", () => {
+      // It'll find a bunch of places in a little area, so just let it zoom the map with those various places as the bounds but don't bother with icons
+      const places = searchBox.getPlaces();
+      if (!places.length) {
+        return;
+      }
+      const bounds = new google.maps.LatLngBounds();
+      places.forEach((place) => {
+        if (!place.geometry || !place.geometry.location) {
+          console.log("Returned place contains no geometry");
           return;
         }
-        const bounds = new google.maps.LatLngBounds();
-        places.forEach((place) => {
-          if (!place.geometry || !place.geometry.location) {
-            console.log("Returned place contains no geometry");
-            return;
-          }
-          const icon = {
-            url: place.icon,
-            size: new google.maps.Size(71, 71),
-            origin: new google.maps.Point(0, 0),
-            anchor: new google.maps.Point(17, 34),
-            scaledSize: new google.maps.Size(25, 25),
-          };
-          // markers.push(
-          //   new google.maps.Marker({
-          //     map,
-          //     icon,
-          //     title: place.name,
-          //     position: place.geometry.location,
-          //   })
-          // );
-          if (place.geometry.viewport) {
-            // Only geocodes have viewport.
-            bounds.union(place.geometry.viewport);
-          } else {
-            bounds.extend(place.geometry.location);
-          }
-        });
-        map.fitBounds(bounds);
+        // const icon = {
+        //   url: place.icon,
+        //   size: new google.maps.Size(71, 71),
+        //   origin: new google.maps.Point(0, 0),
+        //   anchor: new google.maps.Point(17, 34),
+        //   scaledSize: new google.maps.Size(25, 25),
+        // };
+        // markers.push(
+        //   new google.maps.Marker({
+        //     map,
+        //     icon,
+        //     title: place.name,
+        //     position: place.geometry.location,
+        //   })
+        // );
+        if (place.geometry.viewport) {
+          // Only geocodes have viewport.
+          bounds.union(place.geometry.viewport);
+        } else {
+          bounds.extend(place.geometry.location);
+        }
       });
+      this.map.fitBounds(bounds);
+    });
+  };
+  locationClick = (e) => {
+    e.preventDefault();
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          const pos = {
+            lat: position.coords.latitude,
+            lng: position.coords.longitude,
+          };
+          // infoWindow.setPosition(pos);
+          // infoWindow.setContent("Location found.");
+          // infoWindow.open(map);
+          this.map.setCenter(pos);
+        },
+        () => {
+          // handleLocationError(true, infoWindow, this.map.getCenter());
+        }
+      );
+    } else {
+      // Browser doesn't support Geolocation
+      // handleLocationError(false, infoWindow, this.map.getCenter());
+    }
+  };
+  componentDidMount() {
+    window.initMap = () => {
+      this.initMarkers();
+      this.initSearch();
     };
   }
   render() {
@@ -214,6 +243,10 @@ export default class extends Component {
           />
         </Helmet>
         <header className="header">
+          <button class="button" onClick={this.locationClick}>
+            GPS
+          </button>
+          <input id="pac-input" type="text" placeholder="Search" />
           <a
             target="_blank"
             href="http://michaelcook.tech"
@@ -226,7 +259,6 @@ export default class extends Component {
         </header>
         <main>
           <div id="map" />
-          <input id="pac-input" type="text" placeholder="Search" />
         </main>
         <footer>© MichaelCook.tech {new Date().getFullYear()}</footer>
       </>

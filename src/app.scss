@@ -23,12 +23,13 @@ body {
   );
 }
 header {
+  display: flex;
+  justify-content: flex-end;
   position: fixed;
   top: 0;
   left: 50%;
-  z-index: 10;
   width: 50%;
-  display: flex;
+  z-index: 10;
 }
 footer {
   position: fixed;
@@ -42,7 +43,7 @@ footer {
 .logo {
   display: block;
   width: 10em;
-  margin: 1em 5em 0 auto;
+  margin: 1em 5em 0 1em;
   @media (max-width: 768px) {
     display: none;
   }
@@ -104,7 +105,20 @@ textarea {
   }
 }
 #pac-input {
+  padding: 0 0.5em;
   margin: 0.6em 0;
   background: rgba(black, 0.5);
   border: 1px solid hotpink;
+  border-radius: 0.2em;
+}
+.button {
+  // position: absolute;
+  // top: 0;
+  // left: 50%;
+  margin: 0.6em;
+  padding: 0 0.5em;
+  background: hotpink;
+  color: black;
+  border-radius: 0.2em;
+  cursor: pointer;
 }
