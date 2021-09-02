@@ -1,56 +1,64 @@
 import React, { Component } from "react";
-import Logo from "../logo.inline.svg";
-import { Helmet } from "react-helmet";
-import { graphql } from "gatsby";
-import bedfordshire from "../data/bedfordshire";
-import buckinghamshire from "../data/buckinghamshire";
-import cambridgeshire from "../data/cambridgeshire";
-import cheshire from "../data/cheshire";
-import cleveland from "../data/cleveland";
-import cornwall from "../data/cornwall";
-import cumbria from "../data/cumbria";
-import derbyshire from "../data/derbyshire";
-import devon from "../data/devon";
-import dorset from "../data/dorset";
-import durham from "../data/durham";
-import essex from "../data/essex";
-import gloucestershire from "../data/gloucestershire";
-import hampshire from "../data/hampshire";
-import hertfordshire from "../data/hertfordshire";
-import ireland from "../data/ireland";
-import isleOfMan from "../data/isleOfMan";
-import kent from "../data/kent";
-import lancashire from "../data/lancashire";
-import leicestershire from "../data/leicestershire";
-import lincolnshire from "../data/lincolnshire";
-import london from "../data/london";
-import merseyside from "../data/merseyside";
-import norfolk from "../data/norfolk";
-import northamptonshire from "../data/northamptonshire";
-import northumberland from "../data/northumberland";
-import nottinghamshire from "../data/nottinghamshire";
-import oxfordshire from "../data/oxfordshire";
-import rutland from "../data/rutland";
-import scotland from "../data/scotland";
-import shropshire from "../data/shropshire";
-import somerset from "../data/somerset";
-import staffordshire from "../data/staffordshire";
-import suffolk from "../data/suffolk";
-import surrey from "../data/surrey";
-import sussex from "../data/sussex";
-import tyneAndWear from "../data/tyneAndWear";
-import wales from "../data/wales";
-import warwickshire from "../data/warwickshire";
-import westMidlands from "../data/westMidlands";
-import wiltshire from "../data/wiltshire";
-import worcestershire from "../data/worcestershire";
-import yorkshire from "../data/yorkshire";
-import { styles } from "../styles";
+import Logo from "./logo.inline.svg";
+import bedfordshire from "./data/bedfordshire";
+import buckinghamshire from "./data/buckinghamshire";
+import cambridgeshire from "./data/cambridgeshire";
+import cheshire from "./data/cheshire";
+import cleveland from "./data/cleveland";
+import cornwall from "./data/cornwall";
+import cumbria from "./data/cumbria";
+import derbyshire from "./data/derbyshire";
+import devon from "./data/devon";
+import dorset from "./data/dorset";
+import durham from "./data/durham";
+import essex from "./data/essex";
+import gloucestershire from "./data/gloucestershire";
+import hampshire from "./data/hampshire";
+import hertfordshire from "./data/hertfordshire";
+import ireland from "./data/ireland";
+import isleOfMan from "./data/isleOfMan";
+import kent from "./data/kent";
+import lancashire from "./data/lancashire";
+import leicestershire from "./data/leicestershire";
+import lincolnshire from "./data/lincolnshire";
+import london from "./data/london";
+import merseyside from "./data/merseyside";
+import norfolk from "./data/norfolk";
+import northamptonshire from "./data/northamptonshire";
+import northumberland from "./data/northumberland";
+import nottinghamshire from "./data/nottinghamshire";
+import oxfordshire from "./data/oxfordshire";
+import rutland from "./data/rutland";
+import scotland from "./data/scotland";
+import shropshire from "./data/shropshire";
+import somerset from "./data/somerset";
+import staffordshire from "./data/staffordshire";
+import suffolk from "./data/suffolk";
+import surrey from "./data/surrey";
+import sussex from "./data/sussex";
+import tyneAndWear from "./data/tyneAndWear";
+import wales from "./data/wales";
+import warwickshire from "./data/warwickshire";
+import westMidlands from "./data/westMidlands";
+import wiltshire from "./data/wiltshire";
+import worcestershire from "./data/worcestershire";
+import yorkshire from "./data/yorkshire";
+import { styles } from "./styles";
+import "./App.scss";
 const capitalise = (s) => {
   if (typeof s !== "string") return "";
   return s.charAt(0).toUpperCase() + s.slice(1);
 };
-export default class extends Component {
+const loadScript = (url) => {
+  var index = window.document.getElementsByTagName("script")[0];
+  var script = window.document.createElement("script");
+  script.src = url;
+  script.async = true;
+  script.defer = true;
+  index.parentNode.insertBefore(script, index);
+};
+export default class App extends Component {
+  state = { gpsLoading: false };
   initMarkers = () => {
     const { google } = window;
     const center = { lat: 53.3049009, lng: -1.3758539 };
@@ -67,7 +75,7 @@ export default class extends Component {
       anchor: new google.maps.Point(26 / 2, 30 / 2),
       labelOrigin: new google.maps.Point(26 / 2, 34),
     };
-    // console.log(southYorkshire);
+    // console.log(yorkshire);
     [
       ...bedfordshire,
       ...buckinghamshire,
@@ -133,7 +141,7 @@ export default class extends Component {
         //   url,
         // }),
         content: `
-        <div class="infowindow">
+        <div Name"infowindow">
         ${name ? `<h2>${name}</h2><br />` : ``}
         ${type ? `Type: ${capitalise(type)}<br />` : ``}
         ${lat && lng ? `GPS: ${lat},${lng}<br />` : ``}
@@ -141,11 +149,11 @@ export default class extends Component {
         <br />
         ${
           url
-            ? `<a href="${url}" target="_blank">» Windmill World</a><br />`
+            ? `<a href="${url}" target="_blank" rel="noreferrer">» Windmill World</a><br />`
             : ``
         }${
           lat && lng
-            ? `<a href="https://www.google.com/maps/search/${lat},${lng}" target="_blank">» Google Maps</a><br />`
+            ? `<a href="https://www.google.com/maps/search/${lat},${lng}" target="_blank" rel="noreferrer">» Google Maps</a><br />`
             : ``
         }
         </div>`,
@@ -204,57 +212,58 @@ export default class extends Component {
       this.map.fitBounds(bounds);
     });
   };
-  locationClick = (e) => {
+  gpsClick = (e) => {
     e.preventDefault();
     if (navigator.geolocation) {
+      this.setState({ gpsLoading: true });
       navigator.geolocation.getCurrentPosition(
         (position) => {
           const pos = {
             lat: position.coords.latitude,
             lng: position.coords.longitude,
           };
-          // infoWindow.setPosition(pos);
-          // infoWindow.setContent("Location found.");
-          // infoWindow.open(map);
           this.map.setCenter(pos);
+          this.map.setZoom(16);
+          this.setState({ gpsLoading: false });
         },
         () => {
           // handleLocationError(true, infoWindow, this.map.getCenter());
         }
       );
     } else {
-      // Browser doesn't support Geolocation
-      // handleLocationError(false, infoWindow, this.map.getCenter());
+      alert("Please enable location services");
     }
   };
   componentDidMount() {
+    if (!this.scriptsLoaded) {
+      this.scriptsLoaded = true;
+      loadScript(
+        "https://maps.googleapis.com/maps/api/js?key=AIzaSyD968Zkqu1mOL8D_F_JDWAeX72-JUBp4ok&libraries=places&callback=window.initMap"
+      );
+    }
     window.initMap = () => {
       this.initMarkers();
       this.initSearch();
     };
   }
   render() {
+    const { gpsLoading } = this.state;
     return (
       <>
-        <Helmet>
-          <script
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD968Zkqu1mOL8D_F_JDWAeX72-JUBp4ok&libraries=places&callback=window.initMap"
-            defer
-          />
-        </Helmet>
         <header className="header">
-          <button class="button" onClick={this.locationClick}>
-            GPS
+          <button className="button" onClick={this.gpsClick}>
+            🧭 {gpsLoading ? "......" : "GPS"}
           </button>
           <input id="pac-input" type="text" placeholder="Search" />
           <a
             target="_blank"
+            rel="noreferrer"
             href="http://michaelcook.tech"
             alt="MichaelCook.tech"
             className="logo"
           >
-            {/* <img src={Logo} title="MichaelCook.tech" className="logo" /> */}
-            <Logo />
+            <img src={Logo} alt="MichaelCook.tech" />
+            {/* <Logo /> */}
           </a>
         </header>
         <main>
@@ -265,35 +274,3 @@ export default class extends Component {
     );
   }
 }
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          title
-          # date(formatString: "DD MMM YYYY")
-          # description
-          # tags
-          # images {
-          #   publicURL
-          #   childImageSharp {
-          #     fixed(width: 400, height: 250) {
-          #       # ...GatsbyImageSharpFixed
-          #       ...GatsbyImageSharpFixed_tracedSVG
-          #     }
-          #   }
-          # }
-        }
-      }
-    }
-  }
-`;
