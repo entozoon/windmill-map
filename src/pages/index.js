@@ -69,7 +69,6 @@ export default class extends Component {
         labelOrigin: new google.maps.Point(26 / 2, 34),
       };
       // console.log(southYorkshire);
-      console.log();
       [
         ...bedfordshire,
         ...buckinghamshire,
@@ -159,6 +158,50 @@ export default class extends Component {
           infowindow.open(map, marker);
         });
       });
+      //
+      const input = document.getElementById("pac-input"); // not .. how you do it but
+      const searchBox = new google.maps.places.SearchBox(input);
+      map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
+      // Bias the SearchBox results towards current map's viewport.
+      map.addListener("bounds_changed", () => {
+        searchBox.setBounds(map.getBounds());
+      });
+      searchBox.addListener("places_changed", () => {
+        // It'll find a bunch of places in a little area, so just let it zoom the map with those various places as the bounds but don't bother with icons
+        const places = searchBox.getPlaces();
+        if (places.length == 0) {
+          return;
+        }
+        const bounds = new google.maps.LatLngBounds();
+        places.forEach((place) => {
+          if (!place.geometry || !place.geometry.location) {
+            console.log("Returned place contains no geometry");
+            return;
+          }
+          const icon = {
+            url: place.icon,
+            size: new google.maps.Size(71, 71),
+            origin: new google.maps.Point(0, 0),
+            anchor: new google.maps.Point(17, 34),
+            scaledSize: new google.maps.Size(25, 25),
+          };
+          // markers.push(
+          //   new google.maps.Marker({
+          //     map,
+          //     icon,
+          //     title: place.name,
+          //     position: place.geometry.location,
+          //   })
+          // );
+          if (place.geometry.viewport) {
+            // Only geocodes have viewport.
+            bounds.union(place.geometry.viewport);
+          } else {
+            bounds.extend(place.geometry.location);
+          }
+        });
+        map.fitBounds(bounds);
+      });
     };
   }
   render() {
@@ -166,8 +209,7 @@ export default class extends Component {
       <>
         <Helmet>
           <script
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD968Zkqu1mOL8D_F_JDWAeX72-JUBp4ok&callback=window.initMap"
-            async
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD968Zkqu1mOL8D_F_JDWAeX72-JUBp4ok&libraries=places&callback=window.initMap"
             defer
           />
         </Helmet>
@@ -184,6 +226,7 @@ export default class extends Component {
         </header>
         <main>
           <div id="map" />
+          <input id="pac-input" type="text" placeholder="Search" />
         </main>
         <footer>© MichaelCook.tech {new Date().getFullYear()}</footer>
       </>

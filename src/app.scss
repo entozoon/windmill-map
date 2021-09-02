@@ -43,6 +43,9 @@ footer {
   display: block;
   width: 10em;
   margin: 1em 5em 0 auto;
+  @media (max-width: 768px) {
+    display: none;
+  }
   svg {
     fill: white;
   }
@@ -99,4 +102,9 @@ textarea {
   span {
     text-transform: capitalize;
   }
+}
+#pac-input {
+  margin: 0.6em 0;
+  background: rgba(black, 0.5);
+  border: 1px solid hotpink;
 }
